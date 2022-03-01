@@ -1,0 +1,3195 @@
+,index,CTYNAME,GDP2019,CTYNAME,POPESTIMATE2019
+0,2.0,Alabama,"203,383,898",Alabama,4907965
+1,3.0,Autauga,"1,540,762",Autauga County,55769
+2,4.0,Baldwin,"7,134,734",Baldwin County,223565
+3,5.0,Barbour,"729,105",Barbour County,24657
+4,6.0,Bibb,"380,453",Bibb County,22313
+5,7.0,Blount,"932,215",Blount County,57840
+6,8.0,Bullock,"247,229",Bullock County,10144
+7,9.0,Butler,"615,641",Butler County,19501
+8,10.0,Calhoun,"4,114,829",Calhoun County,114070
+9,11.0,Chambers,"817,533",Chambers County,33244
+10,12.0,Cherokee,"527,358",Cherokee County,26254
+11,13.0,Chilton,"980,365",Chilton County,44313
+12,14.0,Choctaw,"492,926",Choctaw County,12577
+13,15.0,Clarke,"736,710",Clarke County,23651
+14,16.0,Clay,"419,318",Clay County,13265
+15,17.0,Cleburne,"274,512",Cleburne County,14952
+16,18.0,Coffee,"1,315,749",Coffee County,52639
+17,19.0,Colbert,"2,341,000",Colbert County,55241
+18,20.0,Conecuh,"466,540",Conecuh County,12055
+19,21.0,Coosa,"176,482",Coosa County,10677
+20,22.0,Covington,"1,100,109",Covington County,37082
+21,23.0,Crenshaw,"428,320",Crenshaw County,13811
+22,24.0,Cullman,"2,649,646",Cullman County,83644
+23,25.0,Dale,"2,522,516",Dale County,49294
+24,26.0,Dallas,"1,102,126",Dallas County,37182
+25,27.0,DeKalb,"1,857,673",DeKalb County,71506
+26,28.0,Elmore,"1,809,270",Elmore County,81575
+27,29.0,Escambia,"1,206,764",Escambia County,36569
+28,30.0,Etowah,"2,766,192",Etowah County,102460
+29,31.0,Fayette,"321,519",Fayette County,16279
+30,32.0,Franklin,"926,671",Franklin County,31587
+31,33.0,Geneva,"526,336",Geneva County,26309
+32,34.0,Greene,"218,149",Greene County,8104
+33,35.0,Hale,"241,685",Hale County,14669
+34,36.0,Henry,"407,934",Henry County,17125
+35,37.0,Houston,"4,957,322",Houston County,106240
+36,38.0,Jackson,"1,381,755",Jackson County,51672
+37,39.0,Jefferson,"41,244,762",Jefferson County,658539
+38,40.0,Lamar,"305,015",Lamar County,13817
+39,41.0,Lauderdale,"2,367,072",Lauderdale County,93028
+40,42.0,Lawrence,"501,518",Lawrence County,32851
+41,43.0,Lee,"5,603,187",Lee County,165015
+42,44.0,Limestone,"3,572,973",Limestone County,99136
+43,45.0,Lowndes,"377,807",Lowndes County,9726
+44,46.0,Macon,"478,726",Macon County,18065
+45,47.0,Madison,"23,670,284",Madison County,372547
+46,48.0,Marengo,"681,595",Marengo County,18919
+47,49.0,Marion,"792,988",Marion County,29826
+48,50.0,Marshall,"3,276,199",Marshall County,96751
+49,51.0,Mobile,"18,652,926",Mobile County,413516
+50,52.0,Monroe,"599,556",Monroe County,20689
+51,53.0,Montgomery,"12,558,288",Montgomery County,226074
+52,54.0,Morgan,"5,135,887",Morgan County,119630
+53,55.0,Perry,"192,844",Perry County,8940
+54,56.0,Pickens,"429,936",Pickens County,19940
+55,57.0,Pike,"1,286,294",Pike County,33034
+56,58.0,Randolph,"464,111",Randolph County,22781
+57,59.0,Russell,"1,313,851",Russell County,58098
+58,60.0,St. Clair,"1,871,513",St. Clair County,89735
+59,61.0,Shelby,"10,814,962",Shelby County,218176
+60,62.0,Sumter,"294,189",Sumter County,12358
+61,63.0,Talladega,"2,864,298",Talladega County,80226
+62,64.0,Tallapoosa,"1,265,550",Tallapoosa County,40337
+63,65.0,Tuscaloosa,"10,491,624",Tuscaloosa County,210321
+64,66.0,Walker,"1,694,530",Walker County,63680
+65,67.0,Washington,"789,922",Washington County,16279
+66,68.0,Wilcox,"384,636",Wilcox County,10396
+67,69.0,Winston,"698,066",Winston County,23700
+68,71.0,Alaska,"53,336,499",Alaska,733603
+69,72.0,Aleutians East Borough,"211,829",Aleutians East Borough,3355
+70,73.0,Aleutians West Census Area,"372,939",Aleutians West Census Area,5702
+71,74.0,Anchorage Municipality,"21,096,610",Anchorage Municipality,288790
+72,75.0,Bethel Census Area,"669,380",Bethel Census Area,18493
+73,76.0,Bristol Bay Borough,"125,131",Bristol Bay Borough,840
+74,77.0,Chugach Census Area1,(NA),Chugach Census Area,6509
+75,78.0,Copper River Census Area1,(NA),Copper River Census Area,2886
+76,79.0,Denali Borough,"259,591",Denali Borough,2125
+77,80.0,Dillingham Census Area,"239,239",Dillingham Census Area,4932
+78,81.0,Fairbanks North Star Borough,"5,254,634",Fairbanks North Star Borough,97088
+79,82.0,Haines Borough,"108,666",Haines Borough,2561
+80,83.0,Hoonah-Angoon Census Area,"99,646",Hoonah-Angoon Census Area,2144
+81,84.0,Juneau City and Borough,"2,302,465",Juneau City and Borough,32038
+82,85.0,Kenai Peninsula Borough,"2,703,389",Kenai Peninsula Borough,58914
+83,86.0,Ketchikan Gateway Borough,"838,509",Ketchikan Gateway Borough,13905
+84,87.0,Kodiak Island Borough,"717,581",Kodiak Island Borough,13209
+85,88.0,Kusilvak Census Area,"141,922",Kusilvak Census Area,8384
+86,89.0,Lake and Peninsula Borough,"85,613",Lake and Peninsula Borough,1583
+87,90.0,Matanuska-Susitna Borough,"2,556,968",Matanuska-Susitna Borough,108578
+88,91.0,Nome Census Area,"407,769",Nome Census Area,10040
+89,92.0,North Slope Borough,"10,389,622",North Slope Borough,9433
+90,93.0,Northwest Arctic Borough,"666,604",Northwest Arctic Borough,7673
+91,94.0,Petersburg Borough,"185,348",Petersburg Borough,3294
+92,95.0,Prince of Wales-Hyder Census Area,"263,853",Prince of Wales-Hyder Census Area,6211
+93,96.0,Sitka City and Borough,"441,235",Sitka City and Borough,8501
+94,97.0,Skagway Municipality,"99,677",Skagway Municipality,1193
+95,98.0,Southeast Fairbanks Census Area,"602,812",Southeast Fairbanks Census Area,6879
+96,99.0,Valdez-Cordova Census Area1,"2,255,039",Wrangell City and Borough,2513
+97,100.0,Wrangell City and Borough,"94,807",Yakutat City and Borough,576
+98,101.0,Yakutat City and Borough,"28,935",Yukon-Koyukuk Census Area,5254
+99,102.0,Yukon-Koyukuk Census Area,"270,179",Arizona,7291843
+100,104.0,Arizona,"323,894,348",Apache County,71920
+101,105.0,Apache,"2,128,397",Cochise County,127248
+102,106.0,Cochise,"4,280,992",Coconino County,143967
+103,107.0,Coconino,"6,829,438",Gila County,54077
+104,108.0,Gila,"1,687,658",Graham County,38890
+105,109.0,Graham,"947,920",Greenlee County,9467
+106,110.0,Greenlee,"1,576,320",La Paz County,21257
+107,111.0,La Paz,"682,877",Maricopa County,4492261
+108,112.0,Maricopa,"233,321,462",Mohave County,213846
+109,113.0,Mohave,"5,074,156",Navajo County,111037
+110,114.0,Navajo,"2,642,699",Pima County,1049261
+111,115.0,Pima,"40,179,930",Pinal County,461640
+112,116.0,Pinal,"8,585,413",Santa Cruz County,46728
+113,117.0,Santa Cruz,"1,767,253",Yavapai County,236062
+114,118.0,Yavapai,"6,692,200",Yuma County,214182
+115,119.0,Yuma,"7,384,506",Arkansas,3020985
+116,121.0,Arkansas,"116,790,945",Arkansas County,17515
+117,122.0,Arkansas,"966,397",Ashley County,19742
+118,123.0,Ashley,"677,007",Baxter County,41978
+119,124.0,Baxter,"1,278,578",Benton County,279835
+120,125.0,Benton,"14,096,756",Boone County,37616
+121,126.0,Boone,"1,170,571",Bradley County,10792
+122,127.0,Bradley,"298,606",Calhoun County,5137
+123,128.0,Calhoun,"310,815",Carroll County,28352
+124,129.0,Carroll,"790,413",Chicot County,10189
+125,130.0,Chicot,"242,945",Clark County,22365
+126,131.0,Clark,"714,943",Clay County,14494
+127,132.0,Clay,"298,149",Cleburne County,25019
+128,133.0,Cleburne,"715,489",Cleveland County,7937
+129,134.0,Cleveland,"118,887",Columbia County,23496
+130,135.0,Columbia,"833,191",Conway County,20905
+131,136.0,Conway,"749,372",Craighead County,110772
+132,137.0,Craighead,"4,334,486",Crawford County,63406
+133,138.0,Crawford,"1,547,475",Crittenden County,47924
+134,139.0,Crittenden,"1,679,445",Cross County,16333
+135,140.0,Cross,"397,141",Dallas County,6951
+136,141.0,Dallas,"190,580",Desha County,11400
+137,142.0,Desha,"511,387",Drew County,18092
+138,143.0,Drew,"559,291",Faulkner County,125828
+139,144.0,Faulkner,"3,561,759",Franklin County,17737
+140,145.0,Franklin,"412,443",Fulton County,12516
+141,146.0,Fulton,"163,622",Garland County,99472
+142,147.0,Garland,"3,054,365",Grant County,18287
+143,148.0,Grant,"385,744",Greene County,45316
+144,149.0,Greene,"1,329,611",Hempstead County,21568
+145,150.0,Hempstead,"861,068",Hot Spring County,33784
+146,151.0,Hot Spring,"873,798",Howard County,13219
+147,152.0,Howard,"538,514",Independence County,37819
+148,153.0,Independence,"1,634,129",Izard County,13620
+149,154.0,Izard,"258,246",Jackson County,16782
+150,155.0,Jackson,"640,155",Jefferson County,67137
+151,156.0,Jefferson,"2,749,951",Johnson County,26596
+152,157.0,Johnson,"655,736",Lafayette County,6656
+153,158.0,Lafayette,"126,838",Lawrence County,16440
+154,159.0,Lawrence,"394,968",Lee County,8889
+155,160.0,Lee,"162,592",Lincoln County,13012
+156,161.0,Lincoln,"220,915",Little River County,12368
+157,162.0,Little River,"438,064",Logan County,21495
+158,163.0,Logan,"438,825",Lonoke County,73648
+159,164.0,Lonoke,"1,193,391",Madison County,16519
+160,165.0,Madison,"342,893",Marion County,16645
+161,166.0,Marion,"545,770",Miller County,43370
+162,167.0,Miller,"1,233,604",Mississippi County,40717
+163,168.0,Mississippi,"2,570,710",Monroe County,6723
+164,169.0,Monroe,"175,131",Montgomery County,9047
+165,170.0,Montgomery,"125,093",Nevada County,8205
+166,171.0,Nevada,"223,053",Newton County,7712
+167,172.0,Newton,"91,962",Ouachita County,23372
+168,173.0,Ouachita,"559,672",Perry County,10417
+169,174.0,Perry,"136,283",Phillips County,17769
+170,175.0,Phillips,"473,931",Pike County,10705
+171,176.0,Pike,"211,886",Poinsett County,23502
+172,177.0,Poinsett,"538,448",Polk County,19944
+173,178.0,Polk,"489,078",Pope County,64145
+174,179.0,Pope,"2,600,390",Prairie County,8093
+175,180.0,Prairie,"164,926",Pulaski County,392318
+176,181.0,Pulaski,"26,399,358",Randolph County,18161
+177,182.0,Randolph,"437,346",St. Francis County,24977
+178,183.0,St. Francis,"651,201",Saline County,122550
+179,184.0,Saline,"2,275,529",Scott County,10217
+180,185.0,Scott,"255,301",Searcy County,7862
+181,186.0,Searcy,"156,642",Sebastian County,127688
+182,187.0,Sebastian,"6,099,593",Sevier County,16972
+183,188.0,Sevier,"450,128",Sharp County,17276
+184,189.0,Sharp,"304,247",Stone County,12614
+185,190.0,Stone,"215,539",Union County,38677
+186,191.0,Union,"2,444,503",Van Buren County,16529
+187,192.0,Van Buren,"480,600",Washington County,239392
+188,193.0,Washington,"10,459,272",White County,78621
+189,194.0,White,"2,134,793",Woodruff County,6431
+190,195.0,Woodruff,"212,755",Yell County,21376
+191,196.0,Yell,"555,952",California,39437610
+192,198.0,California,"2,739,343,439",Alameda County,1668412
+193,199.0,Alameda,"126,183,638",Alpine County,1113
+194,200.0,Alpine,"104,501",Amador County,39693
+195,201.0,Amador,"1,625,096",Butte County,218726
+196,202.0,Butte,"8,701,260",Calaveras County,46119
+197,203.0,Calaveras,"1,412,753",Colusa County,21474
+198,204.0,Colusa,"1,244,078",Contra Costa County,1152883
+199,205.0,Contra Costa,"79,295,699",Del Norte County,27903
+200,206.0,Del Norte,"704,591",El Dorado County,193057
+201,207.0,El Dorado,"7,435,270",Fresno County,997847
+202,208.0,Fresno,"42,111,573",Glenn County,28445
+203,209.0,Glenn,"1,124,597",Humboldt County,135839
+204,210.0,Humboldt,"5,185,967",Imperial County,180439
+205,211.0,Imperial,"8,471,316",Inyo County,17993
+206,212.0,Inyo,"1,214,209",Kern County,898898
+207,213.0,Kern,"49,221,208",Kings County,152727
+208,214.0,Kings,"6,054,971",Lake County,64463
+209,215.0,Lake,"1,875,971",Lassen County,30694
+210,216.0,Lassen,"1,071,584",Los Angeles County,10011602
+211,217.0,Los Angeles,"703,781,312",Madera County,156717
+212,218.0,Madera,"6,194,111",Marin County,259085
+213,219.0,Marin,"27,175,273",Mariposa County,17117
+214,220.0,Mariposa,"775,501",Mendocino County,86932
+215,221.0,Mendocino,"3,295,575",Merced County,277114
+216,222.0,Merced,"9,119,281",Modoc County,8866
+217,223.0,Modoc,"414,965",Mono County,14450
+218,224.0,Mono,"1,016,599",Monterey County,433380
+219,225.0,Monterey,"26,819,709",Napa County,137678
+220,226.0,Napa,"9,997,969",Nevada County,99648
+221,227.0,Nevada,"3,982,808",Orange County,3170851
+222,228.0,Orange,"231,036,264",Placer County,398918
+223,229.0,Placer,"21,472,690",Plumas County,19052
+224,230.0,Plumas,"1,042,571",Riverside County,2465569
+225,231.0,Riverside,"80,690,542",Sacramento County,1551660
+226,232.0,Sacramento,"83,951,132",San Benito County,62803
+227,233.0,San Benito,"2,280,142",San Bernardino County,2177279
+228,234.0,San Bernardino,"83,759,253",San Diego County,3330459
+229,235.0,San Diego,"214,035,153",San Francisco County,878826
+230,236.0,San Francisco,"176,392,838",San Joaquin County,761571
+231,237.0,San Joaquin,"28,686,598",San Luis Obispo County,282728
+232,238.0,San Luis Obispo,"15,901,604",San Mateo County,764810
+233,239.0,San Mateo,"125,850,236",Santa Barbara County,445464
+234,240.0,Santa Barbara,"27,183,782",Santa Clara County,1922411
+235,241.0,Santa Clara,"325,665,794",Santa Cruz County,272870
+236,242.0,Santa Cruz,"14,124,562",Shasta County,179645
+237,243.0,Shasta,"7,608,827",Sierra County,2959
+238,244.0,Sierra,"87,671",Siskiyou County,43663
+239,245.0,Siskiyou,"1,579,641",Solano County,447434
+240,246.0,Solano,"24,048,606",Sonoma County,492318
+241,247.0,Sonoma,"27,657,268",Stanislaus County,549761
+242,248.0,Stanislaus,"21,658,223",Sutter County,96910
+243,249.0,Sutter,"3,282,757",Tehama County,65186
+244,250.0,Tehama,"1,980,076",Trinity County,12337
+245,251.0,Trinity,"357,454",Tulare County,465751
+246,252.0,Tulare,"17,762,269",Tuolumne County,54290
+247,253.0,Tuolumne,"2,404,999",Ventura County,844203
+248,254.0,Ventura,"47,846,529",Yolo County,220019
+249,255.0,Yolo,"13,964,754",Yuba County,78549
+250,256.0,Yuba,"3,087,444",Colorado,5758486
+251,258.0,Colorado,"356,773,592",Adams County,516575
+252,259.0,Adams,"25,858,619",Alamosa County,16200
+253,260.0,Alamosa,"641,874",Arapahoe County,656051
+254,261.0,Arapahoe,"44,278,392",Archuleta County,13928
+255,262.0,Archuleta,"510,854",Baca County,3620
+256,263.0,Baca,"128,539",Bent County,5578
+257,264.0,Bent,"131,212",Boulder County,326020
+258,265.0,Boulder,"27,502,894",Broomfield County,70617
+259,266.0,Broomfield,"6,937,897",Chaffee County,20319
+260,267.0,Chaffee,"743,484",Cheyenne County,1824
+261,268.0,Cheyenne,"186,510",Clear Creek County,9598
+262,269.0,Clear Creek,"536,445",Conejos County,8169
+263,270.0,Conejos,"198,454",Costilla County,3872
+264,271.0,Costilla,"81,632",Crowley County,5989
+265,272.0,Crowley,"125,619",Custer County,5119
+266,273.0,Custer,"120,477",Delta County,31021
+267,274.0,Delta,"806,409",Denver County,725508
+268,275.0,Denver,"74,702,568",Dolores County,2042
+269,276.0,Dolores,"152,722",Douglas County,351842
+270,277.0,Douglas,"17,821,178",Eagle County,55183
+271,278.0,Eagle,"3,703,041",Elbert County,26707
+272,279.0,Elbert,"651,598",El Paso County,721929
+273,280.0,El Paso,"33,127,327",Fremont County,48009
+274,281.0,Fremont,"1,271,820",Garfield County,60031
+275,282.0,Garfield,"4,427,385",Gilpin County,6232
+276,283.0,Gilpin,"540,277",Grand County,15748
+277,284.0,Grand,"876,168",Gunnison County,17480
+278,285.0,Gunnison,"1,021,921",Hinsdale County,789
+279,286.0,Hinsdale,"34,036",Huerfano County,6868
+280,287.0,Huerfano,"260,530",Jackson County,1397
+281,288.0,Jackson,"140,351",Jefferson County,582800
+282,289.0,Jefferson,"30,113,572",Kiowa County,1417
+283,290.0,Kiowa,"76,882",Kit Carson County,7161
+284,291.0,Kit Carson,"364,462",Lake County,8072
+285,292.0,Lake,"299,173",La Plata County,56440
+286,293.0,La Plata,"3,337,450",Larimer County,357241
+287,294.0,Larimer,"18,815,195",Las Animas County,14415
+288,295.0,Las Animas,"674,763",Lincoln County,5694
+289,296.0,Lincoln,"349,399",Logan County,22409
+290,297.0,Logan,"988,146",Mesa County,154552
+291,298.0,Mesa,"6,039,762",Mineral County,756
+292,299.0,Mineral,"53,697",Moffat County,13209
+293,300.0,Moffat,"993,518",Montezuma County,26369
+294,301.0,Montezuma,"1,990,268",Montrose County,42791
+295,302.0,Montrose,"1,478,875",Morgan County,28938
+296,303.0,Morgan,"1,479,665",Otero County,18243
+297,304.0,Otero,"554,988",Ouray County,5005
+298,305.0,Ouray,"221,293",Park County,18881
+299,306.0,Park,"409,944",Phillips County,4359
+300,307.0,Phillips,"180,001",Pitkin County,17902
+301,308.0,Pitkin,"2,040,693",Prowers County,12106
+302,309.0,Prowers,"502,188",Pueblo County,168409
+303,310.0,Pueblo,"5,790,286",Rio Blanco County,6350
+304,311.0,Rio Blanco,"807,105",Rio Grande County,11277
+305,312.0,Rio Grande,"435,773",Routt County,25579
+306,313.0,Routt,"1,803,011",Saguache County,6829
+307,314.0,Saguache,"210,208",San Juan County,723
+308,315.0,San Juan,"33,225",San Miguel County,8169
+309,316.0,San Miguel,"588,502",Sedgwick County,2274
+310,317.0,Sedgwick,"79,740",Summit County,30851
+311,318.0,Summit,"2,401,743",Teller County,25408
+312,319.0,Teller,"918,493",Washington County,4869
+313,320.0,Washington,"183,858",Weld County,324703
+314,321.0,Weld,"23,686,854",Yuma County,10020
+315,322.0,Yuma,"563,662",Connecticut,3566022
+316,324.0,Connecticut,"251,495,134",Fairfield County,944388
+317,325.0,Fairfield,"81,895,069",Hartford County,891349
+318,326.0,Hartford,"79,002,484",Litchfield County,180396
+319,327.0,Litchfield,"7,612,070",Middlesex County,162538
+320,328.0,Middlesex,"8,854,701",New Haven County,853818
+321,329.0,New Haven,"47,182,725",New London County,265784
+322,330.0,New London,"17,508,777",Tolland County,150865
+323,331.0,Tolland,"4,961,783",Windham County,116884
+324,332.0,Windham,"4,550,511",Delaware,976668
+325,334.0,Delaware,"64,262,426",Kent County,181492
+326,335.0,Kent,"7,681,601",New Castle County,559941
+327,336.0,New Castle,"44,503,725",Sussex County,235235
+328,337.0,Sussex,"12,151,829",District of Columbia,708253
+329,339.0,District of Columbia,"124,990,299",District of Columbia,708253
+330,341.0,Florida,"971,619,168",Florida,21492056
+331,342.0,Alachua,"12,675,917",Alachua County,269489
+332,343.0,Baker,"598,797",Baker County,29288
+333,344.0,Bay,"7,770,640",Bay County,173895
+334,345.0,Bradford,"608,191",Bradford County,28348
+335,346.0,Brevard,"24,488,126",Brevard County,601024
+336,347.0,Broward,"99,667,401",Broward County,1955475
+337,348.0,Calhoun,"228,221",Calhoun County,14140
+338,349.0,Charlotte,"5,132,804",Charlotte County,189669
+339,350.0,Citrus,"3,889,873",Citrus County,150153
+340,351.0,Clay,"5,044,563",Clay County,219014
+341,352.0,Collier,"17,915,539",Collier County,385917
+342,353.0,Columbia,"2,160,466",Columbia County,71766
+343,354.0,DeSoto,"973,502",DeSoto County,37821
+344,355.0,Dixie,"280,960",Dixie County,16887
+345,356.0,Duval,"60,575,324",Duval County,959853
+346,357.0,Escambia,"14,286,019",Escambia County,319379
+347,358.0,Flagler,"2,605,838",Flagler County,115481
+348,359.0,Franklin,"344,397",Franklin County,12113
+349,360.0,Gadsden,"1,182,620",Gadsden County,45670
+350,361.0,Gilchrist,"345,971",Gilchrist County,18572
+351,362.0,Glades,"354,905",Glades County,13914
+352,363.0,Gulf,"381,387",Gulf County,13498
+353,364.0,Hamilton,"458,490",Hamilton County,14470
+354,365.0,Hardee,"964,327",Hardee County,26806
+355,366.0,Hendry,"1,299,512",Hendry County,42069
+356,367.0,Hernando,"3,966,234",Hernando County,194290
+357,368.0,Highlands,"2,426,133",Highlands County,105890
+358,369.0,Hillsborough,"85,153,512",Hillsborough County,1476431
+359,370.0,Holmes,"372,328",Holmes County,19661
+360,371.0,Indian River,"6,251,797",Indian River County,159739
+361,372.0,Jackson,"1,248,219",Jackson County,46257
+362,373.0,Jefferson,"274,791",Jefferson County,14280
+363,374.0,Lafayette,"150,680",Lafayette County,8384
+364,375.0,Lake,"9,264,579",Lake County,366941
+365,376.0,Lee,"29,723,883",Lee County,772268
+366,377.0,Leon,"13,766,905",Leon County,293866
+367,378.0,Levy,"906,727",Levy County,41620
+368,379.0,Liberty,"185,745",Liberty County,8341
+369,380.0,Madison,"384,413",Madison County,18599
+370,381.0,Manatee,"14,154,659",Manatee County,402977
+371,382.0,Marion,"9,424,822",Marion County,365997
+372,383.0,Martin,"7,155,892",Martin County,161212
+373,384.0,Miami-Dade,"148,725,621",Miami-Dade County,2711612
+374,385.0,Monroe,"4,648,398",Monroe County,73897
+375,386.0,Nassau,"2,565,853",Nassau County,88583
+376,387.0,Okaloosa,"11,170,644",Okaloosa County,211411
+377,388.0,Okeechobee,"1,594,097",Okeechobee County,42141
+378,389.0,Orange,"90,788,216",Orange County,1395371
+379,390.0,Osceola,"10,151,723",Osceola County,374170
+380,391.0,Palm Beach,"77,975,264",Palm Beach County,1497800
+381,392.0,Pasco,"12,256,921",Pasco County,554032
+382,393.0,Pinellas,"46,331,979",Pinellas County,975367
+383,394.0,Polk,"24,938,252",Polk County,724967
+384,395.0,Putnam,"2,013,030",Putnam County,74309
+385,396.0,St. Johns,"8,889,977",St. Johns County,265068
+386,397.0,St. Lucie,"8,786,833",St. Lucie County,328063
+387,398.0,Santa Rosa,"4,403,068",Santa Rosa County,184587
+388,399.0,Sarasota,"19,617,326",Sarasota County,435006
+389,400.0,Seminole,"20,751,894",Seminole County,471791
+390,401.0,Sumter,"3,735,975",Sumter County,133772
+391,402.0,Suwannee,"1,168,357",Suwannee County,44420
+392,403.0,Taylor,"659,514",Taylor County,21537
+393,404.0,Union,"266,577",Union County,15213
+394,405.0,Volusia,"16,867,458",Volusia County,554065
+395,406.0,Wakulla,"670,427",Wakulla County,33636
+396,407.0,Walton,"3,028,535",Walton County,74127
+397,408.0,Washington,"535,744",Washington County,25647
+398,410.0,Georgia,"558,277,256",Georgia,10628020
+399,411.0,Appling,"1,388,942",Appling County,18389
+400,412.0,Atkinson,"219,752",Atkinson County,8269
+401,413.0,Bacon,"339,090",Bacon County,11098
+402,414.0,Baker,"73,676",Baker County,3047
+403,415.0,Baldwin,"1,227,563",Baldwin County,45006
+404,416.0,Banks,"395,898",Banks County,19175
+405,417.0,Barrow,"2,011,714",Barrow County,83581
+406,418.0,Bartow,"4,529,467",Bartow County,107757
+407,419.0,Ben Hill,"464,846",Ben Hill County,16711
+408,420.0,Berrien,"365,401",Berrien County,19377
+409,421.0,Bibb,"7,565,865",Bibb County,153191
+410,422.0,Bleckley,"218,073",Bleckley County,12923
+411,423.0,Brantley,"223,503",Brantley County,19124
+412,424.0,Brooks,"372,427",Brooks County,15518
+413,425.0,Bryan,"931,778",Bryan County,39692
+414,426.0,Bulloch,"2,230,248",Bulloch County,79718
+415,427.0,Burke,"2,770,976",Burke County,22497
+416,428.0,Butts,"606,238",Butts County,24917
+417,429.0,Calhoun,"116,646",Calhoun County,6184
+418,430.0,Camden,"1,681,147",Camden County,54784
+419,431.0,Candler,"242,307",Candler County,10835
+420,432.0,Carroll,"4,379,895",Carroll County,120115
+421,433.0,Catoosa,"1,369,792",Catoosa County,67585
+422,434.0,Charlton,"188,145",Charlton County,13277
+423,435.0,Chatham,"16,972,627",Chatham County,290185
+424,436.0,Chattahoochee,"1,461,834",Chattahoochee County,10991
+425,437.0,Chattooga,"521,470",Chattooga County,24846
+426,438.0,Cherokee,"7,328,211",Cherokee County,259475
+427,439.0,Clarke,"6,953,967",Clarke County,128238
+428,440.0,Clay,"83,827",Clay County,2901
+429,441.0,Clayton,"17,042,400",Clayton County,292404
+430,442.0,Clinch,"227,836",Clinch County,6637
+431,443.0,Cobb,"50,373,128",Cobb County,761060
+432,444.0,Coffee,"1,417,286",Coffee County,43278
+433,445.0,Colquitt,"1,332,075",Colquitt County,45569
+434,446.0,Columbia,"3,761,838",Columbia County,157129
+435,447.0,Cook,"340,272",Cook County,17241
+436,448.0,Coweta,"4,439,799",Coweta County,148504
+437,449.0,Crawford,"145,580",Crawford County,12345
+438,450.0,Crisp,"808,578",Crisp County,22382
+439,451.0,Dade,"381,863",Dade County,16103
+440,452.0,Dawson,"819,918",Dawson County,26091
+441,453.0,Decatur,"734,452",Decatur County,26496
+442,454.0,DeKalb,"37,502,746",DeKalb County,759932
+443,455.0,Dodge,"400,451",Dodge County,20672
+444,456.0,Dooly,"383,901",Dooly County,13400
+445,457.0,Dougherty,"4,053,082",Dougherty County,87854
+446,458.0,Douglas,"4,299,267",Douglas County,146680
+447,459.0,Early,"434,379",Early County,10176
+448,460.0,Echols,"39,643",Echols County,3963
+449,461.0,Effingham,"1,737,909",Effingham County,64342
+450,462.0,Elbert,"567,768",Elbert County,19205
+451,463.0,Emanuel,"616,873",Emanuel County,22600
+452,464.0,Evans,"342,318",Evans County,10661
+453,465.0,Fannin,"686,539",Fannin County,26068
+454,466.0,Fayette,"4,840,047",Fayette County,114645
+455,467.0,Floyd,"3,676,108",Floyd County,98325
+456,468.0,Forsyth,"9,491,142",Forsyth County,244624
+457,469.0,Franklin,"858,799",Franklin County,23322
+458,470.0,Fulton,"168,439,892",Fulton County,1065019
+459,471.0,Gilmer,"832,482",Gilmer County,31575
+460,472.0,Glascock,"30,275",Glascock County,2959
+461,473.0,Glynn,"3,559,558",Glynn County,85326
+462,474.0,Gordon,"2,165,968",Gordon County,58046
+463,475.0,Grady,"585,465",Grady County,24588
+464,476.0,Greene,"684,403",Greene County,18356
+465,477.0,Gwinnett,"45,850,475",Gwinnett County,937399
+466,478.0,Habersham,"1,381,218",Habersham County,45542
+467,479.0,Hall,"10,114,487",Hall County,204310
+468,480.0,Hancock,"144,556",Hancock County,8475
+469,481.0,Haralson,"746,267",Haralson County,29884
+470,482.0,Harris,"492,674",Harris County,35188
+471,483.0,Hart,"823,944",Hart County,26255
+472,484.0,Heard,"1,142,905",Heard County,11825
+473,485.0,Henry,"6,229,082",Henry County,234671
+474,486.0,Houston,"6,383,219",Houston County,157427
+475,487.0,Irwin,"184,395",Irwin County,9442
+476,488.0,Jackson,"2,927,747",Jackson County,73015
+477,489.0,Jasper,"260,282",Jasper County,14207
+478,490.0,Jeff Davis,"380,305",Jeff Davis County,15101
+479,491.0,Jefferson,"503,011",Jefferson County,15344
+480,492.0,Jenkins,"148,758",Jenkins County,8734
+481,493.0,Johnson,"113,589",Johnson County,9724
+482,494.0,Jones,"410,910",Jones County,28689
+483,495.0,Lamar,"377,920",Lamar County,19001
+484,496.0,Lanier,"113,123",Lanier County,10581
+485,497.0,Laurens,"1,589,735",Laurens County,47567
+486,498.0,Lee,"653,586",Lee County,30045
+487,499.0,Liberty,"3,320,174",Liberty County,62813
+488,500.0,Lincoln,"114,721",Lincoln County,7969
+489,501.0,Long,"159,866",Long County,19647
+490,502.0,Lowndes,"4,566,913",Lowndes County,117600
+491,503.0,Lumpkin,"780,950",Lumpkin County,33692
+492,504.0,McDuffie,"596,053",McDuffie County,21317
+493,505.0,McIntosh,"229,273",McIntosh County,14294
+494,506.0,Macon,"400,970",Macon County,12934
+495,507.0,Madison,"496,115",Madison County,29925
+496,508.0,Marion,"101,177",Marion County,8413
+497,509.0,Meriwether,"529,702",Meriwether County,21112
+498,510.0,Miller,"184,504",Miller County,5667
+499,511.0,Mitchell,"715,053",Mitchell County,21846
+500,512.0,Monroe,"1,446,063",Monroe County,27677
+501,513.0,Montgomery,"145,873",Montgomery County,9148
+502,514.0,Morgan,"810,863",Morgan County,19239
+503,515.0,Murray,"1,156,410",Murray County,39996
+504,516.0,Muscogee,"9,493,232",Muscogee County,196074
+505,517.0,Newton,"2,738,094",Newton County,111894
+506,518.0,Oconee,"1,468,909",Oconee County,40296
+507,519.0,Oglethorpe,"304,455",Oglethorpe County,15222
+508,520.0,Paulding,"2,786,800",Paulding County,169302
+509,521.0,Peach,"828,988",Peach County,27697
+510,522.0,Pickens,"935,180",Pickens County,32648
+511,523.0,Pierce,"369,452",Pierce County,19443
+512,524.0,Pike,"308,537",Pike County,18953
+513,525.0,Polk,"1,134,358",Polk County,42616
+514,526.0,Pulaski,"275,877",Pulaski County,11161
+515,527.0,Putnam,"501,792",Putnam County,22083
+516,528.0,Quitman,"34,348",Quitman County,2300
+517,529.0,Rabun,"513,912",Rabun County,17116
+518,530.0,Randolph,"160,868",Randolph County,6806
+519,531.0,Richmond,"11,020,630",Richmond County,202639
+520,532.0,Rockdale,"3,501,839",Rockdale County,90639
+521,533.0,Schley,"103,602",Schley County,5254
+522,534.0,Screven,"286,099",Screven County,13945
+523,535.0,Seminole,"273,878",Seminole County,8090
+524,536.0,Spalding,"1,892,917",Spalding County,66835
+525,537.0,Stephens,"846,678",Stephens County,26017
+526,538.0,Stewart,"123,197",Stewart County,6649
+527,539.0,Sumter,"975,824",Sumter County,29401
+528,540.0,Talbot,"121,887",Talbot County,6188
+529,541.0,Taliaferro,"30,791",Taliaferro County,1549
+530,542.0,Tattnall,"571,927",Tattnall County,25317
+531,543.0,Taylor,"196,947",Taylor County,8051
+532,544.0,Telfair,"262,524",Telfair County,15813
+533,545.0,Terrell,"198,468",Terrell County,8573
+534,546.0,Thomas,"1,931,847",Thomas County,44427
+535,547.0,Tift,"1,727,482",Tift County,40653
+536,548.0,Toombs,"855,369",Toombs County,26844
+537,549.0,Towns,"341,877",Towns County,12009
+538,550.0,Treutlen,"91,749",Treutlen County,6860
+539,551.0,Troup,"3,268,726",Troup County,70059
+540,552.0,Turner,"199,373",Turner County,7929
+541,553.0,Twiggs,"253,458",Twiggs County,8164
+542,554.0,Union,"699,329",Union County,24606
+543,555.0,Upson,"640,543",Upson County,26402
+544,556.0,Walker,"1,319,659",Walker County,69769
+545,557.0,Walton,"2,399,415",Walton County,94818
+546,558.0,Ware,"1,276,616",Ware County,35816
+547,559.0,Warren,"145,322",Warren County,5220
+548,560.0,Washington,"559,579",Washington County,20352
+549,561.0,Wayne,"910,312",Wayne County,30017
+550,562.0,Webster,"52,402",Webster County,2573
+551,563.0,Wheeler,"92,679",Wheeler County,7870
+552,564.0,White,"806,939",White County,30601
+553,565.0,Whitfield,"5,309,240",Whitfield County,104265
+554,566.0,Wilcox,"145,360",Wilcox County,8607
+555,567.0,Wilkes,"306,113",Wilkes County,9769
+556,568.0,Wilkinson,"562,317",Wilkinson County,8936
+557,569.0,Worth,"332,702",Worth County,20185
+558,571.0,Hawaii,"79,175,387",Hawaii,1415615
+559,572.0,Hawaii,"7,816,495",Hawaii County,202165
+560,573.0,Honolulu,"58,428,763",Honolulu County,973491
+561,574.0,Kauai,"3,711,519",Kalawao County,87
+562,575.0,Maui + Kalawao,"9,207,556",Kauai County,72190
+563,577.0,Idaho,"73,911,957",Maui County,167682
+564,578.0,Ada,"25,857,055",Idaho,1789060
+565,579.0,Adams,"110,181",Ada County,481880
+566,580.0,Bannock,"2,600,103",Adams County,4265
+567,581.0,Bear Lake,"169,728",Bannock County,87822
+568,582.0,Benewah,"303,634",Bear Lake County,6131
+569,583.0,Bingham,"1,295,594",Benewah County,9303
+570,584.0,Blaine,"1,380,089",Bingham County,46772
+571,585.0,Boise,"198,825",Blaine County,23012
+572,586.0,Bonner,"1,410,850",Boise County,7903
+573,587.0,Bonneville,"5,635,262",Bonner County,45774
+574,588.0,Boundary,"344,005",Bonneville County,119286
+575,589.0,Butte,"1,123,308",Boundary County,12340
+576,590.0,Camas,"72,255",Butte County,2620
+577,591.0,Canyon,"5,912,054",Camas County,1091
+578,592.0,Caribou,"612,982",Canyon County,230270
+579,593.0,Cassia,"1,569,602",Caribou County,7149
+580,594.0,Clark,"46,172",Cassia County,24052
+581,595.0,Clearwater,"303,451",Clark County,838
+582,596.0,Custer,"180,857",Clearwater County,8761
+583,597.0,Elmore,"1,228,782",Custer County,4273
+584,598.0,Franklin,"352,706",Elmore County,27373
+585,599.0,Fremont (includes Yellowstone National Park),"356,712",Franklin County,13898
+586,600.0,Gem,"365,553",Fremont County,13105
+587,601.0,Gooding,"1,351,518",Gem County,18174
+588,602.0,Idaho,"403,388",Gooding County,15290
+589,603.0,Jefferson,"811,428",Idaho County,16623
+590,604.0,Jerome,"1,274,950",Jefferson County,29918
+591,605.0,Kootenai,"5,844,703",Jerome County,24486
+592,606.0,Latah,"1,237,817",Kootenai County,165656
+593,607.0,Lemhi,"240,073",Latah County,40372
+594,608.0,Lewis,"144,513",Lemhi County,8067
+595,609.0,Lincoln,"296,091",Lewis County,3845
+596,610.0,Madison,"1,169,812",Lincoln County,5325
+597,611.0,Minidoka,"814,936",Madison County,40205
+598,612.0,Nez Perce,"1,914,836",Minidoka County,20910
+599,613.0,Oneida,"121,339",Nez Perce County,40601
+600,614.0,Owyhee,"441,082",Oneida County,4500
+601,615.0,Payette,"774,387",Owyhee County,11823
+602,616.0,Power,"389,593",Payette County,24051
+603,617.0,Shoshone,"467,959",Power County,7636
+604,618.0,Teton,"317,764",Shoshone County,12868
+605,619.0,Twin Falls,"3,497,144",Teton County,12096
+606,620.0,Valley,"455,056",Twin Falls County,87127
+607,621.0,Washington,"435,691",Valley County,11443
+608,623.0,Illinois,"777,653,833",Washington County,10126
+609,624.0,Adams,"3,173,733",Illinois,12667017
+610,625.0,Alexander,"156,449",Adams County,65402
+611,626.0,Bond,"510,704",Alexander County,5791
+612,627.0,Boone,"1,759,786",Bond County,16458
+613,628.0,Brown,"457,117",Boone County,53281
+614,629.0,Bureau,"1,201,571",Brown County,6619
+615,630.0,Calhoun,"81,792",Bureau County,32621
+616,631.0,Carroll,"519,904",Calhoun County,4740
+617,632.0,Cass,"589,132",Carroll County,14338
+618,633.0,Champaign,"9,993,932",Cass County,12141
+619,634.0,Christian,"1,413,720",Champaign County,209612
+620,635.0,Clark,"537,641",Christian County,32427
+621,636.0,Clay,"507,609",Clark County,15465
+622,637.0,Clinton,"974,741",Clay County,13177
+623,638.0,Coles,"2,250,246",Clinton County,37440
+624,639.0,Cook,"367,998,188",Coles County,50774
+625,640.0,Crawford,"1,875,534",Cook County,5145326
+626,641.0,Cumberland,"1,214,288",Crawford County,18686
+627,642.0,DeKalb,"3,780,287",Cumberland County,10733
+628,643.0,De Witt,"1,097,382",DeKalb County,105131
+629,644.0,Douglas,"1,010,730",De Witt County,15624
+630,645.0,DuPage,"87,021,506",Douglas County,19450
+631,646.0,Edgar,"705,742",DuPage County,922761
+632,647.0,Edwards,"267,348",Edgar County,17169
+633,648.0,Effingham,"1,929,701",Edwards County,6405
+634,649.0,Fayette,"511,057",Effingham County,34109
+635,650.0,Ford,"615,307",Fayette County,21332
+636,651.0,Franklin,"993,704",Ford County,12972
+637,652.0,Fulton,"883,966",Franklin County,38530
+638,653.0,Gallatin,"203,296",Fulton County,34240
+639,654.0,Greene,"270,315",Gallatin County,4833
+640,655.0,Grundy,"3,996,036",Greene County,12922
+641,656.0,Hamilton,"343,291",Grundy County,51031
+642,657.0,Hancock,"495,948",Hamilton County,8133
+643,658.0,Hardin,"72,688",Hancock County,17700
+644,659.0,Henderson,"152,289",Hardin County,3848
+645,660.0,Henry,"1,335,040",Henderson County,6709
+646,661.0,Iroquois,"999,833",Henry County,48933
+647,662.0,Jackson,"2,300,270",Iroquois County,27093
+648,663.0,Jasper,"442,331",Jackson County,56844
+649,664.0,Jefferson,"1,781,409",Jasper County,9618
+650,665.0,Jersey,"466,026",Jefferson County,37635
+651,666.0,Jo Daviess,"717,289",Jersey County,21667
+652,667.0,Johnson,"210,746",Jo Daviess County,21224
+653,668.0,Kane,"25,126,179",Johnson County,12380
+654,669.0,Kankakee,"5,772,125",Kane County,532293
+655,670.0,Kendall,"3,386,440",Kankakee County,109569
+656,671.0,Knox,"1,584,871",Kendall County,128900
+657,672.0,Lake,"56,544,892",Knox County,49669
+658,673.0,LaSalle,"5,058,373",Lake County,697134
+659,674.0,Lawrence,"519,182",LaSalle County,108517
+660,675.0,Lee,"1,451,305",Lawrence County,15665
+661,676.0,Livingston,"1,815,669",Lee County,34061
+662,677.0,Logan,"928,849",Livingston County,35557
+663,678.0,McDonough,"1,015,307",Logan County,28633
+664,679.0,McHenry,"10,654,496",McDonough County,29792
+665,680.0,McLean,"13,541,117",McHenry County,307439
+666,681.0,Macon,"5,890,375",McLean County,171272
+667,682.0,Macoupin,"1,064,871",Macon County,104012
+668,683.0,Madison,"13,347,988",Macoupin County,45079
+669,684.0,Marion,"1,217,049",Madison County,263609
+670,685.0,Marshall,"345,119",Marion County,37309
+671,686.0,Mason,"440,975",Marshall County,11463
+672,687.0,Massac,"558,765",Mason County,13387
+673,688.0,Menard,"212,330",Massac County,13772
+674,689.0,Mercer,"368,381",Menard County,12198
+675,690.0,Monroe,"852,837",Mercer County,15490
+676,691.0,Montgomery,"1,003,779",Monroe County,34738
+677,692.0,Morgan,"1,463,026",Montgomery County,28401
+678,693.0,Moultrie,"817,022",Morgan County,33679
+679,694.0,Ogle,"2,496,743",Moultrie County,14464
+680,695.0,Peoria,"11,859,571",Ogle County,50660
+681,696.0,Perry,"589,849",Peoria County,179359
+682,697.0,Piatt,"481,990",Perry County,20935
+683,698.0,Pike,"507,701",Piatt County,16391
+684,699.0,Pope,"55,449",Pike County,15574
+685,700.0,Pulaski,"179,834",Pope County,4176
+686,701.0,Putnam,"376,052",Pulaski County,5309
+687,702.0,Randolph,"1,376,896",Putnam County,5745
+688,703.0,Richland,"558,037",Randolph County,31725
+689,704.0,Rock Island,"9,252,035",Richland County,15519
+690,705.0,St. Clair,"10,804,069",Rock Island County,141775
+691,706.0,Saline,"798,817",St. Clair County,259889
+692,707.0,Sangamon,"10,409,498",Saline County,23540
+693,708.0,Schuyler,"232,921",Sangamon County,194882
+694,709.0,Scott,"138,981",Schuyler County,6829
+695,710.0,Shelby,"725,743",Scott County,4974
+696,711.0,Stark,"181,671",Shelby County,21625
+697,712.0,Stephenson,"1,699,902",Stark County,5312
+698,713.0,Tazewell,"5,289,296",Stephenson County,44371
+699,714.0,Union,"380,277",Tazewell County,131848
+700,715.0,Vermilion,"2,999,161",Union County,16693
+701,716.0,Wabash,"331,114",Vermilion County,75736
+702,717.0,Warren,"733,817",Wabash County,11370
+703,718.0,Washington,"972,249",Warren County,16816
+704,719.0,Wayne,"413,880",Washington County,13926
+705,720.0,White,"535,300",Wayne County,16196
+706,721.0,Whiteside,"1,967,938",White County,13574
+707,722.0,Will,"31,637,683",Whiteside County,55215
+708,723.0,Williamson,"2,745,064",Will County,690176
+709,724.0,Winnebago,"12,778,592",Williamson County,66633
+710,725.0,Woodford,"1,038,559",Winnebago County,282465
+711,727.0,Indiana,"338,350,092",Woodford County,38353
+712,728.0,Adams,"1,710,147",Indiana,6731010
+713,729.0,Allen,"19,748,219",Adams County,35688
+714,730.0,Bartholomew,"6,040,912",Allen County,379006
+715,731.0,Benton,"446,228",Bartholomew County,84063
+716,732.0,Blackford,"309,054",Benton County,8763
+717,733.0,Boone,"3,261,336",Blackford County,11787
+718,734.0,Brown,"260,048",Boone County,67915
+719,735.0,Carroll,"645,402",Brown County,15066
+720,736.0,Cass,"1,269,636",Carroll County,20211
+721,737.0,Clark,"4,864,182",Cass County,37610
+722,738.0,Clay,"686,740",Clark County,118191
+723,739.0,Clinton,"1,379,734",Clay County,26301
+724,740.0,Crawford,"162,618",Clinton County,32298
+725,741.0,Daviess,"1,237,815",Crawford County,10593
+726,742.0,Dearborn,"1,655,602",Daviess County,33439
+727,743.0,Decatur,"1,544,584",Dearborn County,49573
+728,744.0,DeKalb,"2,460,484",Decatur County,26472
+729,745.0,Delaware,"3,687,822",DeKalb County,43561
+730,746.0,Dubois,"2,614,096",Delaware County,113769
+731,747.0,Elkhart,"14,330,603",Dubois County,42578
+732,748.0,Fayette,"515,967",Elkhart County,206268
+733,749.0,Floyd,"2,748,242",Fayette County,23038
+734,750.0,Fountain,"433,885",Floyd County,78601
+735,751.0,Franklin,"500,001",Fountain County,16425
+736,752.0,Fulton,"634,208",Franklin County,22763
+737,753.0,Gibson,"3,086,643",Fulton County,20042
+738,754.0,Grant,"2,162,077",Gibson County,33709
+739,755.0,Greene,"597,792",Grant County,65836
+740,756.0,Hamilton,"18,564,640",Greene County,32117
+741,757.0,Hancock,"2,871,490",Hamilton County,337955
+742,758.0,Harrison,"1,038,739",Hancock County,78159
+743,759.0,Hendricks,"6,290,556",Harrison County,40552
+744,760.0,Henry,"1,237,242",Hendricks County,169924
+745,761.0,Howard,"3,846,806",Henry County,48025
+746,762.0,Huntington,"1,355,548",Howard County,82660
+747,763.0,Jackson,"2,239,168",Huntington County,36544
+748,764.0,Jasper,"1,450,472",Jackson County,44179
+749,765.0,Jay,"892,661",Jasper County,33516
+750,766.0,Jefferson,"1,425,459",Jay County,20446
+751,767.0,Jennings,"706,525",Jefferson County,32265
+752,768.0,Johnson,"5,094,305",Jennings County,27662
+753,769.0,Knox,"1,729,309",Johnson County,158332
+754,770.0,Kosciusko,"5,312,352",Knox County,36603
+755,771.0,Lagrange,"1,770,215",Kosciusko County,79438
+756,772.0,Lake,"22,478,970",LaGrange County,39771
+757,773.0,LaPorte,"3,850,567",Lake County,486244
+758,774.0,Lawrence,"1,289,566",LaPorte County,110044
+759,775.0,Madison,"3,445,980",Lawrence County,45419
+760,776.0,Marion,"84,798,947",Madison County,129416
+761,777.0,Marshall,"1,531,483",Marion County,963829
+762,778.0,Martin,"1,017,607",Marshall County,46197
+763,779.0,Miami,"894,104",Martin County,10179
+764,780.0,Monroe,"6,249,464",Miami County,35488
+765,781.0,Montgomery,"1,566,957",Monroe County,148178
+766,782.0,Morgan,"1,635,657",Montgomery County,38275
+767,783.0,Newton,"320,406",Morgan County,70403
+768,784.0,Noble,"1,779,642",Newton County,13972
+769,785.0,Ohio,"100,111",Noble County,47907
+770,786.0,Orange,"570,305",Ohio County,5908
+771,787.0,Owen,"492,340",Orange County,19657
+772,788.0,Parke,"322,860",Owen County,20881
+773,789.0,Perry,"717,682",Parke County,16893
+774,790.0,Pike,"678,710",Perry County,19184
+775,791.0,Porter,"7,100,103",Pike County,12383
+776,792.0,Posey,"3,356,726",Porter County,170599
+777,793.0,Pulaski,"603,372",Posey County,25408
+778,794.0,Putnam,"1,012,895",Pulaski County,12379
+779,795.0,Randolph,"715,849",Putnam County,37566
+780,796.0,Ripley,"1,065,771",Randolph County,24533
+781,797.0,Rush,"586,085",Ripley County,28465
+782,798.0,St. Joseph,"13,083,953",Rush County,16605
+783,799.0,Scott,"652,077",St. Joseph County,271695
+784,800.0,Shelby,"1,870,693",Scott County,23855
+785,801.0,Spencer,"1,009,600",Shelby County,44771
+786,802.0,Starke,"489,484",Spencer County,20273
+787,803.0,Steuben,"1,352,944",Starke County,23011
+788,804.0,Sullivan,"897,679",Steuben County,34759
+789,805.0,Switzerland,"212,013",Sullivan County,20601
+790,806.0,Tippecanoe,"9,263,294",Switzerland County,10815
+791,807.0,Tipton,"548,508",Tippecanoe County,194881
+792,808.0,Union,"125,604",Tipton County,15133
+793,809.0,Vanderburgh,"10,324,016",Union County,7135
+794,810.0,Vermillion,"728,194",Vanderburgh County,181561
+795,811.0,Vigo,"4,284,827",Vermillion County,15493
+796,812.0,Wabash,"1,111,707",Vigo County,106958
+797,813.0,Warren,"216,932",Wabash County,31028
+798,814.0,Warrick,"2,211,066",Warren County,8262
+799,815.0,Washington,"600,738",Warrick County,62851
+800,816.0,Wayne,"2,554,088",Washington County,28063
+801,817.0,Wells,"1,084,754",Wayne County,65943
+802,818.0,White,"909,937",Wells County,28131
+803,819.0,Whitley,"1,513,924",White County,24197
+804,821.0,Iowa,"172,905,960",Whitley County,33868
+805,822.0,Adair,"342,041",Iowa,3159596
+806,823.0,Adams,"232,782",Adair County,7102
+807,824.0,Allamakee,"609,315",Adams County,3602
+808,825.0,Appanoose,"367,427",Allamakee County,13671
+809,826.0,Audubon,"334,638",Appanoose County,12525
+810,827.0,Benton,"816,030",Audubon County,5491
+811,828.0,Black Hawk,"6,983,426",Benton County,25544
+812,829.0,Boone,"955,484",Black Hawk County,131089
+813,830.0,Bremer,"1,015,927",Boone County,26338
+814,831.0,Buchanan,"778,043",Bremer County,25170
+815,832.0,Buena Vista,"1,177,286",Buchanan County,21148
+816,833.0,Butler,"390,680",Buena Vista County,19690
+817,834.0,Calhoun,"433,305",Butler County,14404
+818,835.0,Carroll,"1,297,781",Calhoun County,9616
+819,836.0,Cass,"609,903",Carroll County,20118
+820,837.0,Cedar,"586,481",Cass County,12822
+821,838.0,Cerro Gordo,"2,216,619",Cedar County,18541
+822,839.0,Cherokee,"616,660",Cerro Gordo County,42477
+823,840.0,Chickasaw,"623,538",Cherokee County,11231
+824,841.0,Clarke,"375,800",Chickasaw County,11943
+825,842.0,Clay,"1,033,121",Clarke County,9382
+826,843.0,Clayton,"876,540",Clay County,16094
+827,844.0,Clinton,"1,985,487",Clayton County,17497
+828,845.0,Crawford,"743,393",Clinton County,46559
+829,846.0,Dallas,"4,735,221",Crawford County,16903
+830,847.0,Davis,"238,854",Dallas County,93631
+831,848.0,Decatur,"191,710",Davis County,9006
+832,849.0,Delaware,"894,253",Decatur County,7852
+833,850.0,Des Moines,"1,970,021",Delaware County,17057
+834,851.0,Dickinson,"967,369",Des Moines County,39051
+835,852.0,Dubuque,"5,985,867",Dickinson County,17290
+836,853.0,Emmet,"371,031",Dubuque County,97432
+837,854.0,Fayette,"723,829",Emmet County,9224
+838,855.0,Floyd,"770,175",Fayette County,19575
+839,856.0,Franklin,"596,250",Floyd County,15655
+840,857.0,Fremont,"322,171",Franklin County,10082
+841,858.0,Greene,"455,510",Fremont County,6917
+842,859.0,Grundy,"471,955",Greene County,8881
+843,860.0,Guthrie,"411,223",Grundy County,12227
+844,861.0,Hamilton,"831,627",Guthrie County,10741
+845,862.0,Hancock,"748,067",Hamilton County,14797
+846,863.0,Hardin,"812,628",Hancock County,10664
+847,864.0,Harrison,"391,695",Hardin County,16809
+848,865.0,Henry,"847,711",Harrison County,14034
+849,866.0,Howard,"459,868",Henry County,19835
+850,867.0,Humboldt,"462,962",Howard County,9146
+851,868.0,Ida,"477,808",Humboldt County,9499
+852,869.0,Iowa,"1,048,243",Ida County,6822
+853,870.0,Jackson,"611,405",Iowa County,16146
+854,871.0,Jasper,"1,112,617",Jackson County,19375
+855,872.0,Jefferson,"641,917",Jasper County,37171
+856,873.0,Johnson,"8,467,681",Jefferson County,18180
+857,874.0,Jones,"577,901",Johnson County,152480
+858,875.0,Keokuk,"357,311",Jones County,20634
+859,876.0,Kossuth,"918,126",Keokuk County,10192
+860,877.0,Lee,"1,595,064",Kossuth County,14769
+861,878.0,Linn,"15,261,669",Lee County,33641
+862,879.0,Louisa,"719,866",Linn County,227241
+863,880.0,Lucas,"295,145",Louisa County,11059
+864,881.0,Lyon,"1,011,527",Lucas County,8561
+865,882.0,Madison,"384,322",Lyon County,11806
+866,883.0,Mahaska,"857,388",Madison County,16273
+867,884.0,Marion,"1,899,346",Mahaska County,22429
+868,885.0,Marshall,"1,705,362",Marion County,33280
+869,886.0,Mills,"557,952",Marshall County,39472
+870,887.0,Mitchell,"661,526",Mills County,15124
+871,888.0,Monona,"320,313",Mitchell County,10565
+872,889.0,Monroe,"383,970",Monona County,8626
+873,890.0,Montgomery,"386,289",Monroe County,7681
+874,891.0,Muscatine,"2,388,163",Montgomery County,9917
+875,892.0,O'Brien,"924,587",Muscatine County,42571
+876,893.0,Osceola,"385,969",O'Brien County,13796
+877,894.0,Page,"577,598",Osceola County,5961
+878,895.0,Palo Alto,"567,112",Page County,15129
+879,896.0,Plymouth,"1,428,315",Palo Alto County,8873
+880,897.0,Pocahontas,"609,856",Plymouth County,25200
+881,898.0,Polk,"39,489,590",Pocahontas County,6632
+882,899.0,Pottawattamie,"3,932,364",Polk County,491031
+883,900.0,Poweshiek,"1,044,786",Pottawattamie County,93405
+884,901.0,Ringgold,"204,306",Poweshiek County,18458
+885,902.0,Sac,"568,502",Ringgold County,4866
+886,903.0,Scott,"8,709,079",Sac County,9675
+887,904.0,Shelby,"697,693",Scott County,173400
+888,905.0,Sioux,"2,496,775",Shelby County,11479
+889,906.0,Story,"4,987,743",Sioux County,34950
+890,907.0,Tama,"609,441",Story County,97441
+891,908.0,Taylor,"245,069",Tama County,16904
+892,909.0,Union,"575,428",Taylor County,6188
+893,910.0,Van Buren,"208,429",Union County,12224
+894,911.0,Wapello,"1,478,010",Van Buren County,7044
+895,912.0,Warren,"1,128,907",Wapello County,35151
+896,913.0,Washington,"1,253,762",Warren County,51548
+897,914.0,Wayne,"210,467",Washington County,22030
+898,915.0,Webster,"1,898,607",Wayne County,6413
+899,916.0,Winnebago,"390,344",Webster County,35982
+900,917.0,Winneshiek,"949,011",Winnebago County,10357
+901,918.0,Woodbury,"4,663,116",Winneshiek County,19992
+902,919.0,Worth,"273,178",Woodbury County,103132
+903,920.0,Wright,"647,649",Worth County,7407
+904,922.0,Kansas,"160,182,322",Wright County,12551
+905,923.0,Allen,"537,849",Kansas,2912635
+906,924.0,Anderson,"266,839",Allen County,12404
+907,925.0,Atchison,"689,470",Anderson County,7899
+908,926.0,Barber,"205,882",Atchison County,16138
+909,927.0,Barton,"1,192,574",Barber County,4458
+910,928.0,Bourbon,"557,183",Barton County,25938
+911,929.0,Brown,"513,114",Bourbon County,14499
+912,930.0,Butler,"2,387,802",Brown County,9541
+913,931.0,Chase,"129,757",Butler County,66932
+914,932.0,Chautauqua,"72,755",Chase County,2585
+915,933.0,Cherokee,"695,416",Chautauqua County,3203
+916,934.0,Cheyenne,"125,305",Cherokee County,19948
+917,935.0,Clark,"213,455",Cheyenne County,2624
+918,936.0,Clay,"282,184",Clark County,2006
+919,937.0,Cloud,"357,553",Clay County,8009
+920,938.0,Coffey,"773,136",Cloud County,8779
+921,939.0,Comanche,"68,988",Coffey County,8142
+922,940.0,Cowley,"1,246,988",Comanche County,1704
+923,941.0,Crawford,"1,487,985",Cowley County,34784
+924,942.0,Decatur,"143,700",Crawford County,38734
+925,943.0,Dickinson,"602,462",Decatur County,2816
+926,944.0,Doniphan,"268,532",Dickinson County,18381
+927,945.0,Douglas,"4,581,216",Doniphan County,7584
+928,946.0,Edwards,"204,201",Douglas County,122269
+929,947.0,Elk,"74,578",Edwards County,2783
+930,948.0,Ellis,"1,478,814",Elk County,2507
+931,949.0,Ellsworth,"270,728",Ellis County,28652
+932,950.0,Finney,"2,110,368",Ellsworth County,6093
+933,951.0,Ford,"2,106,351",Finney County,36351
+934,952.0,Franklin,"828,536",Ford County,33346
+935,953.0,Geary,"2,633,825",Franklin County,25618
+936,954.0,Gove,"152,348",Geary County,31992
+937,955.0,Graham,"130,081",Gove County,2665
+938,956.0,Grant,"485,625",Graham County,2441
+939,957.0,Gray,"701,121",Grant County,7136
+940,958.0,Greeley,"159,555",Gray County,5996
+941,959.0,Greenwood,"153,354",Greeley County,1211
+942,960.0,Hamilton,"307,977",Greenwood County,6001
+943,961.0,Harper,"330,280",Hamilton County,2515
+944,962.0,Harvey,"1,194,007",Harper County,5442
+945,963.0,Haskell,"357,932",Harvey County,34442
+946,964.0,Hodgeman,"161,290",Haskell County,3987
+947,965.0,Jackson,"353,105",Hodgeman County,1763
+948,966.0,Jefferson,"398,250",Jackson County,13164
+949,967.0,Jewell,"139,435",Jefferson County,19165
+950,968.0,Johnson,"46,428,493",Jewell County,2858
+951,969.0,Kearny,"260,732",Johnson County,602948
+952,970.0,Kingman,"277,391",Kearny County,3807
+953,971.0,Kiowa,"112,542",Kingman County,7056
+954,972.0,Labette,"779,473",Kiowa County,2470
+955,973.0,Lane,"142,236",Labette County,19704
+956,974.0,Leavenworth,"2,604,170",Lane County,1527
+957,975.0,Lincoln,"98,786",Leavenworth County,81911
+958,976.0,Linn,"441,336",Lincoln County,2964
+959,977.0,Logan,"150,559",Linn County,9714
+960,978.0,Lyon,"1,310,621",Logan County,2776
+961,979.0,McPherson,"2,042,434",Lyon County,33224
+962,980.0,Marion,"391,573",McPherson County,28584
+963,981.0,Marshall,"467,741",Marion County,11831
+964,982.0,Meade,"289,356",Marshall County,9691
+965,983.0,Miami,"878,673",Meade County,4023
+966,984.0,Mitchell,"417,815",Miami County,34244
+967,985.0,Montgomery,"1,723,501",Mitchell County,5967
+968,986.0,Morris,"188,196",Montgomery County,31796
+969,987.0,Morton,"139,749",Morris County,5623
+970,988.0,Nemaha,"391,116",Morton County,2536
+971,989.0,Neosho,"568,001",Nemaha County,10170
+972,990.0,Ness,"186,109",Neosho County,15899
+973,991.0,Norton,"226,168",Ness County,2782
+974,992.0,Osage,"291,580",Norton County,5372
+975,993.0,Osborne,"165,896",Osage County,15906
+976,994.0,Ottawa,"101,593",Osborne County,3438
+977,995.0,Pawnee,"296,129",Ottawa County,5713
+978,996.0,Phillips,"384,490",Pawnee County,6384
+979,997.0,Pottawatomie,"1,117,860",Phillips County,5248
+980,998.0,Pratt,"584,382",Pottawatomie County,24468
+981,999.0,Rawlins,"117,585",Pratt County,9114
+982,1000.0,Reno,"2,322,364",Rawlins County,2493
+983,1001.0,Republic,"218,773",Reno County,61963
+984,1002.0,Rice,"624,383",Republic County,4563
+985,1003.0,Riley,"2,438,944",Rice County,9512
+986,1004.0,Rooks,"181,885",Riley County,72762
+987,1005.0,Rush,"155,966",Rooks County,4937
+988,1006.0,Russell,"256,462",Rush County,2994
+989,1007.0,Saline,"2,602,044",Russell County,6868
+990,1008.0,Scott,"349,188",Saline County,54140
+991,1009.0,Sedgwick,"29,529,249",Scott County,4850
+992,1010.0,Seward,"1,157,326",Sedgwick County,516579
+993,1011.0,Shawnee,"9,391,170",Seward County,21421
+994,1012.0,Sheridan,"103,768",Shawnee County,176735
+995,1013.0,Sherman,"277,223",Sheridan County,2517
+996,1014.0,Smith,"161,018",Sherman County,5932
+997,1015.0,Stafford,"195,286",Smith County,3571
+998,1016.0,Stanton,"242,385",Stafford County,4081
+999,1017.0,Stevens,"337,332",Stanton County,1987
+1000,1018.0,Sumner,"711,201",Stevens County,5405
+1001,1019.0,Thomas,"483,434",Sumner County,22810
+1002,1020.0,Trego,"165,140",Thomas County,7704
+1003,1021.0,Wabaunsee,"140,330",Trego County,2779
+1004,1022.0,Wallace,"98,873",Wabaunsee County,6892
+1005,1023.0,Washington,"212,751",Wallace County,1518
+1006,1024.0,Wichita,"291,702",Washington County,5449
+1007,1025.0,Wilson,"314,648",Wichita County,2118
+1008,1026.0,Woodson,"80,610",Wilson County,8555
+1009,1027.0,Wyandotte,"11,056,360",Woodson County,3096
+1010,1029.0,Kentucky,"191,355,498",Wyandotte County,166009
+1011,1030.0,Adair,"346,089",Kentucky,4472345
+1012,1031.0,Allen,"457,926",Adair County,19472
+1013,1032.0,Anderson,"513,638",Allen County,21320
+1014,1033.0,Ballard,"203,399",Anderson County,22700
+1015,1034.0,Barren,"1,319,369",Ballard County,7817
+1016,1035.0,Bath,"183,392",Barren County,44185
+1017,1036.0,Bell,"706,970",Bath County,12532
+1018,1037.0,Boone,"10,561,822",Bell County,26026
+1019,1038.0,Bourbon,"955,326",Boone County,133670
+1020,1039.0,Boyd,"4,082,463",Bourbon County,19774
+1021,1040.0,Boyle,"1,148,042",Boyd County,46839
+1022,1041.0,Bracken,"138,408",Boyle County,30000
+1023,1042.0,Breathitt,"202,568",Bracken County,8330
+1024,1043.0,Breckinridge,"357,495",Breathitt County,12612
+1025,1044.0,Bullitt,"2,264,688",Breckinridge County,20471
+1026,1045.0,Butler,"294,221",Bullitt County,81803
+1027,1046.0,Caldwell,"351,121",Butler County,12861
+1028,1047.0,Calloway,"1,300,051",Caldwell County,12731
+1029,1048.0,Campbell,"3,122,673",Calloway County,39073
+1030,1049.0,Carlisle,"154,344",Campbell County,93841
+1031,1050.0,Carroll,"1,989,506",Carlisle County,4721
+1032,1051.0,Carter,"441,471",Carroll County,10658
+1033,1052.0,Casey,"300,052",Carter County,26766
+1034,1053.0,Christian,"5,277,096",Casey County,16204
+1035,1054.0,Clark,"1,389,224",Christian County,71577
+1036,1055.0,Clay,"300,081",Clark County,36280
+1037,1056.0,Clinton,"300,112",Clay County,19912
+1038,1057.0,Crittenden,"178,095",Clinton County,10200
+1039,1058.0,Cumberland,"144,568",Crittenden County,8807
+1040,1059.0,Daviess,"4,162,469",Cumberland County,6626
+1041,1060.0,Edmonson,"164,971",Daviess County,101555
+1042,1061.0,Elliott,"72,925",Edmonson County,12149
+1043,1062.0,Estill,"193,412",Elliott County,7485
+1044,1063.0,Fayette,"18,608,398",Estill County,14143
+1045,1064.0,Fleming,"282,228",Fayette County,323922
+1046,1065.0,Floyd,"1,057,027",Fleming County,14574
+1047,1066.0,Franklin,"2,728,399",Floyd County,35515
+1048,1067.0,Fulton,"181,588",Franklin County,50887
+1049,1068.0,Gallatin,"350,515",Fulton County,5989
+1050,1069.0,Garrard,"233,633",Gallatin County,8842
+1051,1070.0,Grant,"464,860",Garrard County,17684
+1052,1071.0,Graves,"1,153,315",Grant County,25120
+1053,1072.0,Grayson,"653,214",Graves County,37170
+1054,1073.0,Green,"145,641",Grayson County,26435
+1055,1074.0,Greenup,"858,427",Green County,10949
+1056,1075.0,Hancock,"809,526",Greenup County,35164
+1057,1076.0,Hardin,"4,739,384",Hancock County,8716
+1058,1077.0,Harlan,"506,870",Hardin County,110970
+1059,1078.0,Harrison,"469,763",Harlan County,25960
+1060,1079.0,Hart,"523,882",Harrison County,18838
+1061,1080.0,Henderson,"1,860,747",Hart County,19014
+1062,1081.0,Henry,"316,576",Henderson County,45276
+1063,1082.0,Hickman,"181,818",Henry County,16063
+1064,1083.0,Hopkins,"1,755,912",Hickman County,4365
+1065,1084.0,Jackson,"148,395",Hopkins County,44660
+1066,1085.0,Jefferson,"50,106,756",Jackson County,13316
+1067,1086.0,Jessamine,"1,884,149",Jefferson County,767785
+1068,1087.0,Johnson,"405,228",Jessamine County,54012
+1069,1088.0,Kenton,"7,702,883",Johnson County,22188
+1070,1089.0,Knott,"207,437",Kenton County,167333
+1071,1090.0,Knox,"557,439",Knott County,14861
+1072,1091.0,Larue,"195,499",Knox County,31151
+1073,1092.0,Laurel,"1,914,336",Larue County,14393
+1074,1093.0,Lawrence,"324,037",Laurel County,60842
+1075,1094.0,Lee,"119,334",Lawrence County,15395
+1076,1095.0,Leslie,"157,687",Lee County,7390
+1077,1096.0,Letcher,"323,567",Leslie County,9880
+1078,1097.0,Lewis,"184,836",Letcher County,21560
+1079,1098.0,Lincoln,"371,568",Lewis County,13309
+1080,1099.0,Livingston,"256,428",Lincoln County,24519
+1081,1100.0,Logan,"1,152,832",Livingston County,9148
+1082,1101.0,Lyon,"201,401",Logan County,27111
+1083,1102.0,McCracken,"3,878,458",Lyon County,8256
+1084,1103.0,McCreary,"225,356",McCracken County,65622
+1085,1104.0,McLean,"279,477",McCreary County,17260
+1086,1105.0,Madison,"2,721,651",McLean County,9162
+1087,1106.0,Magoffin,"148,681",Madison County,93099
+1088,1107.0,Marion,"833,855",Magoffin County,12184
+1089,1108.0,Marshall,"1,300,162",Marion County,19237
+1090,1109.0,Martin,"245,888",Marshall County,31113
+1091,1110.0,Mason,"973,633",Martin County,11258
+1092,1111.0,Meade,"492,501",Mason County,17049
+1093,1112.0,Menifee,"79,018",Meade County,28610
+1094,1113.0,Mercer,"723,499",Menifee County,6483
+1095,1114.0,Metcalfe,"160,767",Mercer County,21921
+1096,1115.0,Monroe,"286,191",Metcalfe County,10084
+1097,1116.0,Montgomery,"917,274",Monroe County,10654
+1098,1117.0,Morgan,"236,676",Montgomery County,28197
+1099,1118.0,Muhlenberg,"1,169,173",Morgan County,13297
+1100,1119.0,Nelson,"1,437,498",Muhlenberg County,30681
+1101,1120.0,Nicholas,"89,098",Nelson County,46221
+1102,1121.0,Ohio,"839,286",Nicholas County,7248
+1103,1122.0,Oldham,"1,750,019",Ohio County,24043
+1104,1123.0,Owen,"171,058",Oldham County,66818
+1105,1124.0,Owsley,"43,963",Owen County,10884
+1106,1125.0,Pendleton,"260,902",Owsley County,4413
+1107,1126.0,Perry,"902,250",Pendleton County,14566
+1108,1127.0,Pike,"1,942,230",Perry County,25801
+1109,1128.0,Powell,"201,426",Pike County,57919
+1110,1129.0,Pulaski,"2,012,346",Powell County,12303
+1111,1130.0,Robertson,"22,796",Pulaski County,65243
+1112,1131.0,Rockcastle,"301,724",Robertson County,2149
+1113,1132.0,Rowan,"663,451",Rockcastle County,16736
+1114,1133.0,Russell,"579,966",Rowan County,24519
+1115,1134.0,Scott,"3,206,754",Russell County,17944
+1116,1135.0,Shelby,"1,506,643",Scott County,57079
+1117,1136.0,Simpson,"792,800",Shelby County,49022
+1118,1137.0,Spencer,"250,320",Simpson County,18530
+1119,1138.0,Taylor,"799,268",Spencer County,19302
+1120,1139.0,Todd,"332,601",Taylor County,25735
+1121,1140.0,Trigg,"257,427",Todd County,12318
+1122,1141.0,Trimble,"465,354",Trigg County,14666
+1123,1142.0,Union,"746,237",Trimble County,8529
+1124,1143.0,Warren,"5,657,965",Union County,14497
+1125,1144.0,Washington,"289,074",Warren County,132759
+1126,1145.0,Wayne,"385,141",Washington County,12098
+1127,1146.0,Webster,"512,479",Wayne County,20278
+1128,1147.0,Whitley,"963,473",Webster County,12945
+1129,1148.0,Wolfe,"87,903",Whitley County,36362
+1130,1149.0,Woodford,"1,155,061",Wolfe County,7151
+1131,1151.0,Louisiana,"235,947,575",Woodford County,26654
+1132,1152.0,Acadia,"1,443,461",Louisiana,4658285
+1133,1153.0,Allen,"643,915",Acadia Parish,62207
+1134,1154.0,Ascension,"8,408,442",Allen Parish,25594
+1135,1155.0,Assumption,"466,957",Ascension Parish,126798
+1136,1156.0,Avoyelles,"842,023",Assumption Parish,21921
+1137,1157.0,Beauregard,"996,718",Avoyelles Parish,40138
+1138,1158.0,Bienville,"706,206",Beauregard Parish,37649
+1139,1159.0,Bossier,"5,207,876",Bienville Parish,13234
+1140,1160.0,Caddo,"12,450,126",Bossier Parish,127377
+1141,1161.0,Calcasieu,"15,512,865",Caddo Parish,240431
+1142,1162.0,Caldwell,"180,016",Calcasieu Parish,204038
+1143,1163.0,Cameron,"1,259,147",Caldwell Parish,9946
+1144,1164.0,Catahoula,"179,326",Cameron Parish,6981
+1145,1165.0,Claiborne,"443,390",Catahoula Parish,9459
+1146,1166.0,Concordia,"548,198",Claiborne Parish,15718
+1147,1167.0,De Soto,"3,717,166",Concordia Parish,19314
+1148,1168.0,East Baton Rouge,"34,139,057",De Soto Parish,27440
+1149,1169.0,East Carroll,"161,249",East Baton Rouge Parish,441471
+1150,1170.0,East Feliciana,"451,024",East Carroll Parish,6829
+1151,1171.0,Evangeline,"851,685",East Feliciana Parish,19103
+1152,1172.0,Franklin,"560,061",Evangeline Parish,33396
+1153,1173.0,Grant,"328,655",Franklin Parish,19996
+1154,1174.0,Iberia,"2,986,732",Grant Parish,22352
+1155,1175.0,Iberville,"1,902,581",Iberia Parish,69638
+1156,1176.0,Jackson,"442,405",Iberville Parish,32549
+1157,1177.0,Jefferson,"21,821,050",Jackson Parish,15761
+1158,1178.0,Jefferson Davis,"879,901",Jefferson Parish,434096
+1159,1179.0,Lafayette,"13,091,842",Jefferson Davis Parish,31444
+1160,1180.0,Lafourche,"3,767,904",Lafayette Parish,244798
+1161,1181.0,LaSalle,"505,692",Lafourche Parish,97618
+1162,1182.0,Lincoln,"2,110,843",LaSalle Parish,14910
+1163,1183.0,Livingston,"2,967,823",Lincoln Parish,46851
+1164,1184.0,Madison,"419,594",Livingston Parish,141561
+1165,1185.0,Morehouse,"576,198",Madison Parish,10994
+1166,1186.0,Natchitoches,"1,298,701",Morehouse Parish,24839
+1167,1187.0,Orleans,"21,944,520",Natchitoches Parish,38179
+1168,1188.0,Ouachita,"6,451,069",Orleans Parish,391172
+1169,1189.0,Plaquemines,"3,898,382",Ouachita Parish,153401
+1170,1190.0,Pointe Coupee,"807,285",Plaquemines Parish,23264
+1171,1191.0,Rapides,"5,183,392",Pointe Coupee Parish,21735
+1172,1192.0,Red River,"1,169,410",Rapides Parish,129800
+1173,1193.0,Richland,"558,917",Red River Parish,8380
+1174,1194.0,Sabine,"788,101",Richland Parish,20147
+1175,1195.0,St. Bernard,"1,474,182",Sabine Parish,23895
+1176,1196.0,St. Charles,"8,705,733",St. Bernard Parish,47192
+1177,1197.0,St. Helena,"179,542",St. Charles Parish,53083
+1178,1198.0,St. James,"3,131,651",St. Helena Parish,10145
+1179,1199.0,St. John the Baptist,"4,276,736",St. James Parish,21045
+1180,1200.0,St. Landry,"2,331,914",St. John the Baptist Parish,42824
+1181,1201.0,St. Martin,"1,172,638",St. Landry Parish,82196
+1182,1202.0,St. Mary,"2,229,956",St. Martin Parish,53497
+1183,1203.0,St. Tammany,"11,296,810",St. Mary Parish,49294
+1184,1204.0,Tangipahoa,"3,938,183",St. Tammany Parish,261303
+1185,1205.0,Tensas,"144,208",Tangipahoa Parish,134845
+1186,1206.0,Terrebonne,"5,069,581",Tensas Parish,4319
+1187,1207.0,Union,"461,788",Terrebonne Parish,110615
+1188,1208.0,Vermilion,"1,518,462",Union Parish,22068
+1189,1209.0,Vernon,"1,858,450",Vermilion Parish,59573
+1190,1210.0,Washington,"1,042,533",Vernon Parish,48394
+1191,1211.0,Webster,"1,079,908",Washington Parish,46158
+1192,1212.0,West Baton Rouge,"2,223,692",Webster Parish,38323
+1193,1213.0,West Carroll,"181,096",West Baton Rouge Parish,26550
+1194,1214.0,West Feliciana,"882,302",West Carroll Parish,10906
+1195,1215.0,Winn,"424,728",West Feliciana Parish,15570
+1196,1217.0,Maine,"59,433,938",Winn Parish,13961
+1197,1218.0,Androscoggin,"4,336,828",Maine,1345770
+1198,1219.0,Aroostook,"2,328,600",Androscoggin County,108361
+1199,1220.0,Cumberland,"20,335,255",Aroostook County,67092
+1200,1221.0,Franklin,"986,397",Cumberland County,296052
+1201,1222.0,Hancock,"2,261,302",Franklin County,30046
+1202,1223.0,Kennebec,"5,210,153",Hancock County,55098
+1203,1224.0,Knox,"1,661,849",Kennebec County,122241
+1204,1225.0,Lincoln,"1,085,513",Knox County,39792
+1205,1226.0,Oxford,"1,537,957",Lincoln County,34685
+1206,1227.0,Penobscot,"6,021,508",Oxford County,57895
+1207,1228.0,Piscataquis,"507,211",Penobscot County,151823
+1208,1229.0,Sagadahoc,"1,563,075",Piscataquis County,16880
+1209,1230.0,Somerset,"1,532,489",Sagadahoc County,36057
+1210,1231.0,Waldo,"1,235,893",Somerset County,50729
+1211,1232.0,Washington,"999,112",Waldo County,39755
+1212,1233.0,York,"7,832,355",Washington County,31286
+1213,1235.0,Maryland,"369,623,938",York County,207978
+1214,1236.0,Allegany,"2,701,011",Maryland,6054954
+1215,1237.0,Anne Arundel,"47,036,809",Allegany County,70527
+1216,1238.0,Baltimore,"51,496,525",Anne Arundel County,579895
+1217,1239.0,Calvert,"4,104,267",Baltimore County,828503
+1218,1240.0,Caroline,"1,146,764",Calvert County,92660
+1219,1241.0,Carroll,"5,809,225",Caroline County,33509
+1220,1242.0,Cecil,"4,397,763",Carroll County,168774
+1221,1243.0,Charles,"5,393,681",Cecil County,103092
+1222,1244.0,Dorchester,"1,192,798",Charles County,163733
+1223,1245.0,Frederick,"12,654,015",Dorchester County,31864
+1224,1246.0,Garrett,"1,180,073",Frederick County,260609
+1225,1247.0,Harford,"12,157,167",Garrett County,29049
+1226,1248.0,Howard,"25,375,945",Harford County,255594
+1227,1249.0,Kent,"870,799",Howard County,325951
+1228,1250.0,Montgomery,"84,245,073",Kent County,19426
+1229,1251.0,Prince George's,"42,021,090",Montgomery County,1051129
+1230,1252.0,Queen Anne's,"1,711,130",Prince George's County,911562
+1231,1253.0,St. Mary's,"6,902,651",Queen Anne's County,50585
+1232,1254.0,Somerset,"787,539",St. Mary's County,113764
+1233,1255.0,Talbot,"1,877,804",Somerset County,25609
+1234,1256.0,Washington,"6,491,328",Talbot County,37186
+1235,1257.0,Wicomico,"4,665,436",Washington County,151066
+1236,1258.0,Worcester,"2,539,432",Wicomico County,104005
+1237,1259.0,Baltimore City,"42,861,684",Worcester County,52261
+1238,1261.0,Massachusetts,"517,727,089",Baltimore city,594601
+1239,1262.0,Barnstable,"12,120,706",Massachusetts,6894883
+1240,1263.0,Berkshire,"6,310,394",Barnstable County,212923
+1241,1264.0,Bristol,"24,369,699",Berkshire County,125217
+1242,1265.0,Dukes,"1,430,082",Bristol County,565096
+1243,1266.0,Essex,"42,568,760",Dukes County,17461
+1244,1267.0,Franklin,"2,829,006",Essex County,789725
+1245,1268.0,Hampden,"20,619,111",Franklin County,70276
+1246,1269.0,Hampshire,"7,135,235",Hampden County,465749
+1247,1270.0,Middlesex,"163,832,374",Hampshire County,161596
+1248,1271.0,Nantucket,"1,341,023",Middlesex County,1611263
+1249,1272.0,Norfolk,"49,858,603",Nantucket County,11330
+1250,1273.0,Plymouth,"23,945,878",Norfolk County,707164
+1251,1274.0,Suffolk,"121,032,551",Plymouth County,521841
+1252,1275.0,Worcester,"40,294,714",Suffolk County,805915
+1253,1277.0,Michigan,"467,300,231",Worcester County,829327
+1254,1278.0,Alcona,"203,951",Michigan,9984795
+1255,1279.0,Alger,"222,713",Alcona County,10453
+1256,1280.0,Allegan,"4,076,546",Alger County,9078
+1257,1281.0,Alpena,"976,469",Allegan County,118045
+1258,1282.0,Antrim,"549,958",Alpena County,28391
+1259,1283.0,Arenac,"407,884",Antrim County,23359
+1260,1284.0,Baraga,"246,496",Arenac County,14944
+1261,1285.0,Barry,"1,491,876",Baraga County,8245
+1262,1286.0,Bay,"3,240,660",Barry County,61481
+1263,1287.0,Benzie,"477,431",Bay County,102964
+1264,1288.0,Berrien,"6,832,030",Benzie County,17767
+1265,1289.0,Branch,"1,329,477",Berrien County,153352
+1266,1290.0,Calhoun,"5,845,846",Branch County,43444
+1267,1291.0,Cass,"1,036,008",Calhoun County,133806
+1268,1292.0,Charlevoix,"1,102,908",Cass County,51847
+1269,1293.0,Cheboygan,"573,688",Charlevoix County,26202
+1270,1294.0,Chippewa,"1,018,456",Cheboygan County,25331
+1271,1295.0,Clare,"980,822",Chippewa County,37287
+1272,1296.0,Clinton,"1,985,877",Clare County,30884
+1273,1297.0,Crawford,"389,840",Clinton County,79615
+1274,1298.0,Delta,"1,133,913",Crawford County,14012
+1275,1299.0,Dickinson,"1,209,642",Delta County,35744
+1276,1300.0,Eaton,"4,755,123",Dickinson County,25336
+1277,1301.0,Emmet,"1,593,610",Eaton County,110119
+1278,1302.0,Genesee,"14,924,552",Emmet County,33337
+1279,1303.0,Gladwin,"454,438",Genesee County,405702
+1280,1304.0,Gogebic,"427,706",Gladwin County,25430
+1281,1305.0,Grand Traverse,"4,751,080",Gogebic County,13971
+1282,1306.0,Gratiot,"1,225,796",Grand Traverse County,93032
+1283,1307.0,Hillsdale,"1,404,188",Gratiot County,40681
+1284,1308.0,Houghton,"1,010,979",Hillsdale County,45548
+1285,1309.0,Huron,"1,366,647",Houghton County,35709
+1286,1310.0,Ingham,"15,266,950",Huron County,30904
+1287,1311.0,Ionia,"1,564,551",Ingham County,291426
+1288,1312.0,Iosco,"761,070",Ionia County,64654
+1289,1313.0,Iron,"300,251",Iosco County,25244
+1290,1314.0,Isabella,"2,130,052",Iron County,11053
+1291,1315.0,Jackson,"6,035,348",Isabella County,69635
+1292,1316.0,Kalamazoo,"12,734,704",Jackson County,158357
+1293,1317.0,Kalkaska,"518,146",Kalamazoo County,265531
+1294,1318.0,Kent,"38,783,598",Kalkaska County,17984
+1295,1319.0,Keweenaw,"46,691",Kent County,656800
+1296,1320.0,Lake,"207,535",Keweenaw County,2085
+1297,1321.0,Lapeer,"2,074,540",Lake County,11752
+1298,1322.0,Leelanau,"740,296",Lapeer County,87808
+1299,1323.0,Lenawee,"2,694,299",Leelanau County,21692
+1300,1324.0,Livingston,"6,505,086",Lenawee County,98519
+1301,1325.0,Luce,"141,689",Livingston County,192058
+1302,1326.0,Mackinac,"396,321",Luce County,6266
+1303,1327.0,Macomb,"35,914,052",Mackinac County,10807
+1304,1328.0,Manistee,"784,103",Macomb County,872389
+1305,1329.0,Marquette,"2,664,061",Manistee County,24619
+1306,1330.0,Mason,"943,116",Marquette County,66689
+1307,1331.0,Mecosta,"1,145,045",Mason County,29154
+1308,1332.0,Menominee,"696,962",Mecosta County,43583
+1309,1333.0,Midland,"4,747,069",Menominee County,22772
+1310,1334.0,Missaukee,"435,867",Midland County,83412
+1311,1335.0,Monroe,"5,448,244",Missaukee County,15079
+1312,1336.0,Montcalm,"1,472,629",Monroe County,150412
+1313,1337.0,Montmorency,"274,997",Montcalm County,63708
+1314,1338.0,Muskegon,"5,701,513",Montmorency County,9304
+1315,1339.0,Newaygo,"1,309,772",Muskegon County,173645
+1316,1340.0,Oakland,"97,010,130",Newaygo County,49027
+1317,1341.0,Oceana,"628,565",Oakland County,1257726
+1318,1342.0,Ogemaw,"511,013",Oceana County,26562
+1319,1343.0,Ontonagon,"119,361",Ogemaw County,20933
+1320,1344.0,Osceola,"693,583",Ontonagon County,5713
+1321,1345.0,Oscoda,"197,946",Osceola County,23394
+1322,1346.0,Otsego,"934,865",Oscoda County,8318
+1323,1347.0,Ottawa,"13,249,577",Otsego County,24664
+1324,1348.0,Presque Isle,"313,852",Ottawa County,291460
+1325,1349.0,Roscommon,"519,295",Presque Isle County,12602
+1326,1350.0,Saginaw,"7,732,704",Roscommon County,23986
+1327,1351.0,St. Clair,"4,830,186",Saginaw County,190484
+1328,1352.0,St. Joseph,"1,857,701",St. Clair County,159339
+1329,1353.0,Sanilac,"1,138,959",St. Joseph County,60826
+1330,1354.0,Schoolcraft,"259,126",Sanilac County,41220
+1331,1355.0,Shiawassee,"1,539,042",Schoolcraft County,8081
+1332,1356.0,Tuscola,"1,141,575",Shiawassee County,68065
+1333,1357.0,Van Buren,"2,641,262",Tuscola County,52355
+1334,1358.0,Washtenaw,"22,929,578",Van Buren County,75594
+1335,1359.0,Wayne,"88,105,701",Washtenaw County,368242
+1336,1360.0,Wexford,"1,203,376",Wayne County,1750093
+1337,1362.0,Minnesota,"340,130,407",Wexford County,33654
+1338,1363.0,Aitkin,"444,850",Minnesota,5640053
+1339,1364.0,Anoka,"14,449,032",Aitkin County,15841
+1340,1365.0,Becker,"1,327,508",Anoka County,357538
+1341,1366.0,Beltrami,"1,637,687",Becker County,34461
+1342,1367.0,Benton,"1,673,672",Beltrami County,47205
+1343,1368.0,Big Stone,"179,291",Benton County,40938
+1344,1369.0,Blue Earth,"3,742,998",Big Stone County,4967
+1345,1370.0,Brown,"1,390,355",Blue Earth County,67874
+1346,1371.0,Carlton,"1,183,667",Brown County,24965
+1347,1372.0,Carver,"5,135,867",Carlton County,35913
+1348,1373.0,Cass,"910,489",Carver County,105128
+1349,1374.0,Chippewa,"553,040",Cass County,29622
+1350,1375.0,Chisago,"1,498,517",Chippewa County,11756
+1351,1376.0,Clay,"1,861,304",Chisago County,56543
+1352,1377.0,Clearwater,"262,797",Clay County,64441
+1353,1378.0,Cook,"236,099",Clearwater County,8843
+1354,1379.0,Cottonwood,"587,435",Cook County,5416
+1355,1380.0,Crow Wing,"2,546,761",Cottonwood County,11232
+1356,1381.0,Dakota,"25,781,155",Crow Wing County,65191
+1357,1382.0,Dodge,"733,746",Dakota County,429453
+1358,1383.0,Douglas,"1,821,547",Dodge County,20976
+1359,1384.0,Faribault,"452,986",Douglas County,38070
+1360,1385.0,Fillmore,"580,689",Faribault County,13671
+1361,1386.0,Freeborn,"1,167,304",Fillmore County,21081
+1362,1387.0,Goodhue,"2,658,926",Freeborn County,30385
+1363,1388.0,Grant,"263,664",Goodhue County,46391
+1364,1389.0,Hennepin,"127,237,733",Grant County,5977
+1365,1390.0,Houston,"523,844",Hennepin County,1265159
+1366,1391.0,Hubbard,"716,813",Houston County,18667
+1367,1392.0,Isanti,"1,064,444",Hubbard County,21604
+1368,1393.0,Itasca,"1,966,460",Isanti County,40447
+1369,1394.0,Jackson,"670,699",Itasca County,45225
+1370,1395.0,Kanabec,"389,684",Jackson County,9799
+1371,1396.0,Kandiyohi,"2,148,818",Kanabec County,16357
+1372,1397.0,Kittson,"182,553",Kandiyohi County,43137
+1373,1398.0,Koochiching,"496,098",Kittson County,4286
+1374,1399.0,Lac qui Parle,"239,398",Koochiching County,12202
+1375,1400.0,Lake,"590,652",Lac qui Parle County,6628
+1376,1401.0,Lake of the Woods,"183,391",Lake County,10625
+1377,1402.0,Le Sueur,"917,293",Lake of the Woods County,3736
+1378,1403.0,Lincoln,"348,891",Le Sueur County,28856
+1379,1404.0,Lyon,"1,498,516",Lincoln County,5619
+1380,1405.0,McLeod,"1,710,922",Lyon County,25579
+1381,1406.0,Mahnomen,"157,697",McLeod County,35826
+1382,1407.0,Marshall,"358,568",Mahnomen County,5540
+1383,1408.0,Martin,"1,093,326",Marshall County,9345
+1384,1409.0,Meeker,"921,919",Martin County,19641
+1385,1410.0,Mille Lacs,"783,528",Meeker County,23166
+1386,1411.0,Morrison,"1,116,878",Mille Lacs County,26166
+1387,1412.0,Mower,"1,681,589",Morrison County,33329
+1388,1413.0,Murray,"597,978",Mower County,40040
+1389,1414.0,Nicollet,"1,485,064",Murray County,8197
+1390,1415.0,Nobles,"1,238,412",Nicollet County,34311
+1391,1416.0,Norman,"225,905",Nobles County,21645
+1392,1417.0,Olmsted,"10,960,572",Norman County,6388
+1393,1418.0,Otter Tail,"2,131,442",Olmsted County,158188
+1394,1419.0,Pennington,"1,680,957",Otter Tail County,58684
+1395,1420.0,Pine,"672,421",Pennington County,14069
+1396,1421.0,Pipestone,"742,531",Pine County,29430
+1397,1422.0,Polk,"1,253,287",Pipestone County,9152
+1398,1423.0,Pope,"513,791",Polk County,31330
+1399,1424.0,Ramsey,"38,927,888",Pope County,11216
+1400,1425.0,Red Lake,"151,867",Ramsey County,549632
+1401,1426.0,Redwood,"857,109",Red Lake County,4032
+1402,1427.0,Renville,"722,010",Redwood County,15158
+1403,1428.0,Rice,"2,553,736",Renville County,14551
+1404,1429.0,Rock,"732,101",Rice County,67016
+1405,1430.0,Roseau,"1,086,327",Rock County,9334
+1406,1431.0,St. Louis,"9,794,058",Roseau County,15176
+1407,1432.0,Scott,"6,489,380",St. Louis County,199212
+1408,1433.0,Sherburne,"3,159,842",Scott County,149004
+1409,1434.0,Sibley,"422,100",Sherburne County,97424
+1410,1435.0,Stearns,"8,157,758",Sibley County,14868
+1411,1436.0,Steele,"2,174,736",Stearns County,161076
+1412,1437.0,Stevens,"600,482",Steele County,36687
+1413,1438.0,Swift,"446,966",Stevens County,9822
+1414,1439.0,Todd,"836,085",Swift County,9294
+1415,1440.0,Traverse,"183,309",Todd County,24725
+1416,1441.0,Wabasha,"698,721",Traverse County,3260
+1417,1442.0,Wadena,"493,901",Wabasha County,21548
+1418,1443.0,Waseca,"717,795",Wadena County,13662
+1419,1444.0,Washington,"11,259,843",Waseca County,18558
+1420,1445.0,Watonwan,"459,128",Washington County,262541
+1421,1446.0,Wilkin,"280,480",Watonwan County,10846
+1422,1447.0,Winona,"2,217,318",Wilkin County,6223
+1423,1448.0,Wright,"4,496,034",Winona County,50659
+1424,1449.0,Yellow Medicine,"493,517",Wright County,138542
+1425,1451.0,Mississippi,"101,525,138",Yellow Medicine County,9736
+1426,1452.0,Adams,"872,741",Mississippi,2978227
+1427,1453.0,Alcorn,"1,118,894",Adams County,30736
+1428,1454.0,Amite,"223,659",Alcorn County,37043
+1429,1455.0,Attala,"413,264",Amite County,12286
+1430,1456.0,Benton,"230,686",Attala County,18173
+1431,1457.0,Bolivar,"864,424",Benton County,8278
+1432,1458.0,Calhoun,"249,310",Bolivar County,30714
+1433,1459.0,Carroll,"98,710",Calhoun County,14365
+1434,1460.0,Chickasaw,"486,362",Carroll County,9928
+1435,1461.0,Choctaw,"659,484",Chickasaw County,17026
+1436,1462.0,Claiborne,"689,276",Choctaw County,8192
+1437,1463.0,Clarke,"274,560",Claiborne County,8998
+1438,1464.0,Clay,"498,752",Clarke County,15506
+1439,1465.0,Coahoma,"639,791",Clay County,19349
+1440,1466.0,Copiah,"621,957",Coahoma County,22095
+1441,1467.0,Covington,"555,124",Copiah County,28099
+1442,1468.0,DeSoto,"5,378,488",Covington County,18562
+1443,1469.0,Forrest,"3,209,875",DeSoto County,185385
+1444,1470.0,Franklin,"169,724",Forrest County,75035
+1445,1471.0,George,"425,689",Franklin County,7694
+1446,1472.0,Greene,"139,412",George County,24435
+1447,1473.0,Grenada,"826,510",Greene County,13569
+1448,1474.0,Hancock,"1,385,884",Grenada County,20732
+1449,1475.0,Harrison,"7,826,548",Hancock County,47673
+1450,1476.0,Hinds,"10,892,247",Harrison County,207859
+1451,1477.0,Holmes,"243,961",Hinds County,231919
+1452,1478.0,Humphreys,"168,325",Holmes County,17036
+1453,1479.0,Issaquena,"19,842",Humphreys County,8056
+1454,1480.0,Itawamba,"513,058",Issaquena County,1324
+1455,1481.0,Jackson,"7,145,046",Itawamba County,23351
+1456,1482.0,Jasper,"558,723",Jackson County,143387
+1457,1483.0,Jefferson,"109,849",Jasper County,16368
+1458,1484.0,Jefferson Davis,"171,890",Jefferson County,7022
+1459,1485.0,Jones,"2,413,199",Jefferson Davis County,11089
+1460,1486.0,Kemper,"322,295",Jones County,68282
+1461,1487.0,Lafayette,"1,911,482",Kemper County,9780
+1462,1488.0,Lamar,"1,554,407",Lafayette County,54239
+1463,1489.0,Lauderdale,"3,001,657",Lamar County,63447
+1464,1490.0,Lawrence,"314,077",Lauderdale County,74619
+1465,1491.0,Leake,"568,700",Lawrence County,12607
+1466,1492.0,Lee,"4,500,737",Leake County,22830
+1467,1493.0,Leflore,"1,060,040",Lee County,85674
+1468,1494.0,Lincoln,"1,048,638",Leflore County,28202
+1469,1495.0,Lowndes,"2,689,273",Lincoln County,34111
+1470,1496.0,Madison,"5,683,451",Lowndes County,58621
+1471,1497.0,Marion,"800,451",Madison County,106334
+1472,1498.0,Marshall,"624,585",Marion County,24504
+1473,1499.0,Monroe,"846,732",Marshall County,35302
+1474,1500.0,Montgomery,"168,390",Monroe County,35291
+1475,1501.0,Neshoba,"961,264",Montgomery County,9766
+1476,1502.0,Newton,"470,112",Neshoba County,29147
+1477,1503.0,Noxubee,"215,682",Newton County,20987
+1478,1504.0,Oktibbeha,"1,572,994",Noxubee County,10425
+1479,1505.0,Panola,"1,010,158",Oktibbeha County,49543
+1480,1506.0,Pearl River,"1,002,782",Panola County,34102
+1481,1507.0,Perry,"267,093",Pearl River County,55752
+1482,1508.0,Pike,"1,015,496",Perry County,11998
+1483,1509.0,Pontotoc,"880,658",Pike County,39284
+1484,1510.0,Prentiss,"531,098",Pontotoc County,32280
+1485,1511.0,Quitman,"87,374",Prentiss County,25074
+1486,1512.0,Rankin,"6,017,152",Quitman County,6808
+1487,1513.0,Scott,"1,071,336",Rankin County,155342
+1488,1514.0,Sharkey,"87,206",Scott County,28203
+1489,1515.0,Simpson,"582,672",Sharkey County,4312
+1490,1516.0,Smith,"375,623",Simpson County,26803
+1491,1517.0,Stone,"329,580",Smith County,15840
+1492,1518.0,Sunflower,"563,419",Stone County,18289
+1493,1519.0,Tallahatchie,"252,415",Sunflower County,25131
+1494,1520.0,Tate,"456,178",Tallahatchie County,13931
+1495,1521.0,Tippah,"577,956",Tate County,28304
+1496,1522.0,Tishomingo,"512,912",Tippah County,22021
+1497,1523.0,Tunica,"471,684",Tishomingo County,19368
+1498,1524.0,Union,"1,020,219",Tunica County,9602
+1499,1525.0,Walthall,"246,986",Union County,28711
+1500,1526.0,Warren,"2,060,226",Walthall County,14316
+1501,1527.0,Washington,"1,255,291",Warren County,45477
+1502,1528.0,Wayne,"634,675",Washington County,43973
+1503,1529.0,Webster,"174,220",Wayne County,20186
+1504,1530.0,Wilkinson,"134,190",Webster County,9702
+1505,1531.0,Winston,"483,850",Wilkinson County,8628
+1506,1532.0,Yalobusha,"292,500",Winston County,17993
+1507,1533.0,Yazoo,"695,586",Yalobusha County,12104
+1508,1535.0,Missouri,"290,842,031",Yazoo County,29698
+1509,1536.0,Adair,"737,525",Missouri,6140475
+1510,1537.0,Andrew,"310,653",Adair County,25511
+1511,1538.0,Atchison,"302,486",Andrew County,17699
+1512,1539.0,Audrain,"846,959",Atchison County,5109
+1513,1540.0,Barry,"1,500,459",Audrain County,24962
+1514,1541.0,Barton,"307,003",Barry County,35789
+1515,1542.0,Bates,"424,729",Barton County,11681
+1516,1543.0,Benton,"372,269",Bates County,16213
+1517,1544.0,Bollinger,"181,707",Benton County,19477
+1518,1545.0,Boone,"8,779,082",Bollinger County,12142
+1519,1546.0,Buchanan,"4,615,246",Boone County,181084
+1520,1547.0,Butler,"1,291,293",Buchanan County,87212
+1521,1548.0,Caldwell,"195,641",Butler County,42574
+1522,1549.0,Callaway,"1,677,115",Caldwell County,9039
+1523,1550.0,Camden,"1,411,312",Callaway County,44762
+1524,1551.0,Cape Girardeau,"3,692,214",Camden County,46211
+1525,1552.0,Carroll,"343,686",Cape Girardeau County,78971
+1526,1553.0,Carter,"110,034",Carroll County,8698
+1527,1554.0,Cass,"2,483,369",Carter County,5981
+1528,1555.0,Cedar,"247,450",Cass County,105731
+1529,1556.0,Chariton,"276,708",Cedar County,14301
+1530,1557.0,Christian,"1,621,747",Chariton County,7463
+1531,1558.0,Clark,"134,550",Christian County,88913
+1532,1559.0,Clay,"11,428,296",Clark County,6804
+1533,1560.0,Clinton,"356,628",Clay County,250522
+1534,1561.0,Cole,"4,857,848",Clinton County,20434
+1535,1562.0,Cooper,"406,235",Cole County,76774
+1536,1563.0,Crawford,"613,080",Cooper County,17563
+1537,1564.0,Dade,"171,732",Crawford County,23856
+1538,1565.0,Dallas,"238,940",Dade County,7547
+1539,1566.0,Daviess,"171,701",Dallas County,16984
+1540,1567.0,DeKalb,"297,239",Daviess County,8273
+1541,1568.0,Dent,"346,832",DeKalb County,10802
+1542,1569.0,Douglas,"198,365",Dent County,15548
+1543,1570.0,Dunklin,"686,935",Douglas County,13248
+1544,1571.0,Franklin,"4,231,890",Dunklin County,29173
+1545,1572.0,Gasconade,"432,845",Franklin County,103860
+1546,1573.0,Gentry,"225,703",Gasconade County,14671
+1547,1574.0,Greene,"15,402,263",Gentry County,6564
+1548,1575.0,Grundy,"328,426",Greene County,293499
+1549,1576.0,Harrison,"229,958",Grundy County,9780
+1550,1577.0,Henry,"645,737",Harrison County,8346
+1551,1578.0,Hickory,"135,172",Henry County,21971
+1552,1579.0,Holt,"231,480",Hickory County,9496
+1553,1580.0,Howard,"209,628",Holt County,4387
+1554,1581.0,Howell,"1,148,568",Howard County,9982
+1555,1582.0,Iron,"426,690",Howell County,40084
+1556,1583.0,Jackson,"43,134,462",Iron County,10152
+1557,1584.0,Jasper,"5,038,849",Jackson County,704350
+1558,1585.0,Jefferson,"4,766,570",Jasper County,121228
+1559,1586.0,Johnson,"1,664,977",Jefferson County,225402
+1560,1587.0,Knox,"123,389",Johnson County,54187
+1561,1588.0,Laclede,"1,128,475",Knox County,3957
+1562,1589.0,Lafayette,"751,965",Laclede County,35869
+1563,1590.0,Lawrence,"825,513",Lafayette County,32774
+1564,1591.0,Lewis,"216,083",Lawrence County,38288
+1565,1592.0,Lincoln,"1,164,851",Lewis County,9787
+1566,1593.0,Linn,"380,959",Lincoln County,59040
+1567,1594.0,Livingston,"534,086",Linn County,11906
+1568,1595.0,McDonald,"692,997",Livingston County,14982
+1569,1596.0,Macon,"516,095",McDonald County,22912
+1570,1597.0,Madison,"270,617",Macon County,15111
+1571,1598.0,Maries,"164,529",Madison County,12118
+1572,1599.0,Marion,"1,080,989",Maries County,8751
+1573,1600.0,Mercer,"104,194",Marion County,28543
+1574,1601.0,Miller,"629,216",Mercer County,3619
+1575,1602.0,Mississippi,"328,206",Miller County,25607
+1576,1603.0,Moniteau,"400,525",Mississippi County,13208
+1577,1604.0,Monroe,"177,180",Moniteau County,15816
+1578,1605.0,Montgomery,"338,713",Monroe County,8627
+1579,1606.0,Morgan,"482,472",Montgomery County,11472
+1580,1607.0,New Madrid,"976,781",Morgan County,20720
+1581,1608.0,Newton,"1,925,849",New Madrid County,17052
+1582,1609.0,Nodaway,"646,988",Newton County,58329
+1583,1610.0,Oregon,"193,629",Nodaway County,22089
+1584,1611.0,Osage,"388,952",Oregon County,10517
+1585,1612.0,Ozark,"121,953",Osage County,13621
+1586,1613.0,Pemiscot,"394,824",Ozark County,9155
+1587,1614.0,Perry,"1,045,299",Pemiscot County,15864
+1588,1615.0,Pettis,"1,580,227",Perry County,19164
+1589,1616.0,Phelps,"1,427,548",Pettis County,42417
+1590,1617.0,Pike,"467,064",Phelps County,44593
+1591,1618.0,Platte,"6,469,564",Pike County,17678
+1592,1619.0,Polk,"732,208",Platte County,104726
+1593,1620.0,Pulaski,"2,067,648",Polk County,32228
+1594,1621.0,Putnam,"121,369",Pulaski County,52634
+1595,1622.0,Ralls,"520,737",Putnam County,4688
+1596,1623.0,Randolph,"1,110,972",Ralls County,10292
+1597,1624.0,Ray,"470,928",Randolph County,24839
+1598,1625.0,Reynolds,"241,333",Ray County,23024
+1599,1626.0,Ripley,"197,631",Reynolds County,6288
+1600,1627.0,St. Charles,"15,975,675",Ripley County,13343
+1601,1628.0,St. Clair,"141,651",St. Charles County,401625
+1602,1629.0,Ste. Genevieve,"592,628",St. Clair County,9450
+1603,1630.0,St. Francois,"1,584,545",Ste. Genevieve County,17957
+1604,1631.0,St. Louis,"73,216,063",St. Francois County,66942
+1605,1632.0,Saline,"838,856",St. Louis County,995467
+1606,1633.0,Schuyler,"88,469",Saline County,22827
+1607,1634.0,Scotland,"135,088",Schuyler County,4632
+1608,1635.0,Scott,"1,480,889",Scotland County,4936
+1609,1636.0,Shannon,"131,193",Scott County,38416
+1610,1637.0,Shelby,"145,616",Shannon County,8177
+1611,1638.0,Stoddard,"960,267",Shelby County,5923
+1612,1639.0,Stone,"674,453",Stoddard County,29096
+1613,1640.0,Sullivan,"469,339",Stone County,32002
+1614,1641.0,Taney,"2,298,222",Sullivan County,6061
+1615,1642.0,Texas,"498,294",Taney County,56057
+1616,1643.0,Vernon,"783,290",Texas County,25383
+1617,1644.0,Warren,"809,374",Vernon County,20654
+1618,1645.0,Washington,"353,496",Warren County,35716
+1619,1646.0,Wayne,"203,305",Washington County,24743
+1620,1647.0,Webster,"698,481",Wayne County,12904
+1621,1648.0,Worth,"59,718",Webster County,39644
+1622,1649.0,Wright,"300,443",Worth County,1989
+1623,1650.0,St. Louis City,"26,972,663",Wright County,18329
+1624,1652.0,Montana,"46,788,047",St. Louis city,300887
+1625,1653.0,Beaverhead,"414,564",Montana,1070123
+1626,1654.0,Big Horn,"836,632",Beaverhead County,9474
+1627,1655.0,Blaine,"179,601",Big Horn County,13248
+1628,1656.0,Broadwater,"179,006",Blaine County,6704
+1629,1657.0,Carbon,"356,067",Broadwater County,6203
+1630,1658.0,Carter,"47,247",Carbon County,10703
+1631,1659.0,Cascade,"3,360,305",Carter County,1245
+1632,1660.0,Chouteau,"265,710",Cascade County,81393
+1633,1661.0,Custer,"429,174",Chouteau County,5681
+1634,1662.0,Daniels,"92,786",Custer County,11361
+1635,1663.0,Dawson,"388,339",Daniels County,1646
+1636,1664.0,Deer Lodge,"244,118",Dawson County,8638
+1637,1665.0,Fallon,"219,722",Deer Lodge County,9207
+1638,1666.0,Fergus,"460,431",Fallon County,2878
+1639,1667.0,Flathead,"3,803,189",Fergus County,11032
+1640,1668.0,Gallatin,"5,681,075",Flathead County,103880
+1641,1669.0,Garfield,"36,695",Gallatin County,114472
+1642,1670.0,Glacier,"454,195",Garfield County,1272
+1643,1671.0,Golden Valley,"26,100",Glacier County,13701
+1644,1672.0,Granite,"95,758",Golden Valley County,827
+1645,1673.0,Hill,"707,555",Granite County,3335
+1646,1674.0,Jefferson,"254,886",Hill County,16494
+1647,1675.0,Judith Basin,"109,019",Jefferson County,12211
+1648,1676.0,Lake,"743,490",Judith Basin County,2010
+1649,1677.0,Lewis and Clark,"3,181,806",Lake County,30586
+1650,1678.0,Liberty,"238,216",Lewis and Clark County,69578
+1651,1679.0,Lincoln,"513,071",Liberty County,2386
+1652,1680.0,McCone,"91,490",Lincoln County,20099
+1653,1681.0,Madison,"452,720",McCone County,1649
+1654,1682.0,Meagher,"63,779",Madison County,8749
+1655,1683.0,Mineral,"90,725",Meagher County,1841
+1656,1684.0,Missoula,"5,058,473",Mineral County,4422
+1657,1685.0,Musselshell,"280,330",Missoula County,120066
+1658,1686.0,Park,"553,023",Musselshell County,4626
+1659,1687.0,Petroleum,"17,467",Park County,16612
+1660,1688.0,Phillips,"124,813",Petroleum County,497
+1661,1689.0,Pondera,"254,349",Phillips County,3955
+1662,1690.0,Powder River,"128,802",Pondera County,5858
+1663,1691.0,Powell,"204,717",Powder River County,1688
+1664,1692.0,Prairie,"42,010",Powell County,6854
+1665,1693.0,Ravalli,"1,028,184",Prairie County,1064
+1666,1694.0,Richland,"971,753",Ravalli County,44149
+1667,1695.0,Roosevelt,"430,092",Richland County,10943
+1668,1696.0,Rosebud,"822,307",Roosevelt County,11027
+1669,1697.0,Sanders,"312,130",Rosebud County,8955
+1670,1698.0,Sheridan,"161,902",Sanders County,11946
+1671,1699.0,Silver Bow,"1,373,204",Sheridan County,3318
+1672,1700.0,Stillwater,"630,901",Silver Bow County,34901
+1673,1701.0,Sweet Grass,"234,806",Stillwater County,9671
+1674,1702.0,Teton,"253,241",Sweet Grass County,3717
+1675,1703.0,Toole,"347,247",Teton County,6150
+1676,1704.0,Treasure,"92,761",Toole County,4709
+1677,1705.0,Valley,"282,412",Treasure County,697
+1678,1706.0,Wheatland,"90,823",Valley County,7390
+1679,1707.0,Wibaux,"46,523",Wheatland County,2102
+1680,1708.0,Yellowstone,"8,821,423",Wibaux County,954
+1681,1710.0,Nebraska,"118,286,500",Yellowstone County,161349
+1682,1711.0,Adams,"1,760,031",Nebraska,1932571
+1683,1712.0,Antelope,"517,205",Adams County,31309
+1684,1713.0,Arthur,"21,336",Antelope County,6317
+1685,1714.0,Banner,"47,381",Arthur County,468
+1686,1715.0,Blaine,"36,270",Banner County,757
+1687,1716.0,Boone,"421,853",Blaine County,455
+1688,1717.0,Box Butte,"571,373",Boone County,5176
+1689,1718.0,Boyd,"126,020",Box Butte County,10786
+1690,1719.0,Brown,"243,081",Boyd County,1894
+1691,1720.0,Buffalo,"2,792,335",Brown County,2966
+1692,1721.0,Burt,"317,430",Buffalo County,49823
+1693,1722.0,Butler,"290,005",Burt County,6494
+1694,1723.0,Cass,"743,350",Butler County,7990
+1695,1724.0,Cedar,"374,790",Cass County,26186
+1696,1725.0,Chase,"321,241",Cedar County,8420
+1697,1726.0,Cherry,"297,528",Chase County,3901
+1698,1727.0,Cheyenne,"509,923",Cherry County,5757
+1699,1728.0,Clay,"311,115",Cheyenne County,9011
+1700,1729.0,Colfax,"665,034",Clay County,6219
+1701,1730.0,Cuming,"949,094",Colfax County,10677
+1702,1731.0,Custer,"706,323",Cuming County,8818
+1703,1732.0,Dakota,"1,411,263",Custer County,10796
+1704,1733.0,Dawes,"263,643",Dakota County,20100
+1705,1734.0,Dawson,"1,476,349",Dawes County,8557
+1706,1735.0,Deuel,"76,347",Dawson County,23571
+1707,1736.0,Dixon,"266,808",Deuel County,1816
+1708,1737.0,Dodge,"1,932,783",Dixon County,5636
+1709,1738.0,Douglas,"44,338,074",Dodge County,36444
+1710,1739.0,Dundy,"190,969",Douglas County,570860
+1711,1740.0,Fillmore,"349,192",Dundy County,1686
+1712,1741.0,Franklin,"74,903",Fillmore County,5484
+1713,1742.0,Frontier,"85,717",Franklin County,2945
+1714,1743.0,Furnas,"221,628",Frontier County,2631
+1715,1744.0,Gage,"889,545",Furnas County,4690
+1716,1745.0,Garden,"76,454",Gage County,21542
+1717,1746.0,Garfield,"83,745",Garden County,1822
+1718,1747.0,Gosper,"89,733",Garfield County,1970
+1719,1748.0,Grant,"31,606",Gosper County,1978
+1720,1749.0,Greeley,"100,445",Grant County,631
+1721,1750.0,Hall,"3,212,198",Greeley County,2368
+1722,1751.0,Hamilton,"633,458",Hall County,61454
+1723,1752.0,Harlan,"212,834",Hamilton County,9285
+1724,1753.0,Hayes,"100,373",Harlan County,3372
+1725,1754.0,Hitchcock,"130,202",Hayes County,911
+1726,1755.0,Holt,"635,362",Hitchcock County,2759
+1727,1756.0,Hooker,"33,798",Holt County,10084
+1728,1757.0,Howard,"234,212",Hooker County,668
+1729,1758.0,Jefferson,"398,966",Howard County,6423
+1730,1759.0,Johnson,"165,609",Jefferson County,7020
+1731,1760.0,Kearney,"338,207",Johnson County,5050
+1732,1761.0,Keith,"377,237",Kearney County,6607
+1733,1762.0,Keya Paha,"36,479",Keith County,8021
+1734,1763.0,Kimball,"151,373",Keya Paha County,784
+1735,1764.0,Knox,"445,193",Kimball County,3597
+1736,1765.0,Lancaster,"17,483,605",Knox County,8337
+1737,1766.0,Lincoln,"2,231,277",Lancaster County,318403
+1738,1767.0,Logan,"33,083",Lincoln County,34856
+1739,1768.0,Loup,"45,368",Logan County,750
+1740,1769.0,McPherson,"26,537",Loup County,659
+1741,1770.0,Madison,"2,280,178",McPherson County,493
+1742,1771.0,Merrick,"382,422",Madison County,35059
+1743,1772.0,Morrill,"483,373",Merrick County,7818
+1744,1773.0,Nance,"111,974",Morrill County,4624
+1745,1774.0,Nemaha,"659,361",Nance County,3482
+1746,1775.0,Nuckolls,"240,529",Nemaha County,6943
+1747,1776.0,Otoe,"1,149,045",Nuckolls County,4152
+1748,1777.0,Pawnee,"101,978",Otoe County,15993
+1749,1778.0,Perkins,"296,171",Pawnee County,2639
+1750,1779.0,Phelps,"832,277",Perkins County,2884
+1751,1780.0,Pierce,"335,916",Phelps County,8991
+1752,1781.0,Platte,"2,401,176",Pierce County,7136
+1753,1782.0,Polk,"283,483",Platte County,33413
+1754,1783.0,Red Willow,"492,055",Polk County,5154
+1755,1784.0,Richardson,"336,173",Red Willow County,10720
+1756,1785.0,Rock,"94,664",Richardson County,7854
+1757,1786.0,Saline,"959,787",Rock County,1370
+1758,1787.0,Sarpy,"7,951,490",Saline County,14194
+1759,1788.0,Saunders,"712,096",Sarpy County,186893
+1760,1789.0,Scotts Bluff,"1,598,698",Saunders County,21562
+1761,1790.0,Seward,"703,393",Scotts Bluff County,35582
+1762,1791.0,Sheridan,"293,705",Seward County,17318
+1763,1792.0,Sherman,"106,628",Sheridan County,5229
+1764,1793.0,Sioux,"91,998",Sherman County,2984
+1765,1794.0,Stanton,"330,215",Sioux County,1158
+1766,1795.0,Thayer,"356,595",Stanton County,5932
+1767,1796.0,Thomas,"38,106",Thayer County,4976
+1768,1797.0,Thurston,"401,383",Thomas County,723
+1769,1798.0,Valley,"268,900",Thurston County,7234
+1770,1799.0,Washington,"1,154,435",Valley County,4117
+1771,1800.0,Wayne,"404,290",Washington County,20683
+1772,1801.0,Webster,"251,236",Wayne County,9413
+1773,1802.0,Wheeler,"132,591",Webster County,3465
+1774,1803.0,York,"739,948",Wheeler County,780
+1775,1805.0,Nevada,"156,828,838",York County,13612
+1776,1806.0,Churchill,"1,089,140",Nevada,3090771
+1777,1807.0,Clark,"112,479,170",Churchill County,25048
+1778,1808.0,Douglas,"2,392,556",Clark County,2275884
+1779,1809.0,Elko,"2,658,854",Douglas County,48998
+1780,1810.0,Esmeralda,"40,443",Elko County,52880
+1781,1811.0,Eureka,"1,508,698",Esmeralda County,870
+1782,1812.0,Humboldt,"1,310,253",Eureka County,2078
+1783,1813.0,Lander,"900,608",Humboldt County,16884
+1784,1814.0,Lincoln,"151,868",Lander County,5516
+1785,1815.0,Lyon,"1,554,508",Lincoln County,5179
+1786,1816.0,Mineral,"205,798",Lyon County,57499
+1787,1817.0,Nye,"1,745,117",Mineral County,4516
+1788,1818.0,Pershing,"312,960",Nye County,46845
+1789,1819.0,Storey,"1,722,686",Pershing County,6628
+1790,1820.0,Washoe,"24,576,886",Storey County,4193
+1791,1821.0,White Pine,"650,330",Washoe County,472381
+1792,1822.0,Carson City,"3,384,312",White Pine County,9478
+1793,1824.0,New Hampshire,"77,126,518",Carson City,55894
+1794,1825.0,Belknap,"2,605,173",New Hampshire,1360783
+1795,1826.0,Carroll,"1,997,148",Belknap County,61398
+1796,1827.0,Cheshire,"3,498,185",Carroll County,48745
+1797,1828.0,Coos,"1,130,355",Cheshire County,75880
+1798,1829.0,Grafton,"6,232,922",Coos County,31421
+1799,1830.0,Hillsborough,"25,201,608",Grafton County,90369
+1800,1831.0,Merrimack,"9,078,358",Hillsborough County,417738
+1801,1832.0,Rockingham,"20,404,551",Merrimack County,151606
+1802,1833.0,Strafford,"5,528,962",Rockingham County,309647
+1803,1834.0,Sullivan,"1,466,502",Strafford County,130716
+1804,1836.0,New Jersey,"561,842,799",Sullivan County,43263
+1805,1837.0,Atlantic,"12,472,343",New Jersey,8891258
+1806,1838.0,Bergen,"72,096,353",Atlantic County,263653
+1807,1839.0,Burlington,"26,177,916",Bergen County,932256
+1808,1840.0,Camden,"23,035,400",Burlington County,446160
+1809,1841.0,Cape May,"4,993,336",Camden County,506503
+1810,1842.0,Cumberland,"5,877,225",Cape May County,92247
+1811,1843.0,Essex,"50,444,200",Cumberland County,148995
+1812,1844.0,Gloucester,"14,879,439",Essex County,802162
+1813,1845.0,Hudson,"42,872,666",Gloucester County,291842
+1814,1846.0,Hunterdon,"7,115,090",Hudson County,674030
+1815,1847.0,Mercer,"33,378,088",Hunterdon County,125201
+1816,1848.0,Middlesex,"57,406,650",Mercer County,368047
+1817,1849.0,Monmouth,"33,433,421",Middlesex County,824394
+1818,1850.0,Morris,"50,101,633",Monmouth County,619687
+1819,1851.0,Ocean,"19,992,788",Morris County,491577
+1820,1852.0,Passaic,"20,416,500",Ocean County,607498
+1821,1853.0,Salem,"4,683,214",Passaic County,501838
+1822,1854.0,Somerset,"38,449,526",Salem County,62341
+1823,1855.0,Sussex,"4,681,076",Somerset County,329998
+1824,1856.0,Union,"35,555,291",Sussex County,140710
+1825,1857.0,Warren,"3,833,292",Union County,556664
+1826,1859.0,New Mexico,"94,872,250",Warren County,105455
+1827,1860.0,Bernalillo,"34,414,788",New Mexico,2099634
+1828,1861.0,Catron,"76,517",Bernalillo County,679425
+1829,1862.0,Chaves,"2,014,179",Catron County,3507
+1830,1863.0,Cibola,"568,520",Chaves County,64586
+1831,1864.0,Colfax,"433,164",Cibola County,26681
+1832,1865.0,Curry,"2,835,595",Colfax County,12068
+1833,1866.0,De Baca,"83,763",Curry County,49083
+1834,1867.0,Doña Ana,"6,891,476",De Baca County,1741
+1835,1868.0,Eddy,"8,505,572",Doña Ana County,218864
+1836,1869.0,Grant,"1,107,681",Eddy County,58394
+1837,1870.0,Guadalupe,"137,334",Grant County,26941
+1838,1871.0,Harding,"71,826",Guadalupe County,4278
+1839,1872.0,Hidalgo,"197,853",Harding County,636
+1840,1873.0,Lea,"7,336,810",Hidalgo County,4203
+1841,1874.0,Lincoln,"585,479",Lea County,71123
+1842,1875.0,Los Alamos,"2,115,114",Lincoln County,19730
+1843,1876.0,Luna,"762,185",Los Alamos County,19383
+1844,1877.0,McKinley,"2,489,500",Luna County,23775
+1845,1878.0,Mora,"101,559",McKinley County,71478
+1846,1879.0,Otero,"2,466,641",Mora County,4490
+1847,1880.0,Quay,"269,155",Otero County,67572
+1848,1881.0,Rio Arriba,"1,222,481",Quay County,8243
+1849,1882.0,Roosevelt,"663,612",Rio Arriba County,38883
+1850,1883.0,Sandoval,"3,654,936",Roosevelt County,18501
+1851,1884.0,San Juan,"5,687,349",Sandoval County,147045
+1852,1885.0,San Miguel,"600,609",San Juan County,124027
+1853,1886.0,Santa Fe,"6,233,797",San Miguel County,27337
+1854,1887.0,Sierra,"267,872",Santa Fe County,150951
+1855,1888.0,Socorro,"457,821",Sierra County,10886
+1856,1889.0,Taos,"904,267",Socorro County,16613
+1857,1890.0,Torrance,"372,965",Taos County,32752
+1858,1891.0,Union,"211,814",Torrance County,15442
+1859,1892.0,Valencia,"1,412,021",Union County,4043
+1860,1894.0,New York,"1,494,736,441",Valencia County,76953
+1861,1895.0,Albany,"29,185,491",New York,19463131
+1862,1896.0,Allegany,"1,400,168",Albany County,304752
+1863,1897.0,Bronx,"39,295,797",Allegany County,45915
+1864,1898.0,Broome,"8,392,724",Bronx County,1418187
+1865,1899.0,Cattaraugus,"2,668,599",Broome County,190737
+1866,1900.0,Cayuga,"2,697,108",Cattaraugus County,76230
+1867,1901.0,Chautauqua,"4,486,713",Cayuga County,76450
+1868,1902.0,Chemung,"3,483,421",Chautauqua County,126636
+1869,1903.0,Chenango,"2,136,795",Chemung County,83404
+1870,1904.0,Clinton,"3,416,812",Chenango County,47234
+1871,1905.0,Columbia,"2,185,540",Clinton County,80031
+1872,1906.0,Cortland,"1,656,553",Columbia County,59582
+1873,1907.0,Delaware,"1,960,475",Cortland County,47410
+1874,1908.0,Dutchess,"13,171,269",Delaware County,44356
+1875,1909.0,Erie,"52,088,534",Dutchess County,293934
+1876,1910.0,Essex,"1,503,248",Erie County,918813
+1877,1911.0,Franklin,"1,806,074",Essex County,36987
+1878,1912.0,Fulton,"1,776,446",Franklin County,50102
+1879,1913.0,Genesee,"2,321,860",Fulton County,53336
+1880,1914.0,Greene,"2,107,973",Genesee County,57414
+1881,1915.0,Hamilton,"205,326",Greene County,47211
+1882,1916.0,Herkimer,"1,751,388",Hamilton County,4438
+1883,1917.0,Jefferson,"5,730,170",Herkimer County,61356
+1884,1918.0,Kings,"90,988,296",Jefferson County,110143
+1885,1919.0,Lewis,"1,019,096",Kings County,2562329
+1886,1920.0,Livingston,"2,102,555",Lewis County,26329
+1887,1921.0,Madison,"2,170,043",Livingston County,62893
+1888,1922.0,Monroe,"43,231,272",Madison County,70875
+1889,1923.0,Montgomery,"1,780,946",Monroe County,742605
+1890,1924.0,Nassau,"88,745,497",Montgomery County,49355
+1891,1925.0,New York,"639,038,317",Nassau County,1356073
+1892,1926.0,Niagara,"8,999,276",New York County,1632326
+1893,1927.0,Oneida,"10,243,087",Niagara County,209563
+1894,1928.0,Onondaga,"28,601,221",Oneida County,228240
+1895,1929.0,Ontario,"5,828,178",Onondaga County,460870
+1896,1930.0,Orange,"17,682,023",Ontario County,109984
+1897,1931.0,Orleans,"1,227,794",Orange County,384950
+1898,1932.0,Oswego,"6,237,145",Orleans County,40351
+1899,1933.0,Otsego,"2,484,903",Oswego County,116934
+1900,1934.0,Putnam,"3,538,471",Otsego County,59347
+1901,1935.0,Queens,"92,693,860",Putnam County,98511
+1902,1936.0,Rensselaer,"7,556,522",Queens County,2253942
+1903,1937.0,Richmond,"14,903,066",Rensselaer County,158981
+1904,1938.0,Rockland,"15,301,402",Richmond County,476141
+1905,1939.0,St. Lawrence,"4,387,651",Rockland County,326352
+1906,1940.0,Saratoga,"11,084,061",St. Lawrence County,107766
+1907,1941.0,Schenectady,"8,474,313",Saratoga County,229635
+1908,1942.0,Schoharie,"1,038,925",Schenectady County,155548
+1909,1943.0,Schuyler,"480,816",Schoharie County,31052
+1910,1944.0,Seneca,"1,485,722",Schuyler County,17812
+1911,1945.0,Steuben,"4,198,766",Seneca County,34189
+1912,1946.0,Suffolk,"88,624,943",Steuben County,95328
+1913,1947.0,Sullivan,"2,833,329",Suffolk County,1478325
+1914,1948.0,Tioga,"1,850,653",Sullivan County,75551
+1915,1949.0,Tompkins,"5,682,740",Tioga County,48221
+1916,1950.0,Ulster,"6,744,721",Tompkins County,101971
+1917,1951.0,Warren,"4,198,203",Ulster County,177933
+1918,1952.0,Washington,"1,811,828",Warren County,63980
+1919,1953.0,Wayne,"3,745,001",Washington County,61168
+1920,1954.0,Westchester,"74,931,074",Wayne County,89816
+1921,1955.0,Wyoming,"1,703,187",Westchester County,968467
+1922,1956.0,Yates,"874,959",Wyoming County,39858
+1923,1958.0,North Carolina,"514,624,898",Yates County,24902
+1924,1959.0,Alamance,"5,713,732",North Carolina,10501384
+1925,1960.0,Alexander,"766,362",Alamance County,169173
+1926,1961.0,Alleghany,"271,455",Alexander County,37417
+1927,1962.0,Anson,"749,709",Alleghany County,11134
+1928,1963.0,Ashe,"742,062",Anson County,23538
+1929,1964.0,Avery,"579,756",Ashe County,27215
+1930,1965.0,Beaufort,"1,812,295",Avery County,17496
+1931,1966.0,Bertie,"641,633",Beaufort County,47096
+1932,1967.0,Bladen,"1,322,637",Bertie County,18962
+1933,1968.0,Brunswick,"4,322,998",Bladen County,32864
+1934,1969.0,Buncombe,"13,592,155",Brunswick County,142987
+1935,1970.0,Burke,"2,364,233",Buncombe County,262049
+1936,1971.0,Cabarrus,"7,138,987",Burke County,90424
+1937,1972.0,Caldwell,"2,189,630",Cabarrus County,216340
+1938,1973.0,Camden,"142,650",Caldwell County,82275
+1939,1974.0,Carteret,"2,341,621",Camden County,10770
+1940,1975.0,Caswell,"326,780",Carteret County,69513
+1941,1976.0,Catawba,"8,205,518",Caswell County,22590
+1942,1977.0,Chatham,"1,539,945",Catawba County,159363
+1943,1978.0,Cherokee,"742,431",Chatham County,74419
+1944,1979.0,Chowan,"584,131",Cherokee County,28708
+1945,1980.0,Clay,"234,162",Chowan County,13917
+1946,1981.0,Cleveland,"3,953,948",Clay County,11277
+1947,1982.0,Columbus,"1,356,650",Cleveland County,97964
+1948,1983.0,Craven,"4,478,427",Columbus County,55452
+1949,1984.0,Cumberland,"15,830,084",Craven County,102031
+1950,1985.0,Currituck,"708,992",Cumberland County,336524
+1951,1986.0,Dare,"2,151,853",Currituck County,27916
+1952,1987.0,Davidson,"4,367,530",Dare County,37071
+1953,1988.0,Davie,"1,294,265",Davidson County,168238
+1954,1989.0,Duplin,"1,980,410",Davie County,42699
+1955,1990.0,Durham,"32,874,240",Duplin County,58802
+1956,1991.0,Edgecombe,"1,496,159",Durham County,322969
+1957,1992.0,Forsyth,"23,734,226",Edgecombe County,51429
+1958,1993.0,Franklin,"1,539,431",Forsyth County,382118
+1959,1994.0,Gaston,"6,879,133",Franklin County,69775
+1960,1995.0,Gates,"180,840",Gaston County,224652
+1961,1996.0,Graham,"218,566",Gates County,11536
+1962,1997.0,Granville,"2,993,775",Graham County,8470
+1963,1998.0,Greene,"424,508",Granville County,60358
+1964,1999.0,Guilford,"30,726,779",Greene County,20915
+1965,2000.0,Halifax,"1,328,783",Guilford County,537872
+1966,2001.0,Harnett,"2,380,255",Halifax County,50074
+1967,2002.0,Haywood,"1,746,858",Harnett County,136172
+1968,2003.0,Henderson,"3,687,892",Haywood County,62510
+1969,2004.0,Hertford,"767,056",Henderson County,117347
+1970,2005.0,Hoke,"1,017,106",Hertford County,23642
+1971,2006.0,Hyde,"151,288",Hoke County,55166
+1972,2007.0,Iredell,"8,507,630",Hyde County,4932
+1973,2008.0,Jackson,"1,428,428",Iredell County,181866
+1974,2009.0,Johnston,"6,492,109",Jackson County,43736
+1975,2010.0,Jones,"196,851",Johnston County,209786
+1976,2011.0,Lee,"2,495,517",Jones County,9339
+1977,2012.0,Lenoir,"2,682,043",Lee County,61772
+1978,2013.0,Lincoln,"2,680,228",Lenoir County,56074
+1979,2014.0,McDowell,"1,463,997",Lincoln County,86627
+1980,2015.0,Macon,"1,465,136",McDowell County,45784
+1981,2016.0,Madison,"389,549",Macon County,35729
+1982,2017.0,Martin,"617,361",Madison County,21638
+1983,2018.0,Mecklenburg,"101,406,435",Martin County,22451
+1984,2019.0,Mitchell,"562,982",Mecklenburg County,1113283
+1985,2020.0,Montgomery,"907,145",Mitchell County,14928
+1986,2021.0,Moore,"3,350,362",Montgomery County,27209
+1987,2022.0,Nash,"4,337,905",Moore County,101167
+1988,2023.0,New Hanover,"12,230,503",Nash County,94258
+1989,2024.0,Northampton,"519,395",New Hanover County,234275
+1990,2025.0,Onslow,"7,051,384",Northampton County,19498
+1991,2026.0,Orange,"8,063,541",Onslow County,202795
+1992,2027.0,Pamlico,"268,507",Orange County,148192
+1993,2028.0,Pasquotank,"1,360,173",Pamlico County,12650
+1994,2029.0,Pender,"1,452,313",Pasquotank County,39970
+1995,2030.0,Perquimans,"265,405",Pender County,63046
+1996,2031.0,Person,"1,514,436",Perquimans County,13578
+1997,2032.0,Pitt,"8,502,334",Person County,39621
+1998,2033.0,Polk,"443,299",Pitt County,181257
+1999,2034.0,Randolph,"3,844,645",Polk County,20723
+2000,2035.0,Richmond,"1,771,720",Randolph County,143495
+2001,2036.0,Robeson,"3,626,543",Richmond County,44764
+2002,2037.0,Rockingham,"2,744,610",Robeson County,130440
+2003,2038.0,Rowan,"4,895,441",Rockingham County,91118
+2004,2039.0,Rutherford,"1,725,499",Rowan County,141818
+2005,2040.0,Sampson,"1,870,494",Rutherford County,67031
+2006,2041.0,Scotland,"1,068,590",Sampson County,63372
+2007,2042.0,Stanly,"1,660,407",Scotland County,34776
+2008,2043.0,Stokes,"998,232",Stanly County,62645
+2009,2044.0,Surry,"2,265,610",Stokes County,45634
+2010,2045.0,Swain,"621,003",Surry County,71741
+2011,2046.0,Transylvania,"1,633,479",Swain County,14312
+2012,2047.0,Tyrrell,"111,926",Transylvania County,34270
+2013,2048.0,Union,"7,331,815",Tyrrell County,3813
+2014,2049.0,Vance,"1,110,123",Union County,240028
+2015,2050.0,Wake,"78,042,037",Vance County,44670
+2016,2051.0,Warren,"269,164",Wake County,1112795
+2017,2052.0,Washington,"235,682",Warren County,19692
+2018,2053.0,Watauga,"2,022,173",Washington County,11635
+2019,2054.0,Wayne,"4,552,427",Watauga County,56271
+2020,2055.0,Wilkes,"2,209,009",Wayne County,123904
+2021,2056.0,Wilson,"3,590,706",Wilkes County,68296
+2022,2057.0,Yadkin,"849,811",Wilson County,81775
+2023,2058.0,Yancey,"400,618",Yadkin County,37617
+2024,2060.0,North Dakota,"56,246,952",Yancey County,18059
+2025,2061.0,Adams,"135,922",North Dakota,763724
+2026,2062.0,Barnes,"579,293",Adams County,2227
+2027,2063.0,Benson,"219,400",Barnes County,10414
+2028,2064.0,Billings,"188,672",Benson County,6837
+2029,2065.0,Bottineau,"435,185",Billings County,937
+2030,2066.0,Bowman,"273,651",Bottineau County,6292
+2031,2067.0,Burke,"243,356",Bowman County,3036
+2032,2068.0,Burleigh,"5,117,387",Burke County,2131
+2033,2069.0,Cass,"11,876,940",Burleigh County,95816
+2034,2070.0,Cavalier,"352,368",Cass County,182238
+2035,2071.0,Dickey,"376,048",Cavalier County,3734
+2036,2072.0,Divide,"229,168",Dickey County,4851
+2037,2073.0,Dunn,"1,758,400",Divide County,2244
+2038,2074.0,Eddy,"143,370",Dunn County,4412
+2039,2075.0,Emmons,"160,586",Eddy County,2241
+2040,2076.0,Foster,"215,873",Emmons County,3235
+2041,2077.0,Golden Valley,"72,750",Foster County,3217
+2042,2078.0,Grand Forks,"3,671,954",Golden Valley County,1762
+2043,2079.0,Grant,"102,881",Grand Forks County,69670
+2044,2080.0,Griggs,"151,116",Grant County,2272
+2045,2081.0,Hettinger,"83,072",Griggs County,2218
+2046,2082.0,Kidder,"134,890",Hettinger County,2521
+2047,2083.0,LaMoure,"272,131",Kidder County,2481
+2048,2084.0,Logan,"126,662",LaMoure County,4049
+2049,2085.0,McHenry,"244,930",Logan County,1851
+2050,2086.0,McIntosh,"154,171",McHenry County,5753
+2051,2087.0,McKenzie,"4,795,079",McIntosh County,2473
+2052,2088.0,McLean,"746,808",McKenzie County,15038
+2053,2089.0,Mercer,"965,612",McLean County,9440
+2054,2090.0,Morton,"1,404,653",Mercer County,8228
+2055,2091.0,Mountrail,"2,199,936",Morton County,31301
+2056,2092.0,Nelson,"147,301",Mountrail County,10507
+2057,2093.0,Oliver,"248,906",Nelson County,2856
+2058,2094.0,Pembina,"438,265",Oliver County,1951
+2059,2095.0,Pierce,"196,952",Pembina County,6754
+2060,2096.0,Ramsey,"539,065",Pierce County,3997
+2061,2097.0,Ransom,"256,787",Ramsey County,11488
+2062,2098.0,Renville,"203,034",Ransom County,5217
+2063,2099.0,Richland,"761,569",Renville County,2324
+2064,2100.0,Rolette,"360,612",Richland County,16187
+2065,2101.0,Sargent,"739,117",Rolette County,14271
+2066,2102.0,Sheridan,"35,310",Sargent County,3950
+2067,2103.0,Sioux,"127,920",Sheridan County,1295
+2068,2104.0,Slope,"35,787",Sioux County,4259
+2069,2105.0,Stark,"2,713,543",Slope County,754
+2070,2106.0,Steele,"139,892",Stark County,31483
+2071,2107.0,Stutsman,"1,207,943",Steele County,1900
+2072,2108.0,Towner,"144,870",Stutsman County,20695
+2073,2109.0,Traill,"409,237",Towner County,2166
+2074,2110.0,Walsh,"520,824",Traill County,8037
+2075,2111.0,Ward,"3,674,337",Walsh County,10574
+2076,2112.0,Wells,"255,482",Ward County,68449
+2077,2113.0,Williams,"5,889,101",Wells County,3794
+2078,2115.0,Ohio,"611,145,828",Williams County,37897
+2079,2116.0,Adams,"676,075",Ohio,11696507
+2080,2117.0,Allen,"7,609,990",Adams County,27640
+2081,2118.0,Ashland,"1,571,769",Allen County,102450
+2082,2119.0,Ashtabula,"2,840,510",Ashland County,53418
+2083,2120.0,Athens,"1,922,638",Ashtabula County,97088
+2084,2121.0,Auglaize,"2,130,147",Athens County,65582
+2085,2122.0,Belmont,"3,491,157",Auglaize County,45610
+2086,2123.0,Brown,"791,076",Belmont County,66979
+2087,2124.0,Butler,"20,352,075",Brown County,43473
+2088,2125.0,Carroll,"1,747,199",Butler County,383603
+2089,2126.0,Champaign,"1,055,040",Carroll County,26984
+2090,2127.0,Clark,"4,170,098",Champaign County,38930
+2091,2128.0,Clermont,"7,995,057",Clark County,134315
+2092,2129.0,Clinton,"2,009,028",Clermont County,206851
+2093,2130.0,Columbiana,"2,838,421",Clinton County,42002
+2094,2131.0,Coshocton,"1,275,315",Columbiana County,101794
+2095,2132.0,Crawford,"1,205,130",Coshocton County,36549
+2096,2133.0,Cuyahoga,"88,091,046",Crawford County,41396
+2097,2134.0,Darke,"1,940,431",Cuyahoga County,1235574
+2098,2135.0,Defiance,"1,610,831",Darke County,51181
+2099,2136.0,Delaware,"11,647,346",Defiance County,37978
+2100,2137.0,Erie,"4,188,165",Delaware County,209768
+2101,2138.0,Fairfield,"4,149,898",Erie County,74179
+2102,2139.0,Fayette,"2,038,357",Fairfield County,157703
+2103,2140.0,Franklin,"88,618,482",Fayette County,28486
+2104,2141.0,Fulton,"1,860,781",Franklin County,1318766
+2105,2142.0,Gallia,"2,005,567",Fulton County,42175
+2106,2143.0,Geauga,"4,002,891",Gallia County,29850
+2107,2144.0,Greene,"9,224,293",Geauga County,93494
+2108,2145.0,Guernsey,"2,184,402",Greene County,169354
+2109,2146.0,Hamilton,"69,804,258",Guernsey County,38876
+2110,2147.0,Hancock,"4,911,907",Hamilton County,818653
+2111,2148.0,Hardin,"854,811",Hancock County,75690
+2112,2149.0,Harrison,"1,337,127",Hardin County,31369
+2113,2150.0,Henry,"1,320,270",Harrison County,15053
+2114,2151.0,Highland,"1,146,696",Henry County,26942
+2115,2152.0,Hocking,"586,180",Highland County,43123
+2116,2153.0,Holmes,"2,328,710",Hocking County,28240
+2117,2154.0,Huron,"2,067,631",Holmes County,44021
+2118,2155.0,Jackson,"913,403",Huron County,58269
+2119,2156.0,Jefferson,"3,384,444",Jackson County,32372
+2120,2157.0,Knox,"1,964,283",Jefferson County,65494
+2121,2158.0,Lake,"10,484,808",Knox County,62239
+2122,2159.0,Lawrence,"1,638,420",Lake County,229739
+2123,2160.0,Licking,"6,139,993",Lawrence County,59556
+2124,2161.0,Logan,"1,907,541",Licking County,177174
+2125,2162.0,Lorain,"9,796,854",Logan County,45594
+2126,2163.0,Lucas,"24,340,091",Lorain County,310100
+2127,2164.0,Madison,"1,731,246",Lucas County,428888
+2128,2165.0,Mahoning,"8,612,788",Madison County,44812
+2129,2166.0,Marion,"2,566,570",Mahoning County,227510
+2130,2167.0,Medina,"7,019,210",Marion County,65057
+2131,2168.0,Meigs,"361,413",Medina County,180121
+2132,2169.0,Mercer,"2,250,202",Meigs County,22868
+2133,2170.0,Miami,"4,018,925",Mercer County,41255
+2134,2171.0,Monroe,"1,579,379",Miami County,106995
+2135,2172.0,Montgomery,"26,948,046",Monroe County,13708
+2136,2173.0,Morgan,"300,694",Montgomery County,532139
+2137,2174.0,Morrow,"630,316",Morgan County,14505
+2138,2175.0,Muskingum,"3,504,413",Morrow County,35342
+2139,2176.0,Noble,"644,760",Muskingum County,86042
+2140,2177.0,Ottawa,"1,919,152",Noble County,14451
+2141,2178.0,Paulding,"544,869",Ottawa County,40532
+2142,2179.0,Perry,"693,234",Paulding County,18672
+2143,2180.0,Pickaway,"1,626,336",Perry County,36127
+2144,2181.0,Pike,"1,030,400",Pickaway County,58521
+2145,2182.0,Portage,"5,815,430",Pike County,27784
+2146,2183.0,Preble,"1,055,478",Portage County,162426
+2147,2184.0,Putnam,"1,155,047",Preble County,40848
+2148,2185.0,Richland,"4,260,557",Putnam County,33843
+2149,2186.0,Ross,"2,567,438",Richland County,121384
+2150,2187.0,Sandusky,"2,717,892",Ross County,76613
+2151,2188.0,Scioto,"2,836,436",Sandusky County,58520
+2152,2189.0,Seneca,"1,812,006",Scioto County,75051
+2153,2190.0,Shelby,"2,944,859",Seneca County,55220
+2154,2191.0,Stark,"15,521,319",Shelby County,48592
+2155,2192.0,Summit,"27,899,611",Stark County,370723
+2156,2193.0,Trumbull,"6,629,083",Summit County,540814
+2157,2194.0,Tuscarawas,"3,516,060",Trumbull County,198069
+2158,2195.0,Union,"4,068,912",Tuscarawas County,91993
+2159,2196.0,Van Wert,"1,207,761",Union County,59054
+2160,2197.0,Vinton,"281,099",Van Wert County,28231
+2161,2198.0,Warren,"11,575,795",Vinton County,13028
+2162,2199.0,Washington,"3,285,666",Warren County,235601
+2163,2200.0,Wayne,"5,994,369",Washington County,60018
+2164,2201.0,Williams,"1,683,211",Wayne County,115824
+2165,2202.0,Wood,"6,878,112",Williams County,36765
+2166,2203.0,Wyandot,"961,513",Wood County,131089
+2167,2205.0,Oklahoma,"200,710,889",Wyandot County,21796
+2168,2206.0,Adair,"417,867",Oklahoma,3960676
+2169,2207.0,Alfalfa,"242,968",Adair County,22224
+2170,2208.0,Atoka,"289,100",Alfalfa County,5664
+2171,2209.0,Beaver,"411,176",Atoka County,13738
+2172,2210.0,Beckham,"1,091,816",Beaver County,5308
+2173,2211.0,Blaine,"456,452",Beckham County,21834
+2174,2212.0,Bryan,"1,481,548",Blaine County,9457
+2175,2213.0,Caddo,"766,531",Bryan County,48089
+2176,2214.0,Canadian,"4,217,922",Caddo County,28927
+2177,2215.0,Carter,"2,943,404",Canadian County,148635
+2178,2216.0,Cherokee,"1,096,576",Carter County,48328
+2179,2217.0,Choctaw,"326,547",Cherokee County,48819
+2180,2218.0,Cimarron,"234,904",Choctaw County,14642
+2181,2219.0,Cleveland,"7,509,821",Cimarron County,2148
+2182,2220.0,Coal,"150,066",Cleveland County,284537
+2183,2221.0,Comanche,"4,496,998",Coal County,5511
+2184,2222.0,Cotton,"148,526",Comanche County,121224
+2185,2223.0,Craig,"433,544",Cotton County,5650
+2186,2224.0,Creek,"1,919,876",Craig County,14110
+2187,2225.0,Custer,"1,569,782",Creek County,71362
+2188,2226.0,Delaware,"878,172",Custer County,28913
+2189,2227.0,Dewey,"320,634",Delaware County,43011
+2190,2228.0,Ellis,"255,649",Dewey County,4896
+2191,2229.0,Garfield,"3,154,279",Ellis County,3865
+2192,2230.0,Garvin,"1,446,603",Garfield County,61332
+2193,2231.0,Grady,"1,550,640",Garvin County,27687
+2194,2232.0,Grant,"438,731",Grady County,55764
+2195,2233.0,Greer,"95,452",Grant County,4328
+2196,2234.0,Harmon,"89,148",Greer County,5698
+2197,2235.0,Harper,"272,543",Harmon County,2645
+2198,2236.0,Haskell,"344,715",Harper County,3707
+2199,2237.0,Hughes,"601,288",Haskell County,12670
+2200,2238.0,Jackson,"979,448",Hughes County,13240
+2201,2239.0,Jefferson,"111,155",Jackson County,24431
+2202,2240.0,Johnston,"357,122",Jefferson County,5988
+2203,2241.0,Kay,"1,639,011",Johnston County,11055
+2204,2242.0,Kingfisher,"1,222,666",Kay County,43668
+2205,2243.0,Kiowa,"246,785",Kingfisher County,15899
+2206,2244.0,Latimer,"342,772",Kiowa County,8725
+2207,2245.0,Le Flore,"1,313,348",Latimer County,10044
+2208,2246.0,Lincoln,"755,043",Le Flore County,49804
+2209,2247.0,Logan,"683,730",Lincoln County,34939
+2210,2248.0,Love,"406,828",Logan County,48084
+2211,2249.0,McClain,"1,065,980",Love County,10177
+2212,2250.0,McCurtain,"951,348",McClain County,40466
+2213,2251.0,McIntosh,"340,975",McCurtain County,32748
+2214,2252.0,Major,"391,866",McIntosh County,19595
+2215,2253.0,Marshall,"434,395",Major County,7630
+2216,2254.0,Mayes,"1,726,329",Marshall County,16946
+2217,2255.0,Murray,"501,021",Mayes County,41136
+2218,2256.0,Muskogee,"2,575,597",Murray County,14081
+2219,2257.0,Noble,"618,191",Muskogee County,68097
+2220,2258.0,Nowata,"180,998",Noble County,11168
+2221,2259.0,Okfuskee,"211,732",Nowata County,10123
+2222,2260.0,Oklahoma,"65,949,046",Okfuskee County,11956
+2223,2261.0,Okmulgee,"752,133",Oklahoma County,797563
+2224,2262.0,Osage,"949,206",Okmulgee County,38417
+2225,2263.0,Ottawa,"937,403",Osage County,46942
+2226,2264.0,Pawnee,"370,212",Ottawa County,31180
+2227,2265.0,Payne,"3,090,988",Pawnee County,16379
+2228,2266.0,Pittsburg,"1,718,930",Payne County,81683
+2229,2267.0,Pontotoc,"1,797,809",Pittsburg County,43673
+2230,2268.0,Pottawatomie,"2,087,322",Pontotoc County,38352
+2231,2269.0,Pushmataha,"194,806",Pottawatomie County,72703
+2232,2270.0,Roger Mills,"131,089",Pushmataha County,11030
+2233,2271.0,Rogers,"3,002,177",Roger Mills County,3593
+2234,2272.0,Seminole,"696,527",Rogers County,92616
+2235,2273.0,Sequoyah,"708,602",Seminole County,24321
+2236,2274.0,Stephens,"1,531,147",Sequoyah County,41599
+2237,2275.0,Texas,"2,065,674",Stephens County,43258
+2238,2276.0,Tillman,"200,036",Texas County,20216
+2239,2277.0,Tulsa,"46,402,824",Tillman County,7260
+2240,2278.0,Wagoner,"1,210,016",Tulsa County,652166
+2241,2279.0,Washington,"8,071,322",Wagoner County,81466
+2242,2280.0,Washita,"229,878",Washington County,51665
+2243,2281.0,Woods,"924,107",Washita County,10943
+2244,2282.0,Woodward,"1,141,278",Woods County,8790
+2245,2284.0,Oregon,"219,458,180",Woodward County,20138
+2246,2285.0,Baker,"570,733",Oregon,4216116
+2247,2286.0,Benton,"4,245,769",Baker County,16123
+2248,2287.0,Clackamas,"19,744,336",Benton County,93114
+2249,2288.0,Clatsop,"1,681,997",Clackamas County,418199
+2250,2289.0,Columbia,"1,217,766",Clatsop County,40208
+2251,2290.0,Coos,"2,160,263",Columbia County,52614
+2252,2291.0,Crook,"787,352",Coos County,64677
+2253,2292.0,Curry,"603,039",Crook County,24388
+2254,2293.0,Deschutes,"9,284,048",Curry County,22981
+2255,2294.0,Douglas,"3,310,833",Deschutes County,197417
+2256,2295.0,Gilliam,"232,782",Douglas County,110926
+2257,2296.0,Grant,"234,926",Gilliam County,1911
+2258,2297.0,Harney,"264,222",Grant County,7166
+2259,2298.0,Hood River,"1,149,057",Harney County,7375
+2260,2299.0,Jackson,"8,350,110",Hood River County,23347
+2261,2300.0,Jefferson,"705,541",Jackson County,220815
+2262,2301.0,Josephine,"2,670,798",Jefferson County,24647
+2263,2302.0,Klamath,"2,203,273",Josephine County,87679
+2264,2303.0,Lake,"300,170",Klamath County,68343
+2265,2304.0,Lane,"14,544,223",Lake County,7939
+2266,2305.0,Lincoln,"1,670,338",Lane County,382064
+2267,2306.0,Linn,"4,510,279",Lincoln County,50125
+2268,2307.0,Malheur,"1,266,511",Linn County,129598
+2269,2308.0,Marion,"14,729,542",Malheur County,30698
+2270,2309.0,Morrow,"1,551,074",Marion County,347557
+2271,2310.0,Multnomah,"61,251,557",Morrow County,11607
+2272,2311.0,Polk,"1,856,307",Multnomah County,812439
+2273,2312.0,Sherman,"493,930",Polk County,85851
+2274,2313.0,Tillamook,"1,140,547",Sherman County,1790
+2275,2314.0,Umatilla,"3,068,525",Tillamook County,27132
+2276,2315.0,Union,"906,884",Umatilla County,77744
+2277,2316.0,Wallowa,"319,951",Union County,26733
+2278,2317.0,Wasco,"1,464,139",Wallowa County,7169
+2279,2318.0,Washington,"47,505,126",Wasco County,26532
+2280,2319.0,Wheeler,"28,627",Washington County,600933
+2281,2320.0,Yamhill,"3,496,552",Wheeler County,1348
+2282,2322.0,Pennsylvania,"716,173,363",Yamhill County,106927
+2283,2323.0,Adams,"3,533,399",Pennsylvania,12798883
+2284,2324.0,Allegheny,"92,679,155",Adams County,102776
+2285,2325.0,Armstrong,"2,181,021",Allegheny County,1215716
+2286,2326.0,Beaver,"6,696,675",Armstrong County,64699
+2287,2327.0,Bedford,"1,458,105",Beaver County,163956
+2288,2328.0,Berks,"18,821,349",Bedford County,47913
+2289,2329.0,Blair,"5,569,660",Berks County,420375
+2290,2330.0,Bradford,"4,139,909",Blair County,121942
+2291,2331.0,Bucks,"32,056,346",Bradford County,60429
+2292,2332.0,Butler,"10,498,745",Bucks County,628497
+2293,2333.0,Cambria,"4,355,292",Butler County,188313
+2294,2334.0,Cameron,"187,563",Cambria County,130107
+2295,2335.0,Carbon,"2,421,193",Cameron County,4425
+2296,2336.0,Centre,"8,146,866",Carbon County,64125
+2297,2337.0,Chester,"41,680,136",Centre County,162095
+2298,2338.0,Clarion,"1,167,936",Chester County,525059
+2299,2339.0,Clearfield,"2,654,464",Clarion County,38498
+2300,2340.0,Clinton,"1,627,259",Clearfield County,79183
+2301,2341.0,Columbia,"2,331,480",Clinton County,38302
+2302,2342.0,Crawford,"2,890,055",Columbia County,65020
+2303,2343.0,Cumberland,"15,021,849",Crawford County,84421
+2304,2344.0,Dauphin,"20,896,156",Cumberland County,253133
+2305,2345.0,Delaware,"32,541,633",Dauphin County,278427
+2306,2346.0,Elk,"1,502,305",Delaware County,566506
+2307,2347.0,Erie,"10,774,020",Elk County,29894
+2308,2348.0,Fayette,"4,451,439",Erie County,269529
+2309,2349.0,Forest,"231,469",Fayette County,129422
+2310,2350.0,Franklin,"5,794,152",Forest County,7030
+2311,2351.0,Fulton,"661,972",Franklin County,155522
+2312,2352.0,Greene,"3,610,010",Fulton County,14502
+2313,2353.0,Huntingdon,"1,261,792",Greene County,36062
+2314,2354.0,Indiana,"3,898,364",Huntingdon County,44894
+2315,2355.0,Jefferson,"1,546,964",Indiana County,84022
+2316,2356.0,Juniata,"766,389",Jefferson County,43299
+2317,2357.0,Lackawanna,"9,105,401",Juniata County,24760
+2318,2358.0,Lancaster,"27,221,966",Lackawanna County,209808
+2319,2359.0,Lawrence,"2,888,592",Lancaster County,545441
+2320,2360.0,Lebanon,"5,646,467",Lawrence County,85504
+2321,2361.0,Lehigh,"22,026,218",Lebanon County,141318
+2322,2362.0,Luzerne,"14,304,135",Lehigh County,369308
+2323,2363.0,Lycoming,"5,863,791",Luzerne County,317438
+2324,2364.0,McKean,"2,111,900",Lycoming County,113581
+2325,2365.0,Mercer,"4,119,015",McKean County,40631
+2326,2366.0,Mifflin,"1,650,740",Mercer County,109296
+2327,2367.0,Monroe,"6,805,911",Mifflin County,46090
+2328,2368.0,Montgomery,"72,843,397",Monroe County,170083
+2329,2369.0,Montour,"1,801,234",Montgomery County,830397
+2330,2370.0,Northampton,"14,450,931",Montour County,18181
+2331,2371.0,Northumberland,"2,767,067",Northampton County,305515
+2332,2372.0,Perry,"898,805",Northumberland County,90684
+2333,2373.0,Philadelphia,"101,583,536",Perry County,46326
+2334,2374.0,Pike,"1,325,741",Philadelphia County,1584439
+2335,2375.0,Potter,"970,446",Pike County,55826
+2336,2376.0,Schuylkill,"4,655,557",Potter County,16545
+2337,2377.0,Snyder,"1,480,647",Schuylkill County,141166
+2338,2378.0,Somerset,"2,472,106",Snyder County,40393
+2339,2379.0,Sullivan,"416,371",Somerset County,73442
+2340,2380.0,Susquehanna,"3,382,829",Sullivan County,5959
+2341,2381.0,Tioga,"1,837,795",Susquehanna County,40241
+2342,2382.0,Union,"1,727,604",Tioga County,40665
+2343,2383.0,Venango,"1,851,359",Union County,44498
+2344,2384.0,Warren,"1,695,807",Venango County,50875
+2345,2385.0,Washington,"12,850,426",Warren County,39171
+2346,2386.0,Wayne,"1,700,481",Washington County,206866
+2347,2387.0,Westmoreland,"14,007,579",Wayne County,51271
+2348,2388.0,Wyoming,"1,871,231",Westmoreland County,348941
+2349,2389.0,York,"19,507,531",Wyoming County,26790
+2350,2391.0,Rhode Island,"53,225,004",York County,449341
+2351,2392.0,Bristol,"1,683,750",Rhode Island,1058158
+2352,2393.0,Kent,"8,560,577",Bristol County,48527
+2353,2394.0,Newport,"5,613,667",Kent County,164233
+2354,2395.0,Providence,"31,288,217",Newport County,82472
+2355,2396.0,Washington,"6,079,187",Providence County,637052
+2356,2398.0,South Carolina,"212,482,841",Washington County,125874
+2357,2399.0,Abbeville,"555,357",South Carolina,5157702
+2358,2400.0,Aiken,"6,322,998",Abbeville County,24584
+2359,2401.0,Allendale,"242,846",Aiken County,171300
+2360,2402.0,Anderson,"6,476,827",Allendale County,8627
+2361,2403.0,Bamberg,"303,952",Anderson County,202424
+2362,2404.0,Barnwell,"457,005",Bamberg County,14108
+2363,2405.0,Beaufort,"7,240,257",Barnwell County,20924
+2364,2406.0,Berkeley,"7,687,113",Beaufort County,192638
+2365,2407.0,Calhoun,"559,099",Berkeley County,228952
+2366,2408.0,Charleston,"28,844,174",Calhoun County,14513
+2367,2409.0,Cherokee,"1,615,774",Charleston County,412615
+2368,2410.0,Chester,"1,052,713",Cherokee County,57331
+2369,2411.0,Chesterfield,"1,467,660",Chester County,32186
+2370,2412.0,Clarendon,"553,768",Chesterfield County,45631
+2371,2413.0,Colleton,"845,706",Clarendon County,33803
+2372,2414.0,Darlington,"2,464,190",Colleton County,37705
+2373,2415.0,Dillon,"713,866",Darlington County,66656
+2374,2416.0,Dorchester,"3,519,077",Dillon County,30352
+2375,2417.0,Edgefield,"548,775",Dorchester County,163517
+2376,2418.0,Fairfield,"931,448",Edgefield County,27349
+2377,2419.0,Florence,"6,453,953",Fairfield County,22322
+2378,2420.0,Georgetown,"2,229,221",Florence County,138128
+2379,2421.0,Greenville,"29,356,973",Georgetown County,63025
+2380,2422.0,Greenwood,"2,678,257",Greenville County,524748
+2381,2423.0,Hampton,"419,985",Greenwood County,70963
+2382,2424.0,Horry,"12,120,018",Hampton County,19316
+2383,2425.0,Jasper,"1,070,141",Horry County,354418
+2384,2426.0,Kershaw,"1,737,210",Jasper County,30294
+2385,2427.0,Lancaster,"3,776,995",Kershaw County,66748
+2386,2428.0,Laurens,"1,984,183",Lancaster County,98280
+2387,2429.0,Lee,"313,216",Laurens County,67448
+2388,2430.0,Lexington,"11,884,870",Lee County,16856
+2389,2431.0,McCormick,"197,191",Lexington County,299421
+2390,2432.0,Marion,"540,407",McCormick County,9462
+2391,2433.0,Marlboro,"697,636",Marion County,30565
+2392,2434.0,Newberry,"1,291,771",Marlboro County,26157
+2393,2435.0,Oconee,"3,448,404",Newberry County,38408
+2394,2436.0,Orangeburg,"2,547,232",Oconee County,79450
+2395,2437.0,Pickens,"3,635,371",Orangeburg County,86231
+2396,2438.0,Richland,"22,775,429",Pickens County,126974
+2397,2439.0,Saluda,"428,135",Richland County,417027
+2398,2440.0,Spartanburg,"14,258,341",Saluda County,20381
+2399,2441.0,Sumter,"3,755,023",Spartanburg County,320254
+2400,2442.0,Union,"700,556",Sumter County,106635
+2401,2443.0,Williamsburg,"695,821",Union County,27221
+2402,2444.0,York,"11,138,919",Williamsburg County,30256
+2403,2446.0,South Dakota,"46,640,966",York County,281499
+2404,2447.0,Aurora,"80,255",South Dakota,887127
+2405,2448.0,Beadle,"856,850",Aurora County,2749
+2406,2449.0,Bennett,"108,223",Beadle County,18389
+2407,2450.0,Bon Homme,"212,724",Bennett County,3364
+2408,2451.0,Brookings,"1,921,272",Bon Homme County,6911
+2409,2452.0,Brown,"2,025,125",Brookings County,35463
+2410,2453.0,Brule,"231,258",Brown County,38883
+2411,2454.0,Buffalo,"95,644",Brule County,5222
+2412,2455.0,Butte,"287,903",Buffalo County,1982
+2413,2456.0,Campbell,"73,995",Butte County,10418
+2414,2457.0,Charles Mix,"428,173",Campbell County,1380
+2415,2458.0,Clark,"168,933",Charles Mix County,9286
+2416,2459.0,Clay,"532,523",Clark County,3740
+2417,2460.0,Codington,"1,328,019",Clay County,14096
+2418,2461.0,Corson,"79,999",Codington County,28092
+2419,2462.0,Custer,"216,878",Corson County,4076
+2420,2463.0,Davison,"1,058,480",Custer County,8929
+2421,2464.0,Day,"237,473",Davison County,19865
+2422,2465.0,Deuel,"274,706",Day County,5414
+2423,2466.0,Dewey,"203,315",Deuel County,4334
+2424,2467.0,Douglas,"216,830",Dewey County,5872
+2425,2468.0,Edmunds,"212,088",Douglas County,2911
+2426,2469.0,Fall River,"230,659",Edmunds County,3857
+2427,2470.0,Faulk,"168,855",Fall River County,6688
+2428,2471.0,Grant,"492,115",Faulk County,2307
+2429,2472.0,Gregory,"145,011",Grant County,7102
+2430,2473.0,Haakon,"88,474",Gregory County,4183
+2431,2474.0,Hamlin,"231,173",Haakon County,1866
+2432,2475.0,Hand,"161,528",Hamlin County,6224
+2433,2476.0,Hanson,"140,765",Hand County,3170
+2434,2477.0,Harding,"75,653",Hanson County,3463
+2435,2478.0,Hughes,"1,135,030",Harding County,1307
+2436,2479.0,Hutchinson,"395,561",Hughes County,17487
+2437,2480.0,Hyde,"79,843",Hutchinson County,7287
+2438,2481.0,Jackson,"57,679",Hyde County,1295
+2439,2482.0,Jerauld,"123,989",Jackson County,3335
+2440,2483.0,Jones,"57,202",Jerauld County,2014
+2441,2484.0,Kingsbury,"283,679",Jones County,911
+2442,2485.0,Lake,"552,493",Kingsbury County,4907
+2443,2486.0,Lawrence,"1,002,764",Lake County,12769
+2444,2487.0,Lincoln,"2,627,093",Lawrence County,25908
+2445,2488.0,Lyman,"159,597",Lincoln County,61235
+2446,2489.0,McCook,"252,856",Lyman County,3787
+2447,2490.0,McPherson,"115,509",McCook County,5560
+2448,2491.0,Marshall,"274,750",McPherson County,2388
+2449,2492.0,Meade,"746,302",Marshall County,4913
+2450,2493.0,Mellette,"31,209",Meade County,28469
+2451,2494.0,Miner,"104,033",Mellette County,2068
+2452,2495.0,Minnehaha,"15,376,173",Miner County,2221
+2453,2496.0,Moody,"326,029",Minnehaha County,194153
+2454,2497.0,Oglala Lakota,"298,487",Moody County,6555
+2455,2498.0,Pennington,"5,059,001",Oglala Lakota County,14171
+2456,2499.0,Perkins,"115,552",Pennington County,114407
+2457,2500.0,Potter,"144,206",Perkins County,2833
+2458,2501.0,Roberts,"314,949",Potter County,2149
+2459,2502.0,Sanborn,"137,936",Roberts County,10399
+2460,2503.0,Spink,"358,691",Sanborn County,2345
+2461,2504.0,Stanley,"128,652",Spink County,6401
+2462,2505.0,Sully,"114,872",Stanley County,3129
+2463,2506.0,Todd,"199,745",Sully County,1377
+2464,2507.0,Tripp,"239,601",Todd County,10303
+2465,2508.0,Turner,"372,748",Tripp County,5430
+2466,2509.0,Union,"1,295,029",Turner County,8316
+2467,2510.0,Walworth,"210,396",Union County,16003
+2468,2511.0,Yankton,"1,135,918",Walworth County,5421
+2469,2512.0,Ziebach,"41,904",Yankton County,22837
+2470,2514.0,Tennessee,"329,111,630",Ziebach County,2801
+2471,2515.0,Anderson,"4,570,679",Tennessee,6830325
+2472,2516.0,Bedford,"1,777,053",Anderson County,76991
+2473,2517.0,Benton,"310,809",Bedford County,49684
+2474,2518.0,Bledsoe,"186,735",Benton County,16199
+2475,2519.0,Blount,"5,346,896",Bledsoe County,15085
+2476,2520.0,Bradley,"3,986,072",Blount County,133396
+2477,2521.0,Campbell,"861,493",Bradley County,108233
+2478,2522.0,Cannon,"230,609",Campbell County,39778
+2479,2523.0,Carroll,"603,978",Cannon County,14583
+2480,2524.0,Carter,"932,674",Carroll County,27710
+2481,2525.0,Cheatham,"1,056,945",Carter County,56396
+2482,2526.0,Chester,"327,038",Cheatham County,40828
+2483,2527.0,Claiborne,"723,501",Chester County,17306
+2484,2528.0,Clay,"158,594",Claiborne County,31919
+2485,2529.0,Cocke,"695,042",Clay County,7597
+2486,2530.0,Coffee,"2,687,048",Cocke County,36017
+2487,2531.0,Crockett,"510,425",Coffee County,56717
+2488,2532.0,Cumberland,"1,555,649",Crockett County,14189
+2489,2533.0,Davidson,"65,576,681",Cumberland County,60832
+2490,2534.0,Decatur,"283,892",Davidson County,692999
+2491,2535.0,DeKalb,"592,964",Decatur County,11608
+2492,2536.0,Dickson,"1,800,624",DeKalb County,20409
+2493,2537.0,Dyer,"1,544,657",Dickson County,53856
+2494,2538.0,Fayette,"1,015,297",Dyer County,37122
+2495,2539.0,Fentress,"429,790",Fayette County,41044
+2496,2540.0,Franklin,"1,076,271",Fentress County,18568
+2497,2541.0,Gibson,"1,315,988",Franklin County,42255
+2498,2542.0,Giles,"1,025,107",Gibson County,49114
+2499,2543.0,Grainger,"379,408",Giles County,29481
+2500,2544.0,Greene,"2,182,765",Grainger County,23406
+2501,2545.0,Grundy,"212,465",Greene County,69127
+2502,2546.0,Hamblen,"2,790,489",Grundy County,13409
+2503,2547.0,Hamilton,"23,006,016",Hamblen County,64873
+2504,2548.0,Hancock,"75,082",Hamilton County,367776
+2505,2549.0,Hardeman,"526,207",Hancock County,6605
+2506,2550.0,Hardin,"841,457",Hardeman County,25049
+2507,2551.0,Hawkins,"1,480,785",Hardin County,25627
+2508,2552.0,Haywood,"615,248",Hawkins County,56855
+2509,2553.0,Henderson,"653,126",Haywood County,17244
+2510,2554.0,Henry,"1,127,724",Henderson County,28050
+2511,2555.0,Hickman,"416,198",Henry County,32309
+2512,2556.0,Houston,"133,739",Hickman County,25155
+2513,2557.0,Humphreys,"639,762",Houston County,8206
+2514,2558.0,Jackson,"192,060",Humphreys County,18596
+2515,2559.0,Jefferson,"1,475,668",Jackson County,11838
+2516,2560.0,Johnson,"363,486",Jefferson County,54563
+2517,2561.0,Knox,"24,604,994",Johnson County,17773
+2518,2562.0,Lake,"128,881",Knox County,470137
+2519,2563.0,Lauderdale,"642,459",Lake County,7010
+2520,2564.0,Lawrence,"945,090",Lauderdale County,25608
+2521,2565.0,Lewis,"257,030",Lawrence County,44163
+2522,2566.0,Lincoln,"980,756",Lewis County,12267
+2523,2567.0,Loudon,"1,877,917",Lincoln County,34436
+2524,2568.0,McMinn,"1,926,348",Loudon County,54039
+2525,2569.0,McNairy,"504,792",McMinn County,53810
+2526,2570.0,Macon,"479,998",McNairy County,25662
+2527,2571.0,Madison,"5,455,918",Macon County,24624
+2528,2572.0,Marion,"699,709",Madison County,98046
+2529,2573.0,Marshall,"1,175,943",Marion County,28878
+2530,2574.0,Maury,"3,845,992",Marshall County,34507
+2531,2575.0,Meigs,"224,905",Maury County,96795
+2532,2576.0,Monroe,"1,306,968",Meigs County,12358
+2533,2577.0,Montgomery,"5,089,678",Monroe County,46650
+2534,2578.0,Moore,"471,217",Montgomery County,209807
+2535,2579.0,Morgan,"270,012",Moore County,6439
+2536,2580.0,Obion,"1,075,223",Morgan County,21385
+2537,2581.0,Overton,"515,166",Obion County,30249
+2538,2582.0,Perry,"175,291",Overton County,22271
+2539,2583.0,Pickett,"133,299",Perry County,8084
+2540,2584.0,Polk,"259,716",Pickett County,5068
+2541,2585.0,Putnam,"3,131,686",Polk County,16764
+2542,2586.0,Rhea,"1,672,769",Putnam County,79957
+2543,2587.0,Roane,"2,385,322",Rhea County,33206
+2544,2588.0,Robertson,"2,251,803",Roane County,53476
+2545,2589.0,Rutherford,"15,589,446",Robertson County,71693
+2546,2590.0,Scott,"516,689",Rutherford County,332125
+2547,2591.0,Sequatchie,"257,140",Scott County,22102
+2548,2592.0,Sevier,"3,968,523",Sequatchie County,15071
+2549,2593.0,Shelby,"56,406,750",Sevier County,98402
+2550,2594.0,Smith,"675,200",Shelby County,937070
+2551,2595.0,Stewart,"720,143",Smith County,20115
+2552,2596.0,Sullivan,"6,753,407",Stewart County,13699
+2553,2597.0,Sumner,"6,313,663",Sullivan County,158469
+2554,2598.0,Tipton,"1,074,062",Sumner County,191497
+2555,2599.0,Trousdale,"177,284",Tipton County,61715
+2556,2600.0,Unicoi,"475,361",Trousdale County,11277
+2557,2601.0,Union,"286,135",Unicoi County,17914
+2558,2602.0,Van Buren,"88,117",Union County,19936
+2559,2603.0,Warren,"1,315,086",Van Buren County,5874
+2560,2604.0,Washington,"5,401,526",Warren County,41269
+2561,2605.0,Wayne,"297,716",Washington County,129670
+2562,2606.0,Weakley,"1,143,805",Wayne County,16644
+2563,2607.0,White,"659,195",Weakley County,33269
+2564,2608.0,Williamson,"21,303,499",White County,27378
+2565,2609.0,Wilson,"4,896,567",Williamson County,238556
+2566,2611.0,Texas,"1,785,317,908",Wilson County,144507
+2567,2612.0,Anderson,"1,888,278",Texas,28986794
+2568,2613.0,Andrews,"5,015,055",Anderson County,57816
+2569,2614.0,Angelina,"3,077,484",Andrews County,18821
+2570,2615.0,Aransas,"640,355",Angelina County,86761
+2571,2616.0,Archer,"338,714",Aransas County,23364
+2572,2617.0,Armstrong,"64,801",Archer County,8692
+2573,2618.0,Atascosa,"4,620,153",Armstrong County,1853
+2574,2619.0,Austin,"1,359,535",Atascosa County,51140
+2575,2620.0,Bailey,"424,805",Austin County,30107
+2576,2621.0,Bandera,"377,362",Bailey County,6859
+2577,2622.0,Bastrop,"2,181,750",Bandera County,23181
+2578,2623.0,Baylor,"164,713",Bastrop County,88737
+2579,2624.0,Bee,"788,770",Baylor County,3525
+2580,2625.0,Bell,"15,190,059",Bee County,32618
+2581,2626.0,Bexar,"96,105,465",Bell County,363693
+2582,2627.0,Blanco,"383,423",Bexar County,2002445
+2583,2628.0,Borden,"854,088",Blanco County,11971
+2584,2629.0,Bosque,"537,403",Borden County,656
+2585,2630.0,Bowie,"3,238,755",Bosque County,18594
+2586,2631.0,Brazoria,"15,115,082",Bowie County,93505
+2587,2632.0,Brazos,"9,739,560",Brazoria County,374699
+2588,2633.0,Brewster,"368,162",Brazos County,229418
+2589,2634.0,Briscoe,"104,986",Brewster County,9144
+2590,2635.0,Brooks,"342,481",Briscoe County,1542
+2591,2636.0,Brown,"1,316,807",Brooks County,7093
+2592,2637.0,Burleson,"1,705,424",Brown County,37770
+2593,2638.0,Burnet,"1,509,642",Burleson County,18425
+2594,2639.0,Caldwell,"912,817",Burnet County,48280
+2595,2640.0,Calhoun,"3,458,801",Caldwell County,43579
+2596,2641.0,Callahan,"294,710",Calhoun County,21237
+2597,2642.0,Cameron,"10,117,293",Callahan County,13941
+2598,2643.0,Camp,"320,178",Cameron County,422649
+2599,2644.0,Carson,"1,030,687",Camp County,13078
+2600,2645.0,Cass,"814,241",Carson County,5867
+2601,2646.0,Castro,"787,190",Cass County,30002
+2602,2647.0,Chambers,"2,448,652",Castro County,7484
+2603,2648.0,Cherokee,"1,341,960",Chambers County,43726
+2604,2649.0,Childress,"206,766",Cherokee County,52561
+2605,2650.0,Clay,"255,186",Childress County,7222
+2606,2651.0,Cochran,"404,276",Clay County,10465
+2607,2652.0,Coke,"126,391",Cochran County,2825
+2608,2653.0,Coleman,"218,520",Coke County,3316
+2609,2654.0,Collin,"64,095,670",Coleman County,8125
+2610,2655.0,Collingsworth,"75,877",Collin County,1035072
+2611,2656.0,Colorado,"833,225",Collingsworth County,2921
+2612,2657.0,Comal,"5,856,949",Colorado County,21467
+2613,2658.0,Comanche,"412,462",Comal County,156435
+2614,2659.0,Concho,"120,646",Comanche County,13629
+2615,2660.0,Cooke,"2,325,818",Concho County,2749
+2616,2661.0,Coryell,"1,479,194",Cooke County,41074
+2617,2662.0,Cottle,"73,373",Coryell County,76543
+2618,2663.0,Crane,"1,152,039",Cottle County,1385
+2619,2664.0,Crockett,"1,282,882",Crane County,4759
+2620,2665.0,Crosby,"333,870",Crockett County,3468
+2621,2666.0,Culberson,"2,036,365",Crosby County,5701
+2622,2667.0,Dallam,"764,277",Culberson County,2146
+2623,2668.0,Dallas,"246,512,762",Dallam County,7255
+2624,2669.0,Dawson,"849,434",Dallas County,2635603
+2625,2670.0,Deaf Smith,"1,578,133",Dawson County,12985
+2626,2671.0,Delta,"100,862",Deaf Smith County,18559
+2627,2672.0,Denton,"33,282,512",Delta County,5327
+2628,2673.0,DeWitt,"6,501,016",Denton County,888765
+2629,2674.0,Dickens,"134,036",DeWitt County,20105
+2630,2675.0,Dimmit,"5,917,527",Dickens County,2185
+2631,2676.0,Donley,"140,676",Dimmit County,10104
+2632,2677.0,Duval,"401,432",Donley County,3263
+2633,2678.0,Eastland,"839,457",Duval County,11139
+2634,2679.0,Ector,"13,506,926",Eastland County,18267
+2635,2680.0,Edwards,"83,509",Ector County,166204
+2636,2681.0,Ellis,"5,939,989",Edwards County,1915
+2637,2682.0,El Paso,"29,805,366",Ellis County,184765
+2638,2683.0,Erath,"1,501,302",El Paso County,837501
+2639,2684.0,Falls,"374,175",Erath County,42536
+2640,2685.0,Fannin,"843,912",Falls County,17282
+2641,2686.0,Fayette,"1,688,455",Fannin County,35554
+2642,2687.0,Fisher,"262,415",Fayette County,25308
+2643,2688.0,Floyd,"347,472",Fisher County,3810
+2644,2689.0,Foard,"57,242",Floyd County,5754
+2645,2690.0,Fort Bend,"28,167,815",Foard County,1156
+2646,2691.0,Franklin,"415,703",Fort Bend County,812737
+2647,2692.0,Freestone,"1,326,617",Franklin County,10749
+2648,2693.0,Frio,"1,429,979",Freestone County,19753
+2649,2694.0,Gaines,"3,357,767",Frio County,20199
+2650,2695.0,Galveston,"16,276,531",Gaines County,21540
+2651,2696.0,Garza,"377,387",Galveston County,341541
+2652,2697.0,Gillespie,"996,822",Garza County,6238
+2653,2698.0,Glasscock,"5,864,146",Gillespie County,26927
+2654,2699.0,Goliad,"327,035",Glasscock County,1430
+2655,2700.0,Gonzales,"5,246,041",Goliad County,7607
+2656,2701.0,Gray,"1,049,981",Gonzales County,20899
+2657,2702.0,Grayson,"4,794,754",Gray County,21849
+2658,2703.0,Gregg,"7,368,823",Grayson County,136143
+2659,2704.0,Grimes,"1,071,838",Gregg County,124098
+2660,2705.0,Guadalupe,"7,056,072",Grimes County,28940
+2661,2706.0,Hale,"1,325,975",Guadalupe County,166970
+2662,2707.0,Hall,"87,363",Hale County,33098
+2663,2708.0,Hamilton,"240,797",Hall County,2992
+2664,2709.0,Hansford,"673,167",Hamilton County,8465
+2665,2710.0,Hardeman,"201,599",Hansford County,5380
+2666,2711.0,Hardin,"1,344,905",Hardeman County,3927
+2667,2712.0,Harris,"373,087,121",Hardin County,57796
+2668,2713.0,Harrison,"4,383,225",Harris County,4709243
+2669,2714.0,Hartley,"920,853",Harrison County,66484
+2670,2715.0,Haskell,"387,575",Hartley County,5507
+2671,2716.0,Hays,"7,222,279",Haskell County,5665
+2672,2717.0,Hemphill,"916,225",Hays County,230400
+2673,2718.0,Henderson,"1,730,667",Hemphill County,3831
+2674,2719.0,Hidalgo,"19,944,793",Henderson County,82822
+2675,2720.0,Hill,"955,514",Hidalgo County,867221
+2676,2721.0,Hockley,"2,428,387",Hill County,36536
+2677,2722.0,Hood,"2,429,352",Hockley County,23055
+2678,2723.0,Hopkins,"1,564,821",Hood County,61762
+2679,2724.0,Houston,"993,323",Hopkins County,37063
+2680,2725.0,Howard,"8,363,684",Houston County,22877
+2681,2726.0,Hudspeth,"180,132",Howard County,36732
+2682,2727.0,Hunt,"4,444,498",Hudspeth County,4875
+2683,2728.0,Hutchinson,"7,090,427",Hunt County,98559
+2684,2729.0,Irion,"1,976,121",Hutchinson County,20899
+2685,2730.0,Jack,"580,131",Irion County,1565
+2686,2731.0,Jackson,"748,894",Jack County,8945
+2687,2732.0,Jasper,"959,790",Jackson County,14760
+2688,2733.0,Jeff Davis,"77,177",Jasper County,35610
+2689,2734.0,Jefferson,"22,059,368",Jeff Davis County,2275
+2690,2735.0,Jim Hogg,"201,787",Jefferson County,251315
+2691,2736.0,Jim Wells,"1,631,965",Jim Hogg County,5161
+2692,2737.0,Johnson,"6,449,549",Jim Wells County,40573
+2693,2738.0,Jones,"426,608",Johnson County,175997
+2694,2739.0,Karnes,"12,645,963",Jones County,19867
+2695,2740.0,Kaufman,"3,450,214",Karnes County,15356
+2696,2741.0,Kendall,"2,005,319",Kaufman County,136459
+2697,2742.0,Kenedy,"354,635",Kendall County,47418
+2698,2743.0,Kent,"373,545",Kenedy County,385
+2699,2744.0,Kerr,"1,930,054",Kent County,758
+2700,2745.0,Kimble,"141,558",Kerr County,52422
+2701,2746.0,King,"190,305",Kimble County,4362
+2702,2747.0,Kinney,"105,794",King County,267
+2703,2748.0,Kleberg,"1,085,078",Kinney County,3668
+2704,2749.0,Knox,"154,983",Kleberg County,30502
+2705,2750.0,Lamar,"2,486,515",Knox County,3663
+2706,2751.0,Lamb,"743,666",Lamar County,49781
+2707,2752.0,Lampasas,"464,637",Lamb County,12904
+2708,2753.0,La Salle,"7,656,815",Lampasas County,21429
+2709,2754.0,Lavaca,"1,654,694",La Salle County,7546
+2710,2755.0,Lee,"1,061,371",Lavaca County,20156
+2711,2756.0,Leon,"919,057",Lee County,17295
+2712,2757.0,Liberty,"2,105,156",Leon County,17421
+2713,2758.0,Limestone,"1,537,845",Liberty County,88453
+2714,2759.0,Lipscomb,"837,531",Limestone County,23389
+2715,2760.0,Live Oak,"2,483,608",Lipscomb County,3214
+2716,2761.0,Llano,"688,463",Live Oak County,12236
+2717,2762.0,Loving,"9,962,411",Llano County,21810
+2718,2763.0,Lubbock,"12,570,427",Loving County,165
+2719,2764.0,Lynn,"281,316",Lubbock County,311087
+2720,2765.0,McCulloch,"337,888",Lynn County,5956
+2721,2766.0,McLennan,"11,848,374",McCulloch County,8011
+2722,2767.0,McMullen,"3,473,650",McLennan County,257080
+2723,2768.0,Madison,"824,426",McMullen County,733
+2724,2769.0,Marion,"263,754",Madison County,14382
+2725,2770.0,Martin,"13,387,119",Marion County,9848
+2726,2771.0,Mason,"127,301",Martin County,5743
+2727,2772.0,Matagorda,"2,130,224",Mason County,4287
+2728,2773.0,Maverick,"1,608,240",Matagorda County,36655
+2729,2774.0,Medina,"986,697",Maverick County,58357
+2730,2775.0,Menard,"53,363",Medina County,51608
+2731,2776.0,Midland,"30,777,357",Menard County,2099
+2732,2777.0,Milam,"611,092",Midland County,176444
+2733,2778.0,Mills,"190,540",Milam County,24721
+2734,2779.0,Mitchell,"459,362",Mills County,4872
+2735,2780.0,Montague,"965,999",Mitchell County,8161
+2736,2781.0,Montgomery,"27,859,472",Montague County,19848
+2737,2782.0,Moore,"3,328,078",Montgomery County,607583
+2738,2783.0,Morris,"657,428",Moore County,20931
+2739,2784.0,Motley,"30,896",Morris County,12343
+2740,2785.0,Nacogdoches,"2,556,789",Motley County,1200
+2741,2786.0,Navarro,"1,520,866",Nacogdoches County,64846
+2742,2787.0,Newton,"516,384",Navarro County,49978
+2743,2788.0,Nolan,"973,510",Newton County,13673
+2744,2789.0,Nueces,"19,935,184",Nolan County,14833
+2745,2790.0,Ochiltree,"1,398,079",Nueces County,362347
+2746,2791.0,Oldham,"336,304",Ochiltree County,9815
+2747,2792.0,Orange,"3,286,754",Oldham County,2115
+2748,2793.0,Palo Pinto,"1,079,213",Orange County,83086
+2749,2794.0,Panola,"3,033,146",Palo Pinto County,29114
+2750,2795.0,Parker,"4,354,517",Panola County,23103
+2751,2796.0,Parmer,"1,032,223",Parker County,143149
+2752,2797.0,Pecos,"4,001,420",Parmer County,9555
+2753,2798.0,Polk,"1,265,711",Pecos County,15757
+2754,2799.0,Potter,"7,901,598",Polk County,51254
+2755,2800.0,Presidio,"238,039",Potter County,116818
+2756,2801.0,Rains,"197,778",Presidio County,6612
+2757,2802.0,Randall,"3,637,769",Rains County,12401
+2758,2803.0,Reagan,"6,455,797",Randall County,137770
+2759,2804.0,Real,"66,603",Reagan County,3842
+2760,2805.0,Red River,"288,883",Real County,3460
+2761,2806.0,Reeves,"16,109,739",Red River County,12095
+2762,2807.0,Refugio,"484,000",Reeves County,15951
+2763,2808.0,Roberts,"942,163",Refugio County,6824
+2764,2809.0,Robertson,"3,046,148",Roberts County,837
+2765,2810.0,Rockwall,"3,483,511",Robertson County,17104
+2766,2811.0,Runnels,"318,513",Rockwall County,104862
+2767,2812.0,Rusk,"2,769,577",Runnels County,10265
+2768,2813.0,Sabine,"216,020",Rusk County,54386
+2769,2814.0,San Augustine,"1,212,939",Sabine County,10490
+2770,2815.0,San Jacinto,"356,020",San Augustine County,8220
+2771,2816.0,San Patricio,"2,336,277",San Jacinto County,28867
+2772,2817.0,San Saba,"179,454",San Patricio County,66656
+2773,2818.0,Schleicher,"190,128",San Saba County,6009
+2774,2819.0,Scurry,"2,404,029",Schleicher County,2801
+2775,2820.0,Shackelford,"271,172",Scurry County,16655
+2776,2821.0,Shelby,"1,441,324",Shackelford County,3272
+2777,2822.0,Sherman,"597,860",Shelby County,25297
+2778,2823.0,Smith,"10,889,082",Sherman County,3017
+2779,2824.0,Somervell,"1,170,941",Smith County,232916
+2780,2825.0,Starr,"1,387,854",Somervell County,9123
+2781,2826.0,Stephens,"560,642",Starr County,64294
+2782,2827.0,Sterling,"320,490",Stephens County,9364
+2783,2828.0,Stonewall,"242,357",Sterling County,1295
+2784,2829.0,Sutton,"350,621",Stonewall County,1336
+2785,2830.0,Swisher,"571,428",Sutton County,3779
+2786,2831.0,Tarrant,"111,665,897",Swisher County,7399
+2787,2832.0,Taylor,"6,079,124",Tarrant County,2101282
+2788,2833.0,Terrell,"160,459",Taylor County,138141
+2789,2834.0,Terry,"777,079",Terrell County,752
+2790,2835.0,Throckmorton,"115,144",Terry County,12354
+2791,2836.0,Titus,"1,769,032",Throckmorton County,1473
+2792,2837.0,Tom Green,"5,653,698",Titus County,32744
+2793,2838.0,Travis,"114,678,235",Tom Green County,119429
+2794,2839.0,Trinity,"238,379",Travis County,1273567
+2795,2840.0,Tyler,"417,686",Trinity County,14675
+2796,2841.0,Upshur,"855,116",Tyler County,21523
+2797,2842.0,Upton,"8,291,570",Upshur County,41705
+2798,2843.0,Uvalde,"869,584",Upton County,3644
+2799,2844.0,Val Verde,"1,594,939",Uvalde County,26794
+2800,2845.0,Van Zandt,"1,128,834",Val Verde County,49041
+2801,2846.0,Victoria,"4,105,372",Van Zandt County,56744
+2802,2847.0,Walker,"1,991,487",Victoria County,92021
+2803,2848.0,Waller,"2,598,170",Walker County,71700
+2804,2849.0,Ward,"5,928,199",Waller County,55311
+2805,2850.0,Washington,"1,752,390",Ward County,11985
+2806,2851.0,Webb,"12,562,847",Washington County,35626
+2807,2852.0,Wharton,"1,936,733",Webb County,276387
+2808,2853.0,Wheeler,"912,127",Wharton County,41671
+2809,2854.0,Wichita,"5,480,299",Wheeler County,5026
+2810,2855.0,Wilbarger,"797,944",Wichita County,132328
+2811,2856.0,Willacy,"513,654",Wilbarger County,12695
+2812,2857.0,Williamson,"22,043,948",Willacy County,21280
+2813,2858.0,Wilson,"1,193,728",Williamson County,591823
+2814,2859.0,Winkler,"2,394,287",Wilson County,50950
+2815,2860.0,Wise,"3,438,374",Winkler County,7970
+2816,2861.0,Wood,"1,731,404",Wise County,69877
+2817,2862.0,Yoakum,"3,426,395",Wood County,45621
+2818,2863.0,Young,"874,240",Yoakum County,8686
+2819,2864.0,Zapata,"879,421",Young County,17937
+2820,2865.0,Zavala,"1,039,023",Zapata County,14221
+2821,2867.0,Utah,"171,134,713",Zavala County,11807
+2822,2868.0,Beaver,"419,707",Utah,3203383
+2823,2869.0,Box Elder,"2,306,970",Beaver County,6725
+2824,2870.0,Cache,"5,241,528",Box Elder County,55957
+2825,2871.0,Carbon,"1,138,829",Cache County,128309
+2826,2872.0,Daggett,"132,768",Carbon County,20476
+2827,2873.0,Davis,"14,303,118",Daggett County,964
+2828,2874.0,Duchesne,"1,155,080",Davis County,355304
+2829,2875.0,Emery,"932,010",Duchesne County,19877
+2830,2876.0,Garfield,"250,021",Emery County,10061
+2831,2877.0,Grand,"609,264",Garfield County,5000
+2832,2878.0,Iron,"1,701,006",Grand County,9773
+2833,2879.0,Juab,"482,760",Iron County,55269
+2834,2880.0,Kane,"319,389",Juab County,12002
+2835,2881.0,Millard,"828,757",Kane County,7873
+2836,2882.0,Morgan,"285,871",Millard County,13100
+2837,2883.0,Piute,"71,661",Morgan County,12115
+2838,2884.0,Rich,"148,732",Piute County,1472
+2839,2885.0,Salt Lake,"86,713,524",Rich County,2468
+2840,2886.0,San Juan,"506,988",Salt Lake County,1158585
+2841,2887.0,Sanpete,"816,725",San Juan County,15228
+2842,2888.0,Sevier,"1,187,481",Sanpete County,30986
+2843,2889.0,Summit,"3,150,354",Sevier County,21636
+2844,2890.0,Tooele,"1,786,767",Summit County,42081
+2845,2891.0,Uintah,"1,860,884",Tooele County,72110
+2846,2892.0,Utah,"26,983,699",Uintah County,35806
+2847,2893.0,Wasatch,"969,549",Utah County,635675
+2848,2894.0,Washington,"6,041,044",Wasatch County,34210
+2849,2895.0,Wayne,"108,355",Washington County,177938
+2850,2896.0,Weber,"10,347,584",Wayne County,2703
+2851,2898.0,Vermont,"29,902,839",Weber County,259680
+2852,2899.0,Addison,"1,579,129",Vermont,624046
+2853,2900.0,Bennington,"1,543,050",Addison County,36994
+2854,2901.0,Caledonia,"1,005,625",Bennington County,35532
+2855,2902.0,Chittenden,"10,632,821",Caledonia County,29860
+2856,2903.0,Essex,"138,075",Chittenden County,163918
+2857,2904.0,Franklin,"1,963,786",Essex County,6145
+2858,2905.0,Grand Isle,"188,046",Franklin County,49384
+2859,2906.0,Lamoille,"1,018,478",Grand Isle County,7208
+2860,2907.0,Orange,"740,394",Lamoille County,25420
+2861,2908.0,Orleans,"979,997",Orange County,28809
+2862,2909.0,Rutland,"2,352,696",Orleans County,26934
+2863,2910.0,Washington,"3,367,064",Rutland County,58125
+2864,2911.0,Windham,"2,052,930",Washington County,58458
+2865,2912.0,Windsor,"2,354,202",Windham County,42227
+2866,2914.0,Virginia,"487,251,631",Windsor County,55032
+2867,2915.0,Accomack,"1,582,822",Virginia,8556642
+2868,2916.0,Amelia,"268,156",Accomack County,32325
+2869,2917.0,Amherst,"735,759",Albemarle County,109843
+2870,2918.0,Appomattox,"262,388",Alleghany County,14898
+2871,2919.0,Arlington,"32,930,931",Amelia County,13058
+2872,2920.0,Bath,"217,236",Amherst County,31678
+2873,2921.0,Bedford,"1,811,923",Appomattox County,15902
+2874,2922.0,Bland,"205,737",Arlington County,238392
+2875,2923.0,Botetourt,"1,156,685",Augusta County,76120
+2876,2924.0,Brunswick,"715,542",Bath County,4169
+2877,2925.0,Buchanan,"1,099,109",Bedford County,79431
+2878,2926.0,Buckingham,"487,257",Bland County,6292
+2879,2927.0,Caroline,"673,499",Botetourt County,33500
+2880,2928.0,Charles City,"200,759",Brunswick County,16176
+2881,2929.0,Charlotte,"227,662",Buchanan County,21031
+2882,2930.0,Chesterfield,"14,348,174",Buckingham County,17134
+2883,2931.0,Clarke,"442,927",Campbell County,55371
+2884,2932.0,Craig,"91,025",Caroline County,30745
+2885,2933.0,Culpeper,"1,679,918",Carroll County,30022
+2886,2934.0,Cumberland,"138,125",Charles City County,6969
+2887,2935.0,Dickenson,"515,326",Charlotte County,11849
+2888,2936.0,Essex,"351,770",Chesterfield County,353376
+2889,2937.0,Fauquier,"2,516,311",Clarke County,14576
+2890,2938.0,Floyd,"335,294",Craig County,5127
+2891,2939.0,Fluvanna,"814,184",Culpeper County,52722
+2892,2940.0,Franklin,"1,387,760",Cumberland County,9967
+2893,2941.0,Giles,"445,583",Dickenson County,14295
+2894,2942.0,Gloucester,"811,148",Dinwiddie County,28804
+2895,2943.0,Goochland,"2,273,664",Essex County,10936
+2896,2944.0,Grayson,"260,007",Fairfax County,1152359
+2897,2945.0,Greene,"421,735",Fauquier County,71297
+2898,2946.0,Halifax,"1,089,647",Floyd County,15796
+2899,2947.0,Hanover,"5,378,892",Fluvanna County,27266
+2900,2948.0,Henrico,"26,686,265",Franklin County,56185
+2901,2949.0,Highland,"68,674",Frederick County,89483
+2902,2950.0,Isle of Wight,"1,267,956",Giles County,16693
+2903,2951.0,King and Queen,"127,542",Gloucester County,37499
+2904,2952.0,King George,"1,822,792",Goochland County,23949
+2905,2953.0,King William,"469,472",Grayson County,15574
+2906,2954.0,Lancaster,"409,913",Greene County,19901
+2907,2955.0,Lee,"367,913",Greensville County,11289
+2908,2956.0,Loudoun,"27,268,208",Halifax County,34035
+2909,2957.0,Louisa,"1,983,012",Hanover County,107535
+2910,2958.0,Lunenburg,"210,841",Henrico County,332513
+2911,2959.0,Madison,"330,903",Henry County,50724
+2912,2960.0,Mathews,"199,538",Highland County,2176
+2913,2961.0,Mecklenburg,"901,123",Isle of Wight County,37400
+2914,2962.0,Middlesex,"345,289",James City County,76838
+2915,2963.0,Nelson,"482,176",King and Queen County,7011
+2916,2964.0,New Kent,"496,686",King George County,26981
+2917,2965.0,Northampton,"449,593",King William County,17198
+2918,2966.0,Northumberland,"406,156",Lancaster County,10619
+2919,2967.0,Nottoway,"471,813",Lee County,23540
+2920,2968.0,Orange,"1,050,074",Loudoun County,414872
+2921,2969.0,Page,"595,270",Louisa County,37477
+2922,2970.0,Patrick,"384,345",Lunenburg County,12251
+2923,2971.0,Powhatan,"738,854",Madison County,13213
+2924,2972.0,Prince Edward,"651,059",Mathews County,8782
+2925,2973.0,Pulaski,"1,255,179",Mecklenburg County,30723
+2926,2974.0,Rappahannock,"294,664",Middlesex County,10561
+2927,2975.0,Richmond,"265,206",Montgomery County,98872
+2928,2976.0,Russell,"616,876",Nelson County,14867
+2929,2977.0,Scott,"377,405",New Kent County,22984
+2930,2978.0,Shenandoah,"1,641,286",Northampton County,11800
+2931,2979.0,Smyth,"947,116",Northumberland County,12069
+2932,2980.0,Stafford,"5,183,674",Nottoway County,15206
+2933,2981.0,Surry,"1,006,495",Orange County,36941
+2934,2982.0,Sussex,"340,831",Page County,23937
+2935,2983.0,Tazewell,"1,133,180",Patrick County,17592
+2936,2984.0,Warren,"1,620,127",Pittsylvania County,60470
+2937,2985.0,Westmoreland,"432,216",Powhatan County,29734
+2938,2986.0,Wythe,"1,307,389",Prince Edward County,22827
+2939,2988.0,Alexandria,"13,368,490",Prince George County,38528
+2940,2989.0,Chesapeake,"9,344,726",Prince William County,471774
+2941,2990.0,Hampton,"6,044,414",Pulaski County,34009
+2942,2991.0,Newport News,"12,114,711",Rappahannock County,7372
+2943,2992.0,Norfolk,"17,772,146",Richmond County,9066
+2944,2993.0,Portsmouth,"5,472,530",Roanoke County,94423
+2945,2994.0,Richmond,"20,694,025",Rockbridge County,22774
+2946,2995.0,Roanoke,"6,377,991",Rockingham County,82140
+2947,2996.0,Suffolk,"3,506,623",Russell County,26739
+2948,2997.0,Virginia Beach,"19,685,107",Scott County,21578
+2949,2999.0,Albemarle + Charlottesville,"10,735,480",Shenandoah County,43557
+2950,3000.0,Alleghany + Covington,"811,717",Smyth County,30182
+2951,3001.0,"Augusta, Staunton + Waynesboro","4,707,372",Southampton County,17797
+2952,3002.0,Campbell + Lynchburg,"6,754,237",Spotsylvania County,136447
+2953,3003.0,Carroll + Galax,"849,492",Stafford County,153775
+2954,3004.0,"Dinwiddie, Colonial Heights + Petersburg","2,574,955",Surry County,6407
+2955,3005.0,"Fairfax, Fairfax City + Falls Church","113,780,472",Sussex County,11092
+2956,3006.0,Frederick + Winchester,"6,050,372",Tazewell County,40734
+2957,3007.0,Greensville + Emporia,"1,206,961",Warren County,40235
+2958,3008.0,Henry + Martinsville,"2,009,153",Washington County,53852
+2959,3009.0,James City + Williamsburg,"4,746,291",Westmoreland County,18029
+2960,3010.0,Montgomery + Radford,"4,763,167",Wise County,37427
+2961,3011.0,Pittsylvania + Danville,"3,166,653",Wythe County,28618
+2962,3012.0,Prince George + Hopewell,"3,581,002",York County,68579
+2963,3013.0,"Prince William, Manassas + Manassas Park","19,239,417",Alexandria city,159050
+2964,3014.0,Roanoke + Salem,"5,554,460",Bristol city,17036
+2965,3015.0,"Rockbridge, Buena Vista + Lexington","1,168,656",Buena Vista city,6481
+2966,3016.0,Rockingham + Harrisonburg,"7,340,930",Charlottesville city,47283
+2967,3017.0,Southampton + Franklin,"723,195",Chesapeake city,245403
+2968,3018.0,Spotsylvania + Fredericksburg,"5,705,526",Colonial Heights city,17089
+2969,3019.0,Washington + Bristol,"3,191,437",Covington city,5622
+2970,3020.0,Wise + Norton,"1,391,533",Danville city,40036
+2971,3021.0,York + Poquoson,"2,495,154",Emporia city,5409
+2972,3023.0,Washington,"535,980,514",Fairfax city,23294
+2973,3024.0,Adams,"923,667",Falls Church city,14551
+2974,3025.0,Asotin,"610,859",Franklin city,7867
+2975,3026.0,Benton,"10,969,021",Fredericksburg city,29254
+2976,3027.0,Chelan,"4,175,503",Galax city,6324
+2977,3028.0,Clallam,"2,281,222",Hampton city,135048
+2978,3029.0,Clark,"19,842,592",Harrisonburg city,53379
+2979,3030.0,Columbia,"357,570",Hopewell city,22523
+2980,3031.0,Cowlitz,"4,585,917",Lexington city,7246
+2981,3032.0,Douglas,"1,640,444",Lynchburg city,81753
+2982,3033.0,Ferry,"179,214",Manassas city,40907
+2983,3034.0,Franklin,"3,725,217",Manassas Park city,18071
+2984,3035.0,Garfield,"143,783",Martinsville city,12443
+2985,3036.0,Grant,"5,218,536",Newport News city,179736
+2986,3037.0,Grays Harbor,"2,254,969",Norfolk city,243581
+2987,3038.0,Island,"2,940,564",Norton city,3983
+2988,3039.0,Jefferson,"983,896",Petersburg city,30593
+2989,3040.0,King,"293,178,141",Poquoson city,12228
+2990,3041.0,Kitsap,"11,275,707",Portsmouth city,94582
+2991,3042.0,Kittitas,"1,633,671",Radford city,18107
+2992,3043.0,Klickitat,"1,583,910",Richmond city,231027
+2993,3044.0,Lewis,"3,128,591",Roanoke city,99216
+2994,3045.0,Lincoln,"432,953",Salem city,25209
+2995,3046.0,Mason,"1,476,139",Staunton city,24916
+2996,3047.0,Okanogan,"1,441,381",Suffolk city,92277
+2997,3048.0,Pacific,"661,546",Virginia Beach city,450766
+2998,3049.0,Pend Oreille,"532,752",Waynesboro city,22416
+2999,3050.0,Pierce,"40,008,149",Williamsburg city,15019
+3000,3051.0,San Juan,"716,828",Winchester city,28036
+3001,3052.0,Skagit,"7,115,536",Washington,7614024
+3002,3053.0,Skamania,"245,424",Adams County,19959
+3003,3054.0,Snohomish,"45,380,868",Asotin County,22687
+3004,3055.0,Spokane,"23,798,009",Benton County,204173
+3005,3056.0,Stevens,"990,813",Chelan County,77053
+3006,3057.0,Thurston,"12,511,137",Clallam County,77457
+3007,3058.0,Wahkiakum,"83,173",Clark County,489271
+3008,3059.0,Walla Walla,"3,245,485",Columbia County,4023
+3009,3060.0,Whatcom,"13,629,262",Cowlitz County,110389
+3010,3061.0,Whitman,"2,320,680",Douglas County,43251
+3011,3062.0,Yakima,"10,043,074",Ferry County,7676
+3012,3064.0,West Virginia,"72,542,927",Franklin County,95446
+3013,3065.0,Barbour,"418,599",Garfield County,2266
+3014,3066.0,Berkeley,"3,568,921",Grant County,97959
+3015,3067.0,Boone,"670,569",Grays Harbor County,75047
+3016,3068.0,Braxton,"286,726",Island County,85344
+3017,3069.0,Brooke,"1,023,404",Jefferson County,32347
+3018,3070.0,Cabell,"4,519,107",King County,2249653
+3019,3071.0,Calhoun,"111,903",Kitsap County,272299
+3020,3072.0,Clay,"119,758",Kittitas County,47856
+3021,3073.0,Doddridge,"1,478,549",Klickitat County,22433
+3022,3074.0,Fayette,"1,024,217",Lewis County,80599
+3023,3075.0,Gilmer,"183,047",Lincoln County,10938
+3024,3076.0,Grant,"391,569",Mason County,66939
+3025,3077.0,Greenbrier,"1,073,935",Okanogan County,42403
+3026,3078.0,Hampshire,"379,825",Pacific County,22517
+3027,3079.0,Hancock,"1,108,227",Pend Oreille County,13726
+3028,3080.0,Hardy,"526,454",Pierce County,905719
+3029,3081.0,Harrison,"4,377,636",San Juan County,17352
+3030,3082.0,Jackson,"944,867",Skagit County,129181
+3031,3083.0,Jefferson,"1,609,123",Skamania County,12096
+3032,3084.0,Kanawha,"9,747,858",Snohomish County,822413
+3033,3085.0,Lewis,"665,325",Spokane County,522231
+3034,3086.0,Lincoln,"246,754",Stevens County,45815
+3035,3087.0,Logan,"1,306,305",Thurston County,289661
+3036,3088.0,McDowell,"586,172",Wahkiakum County,4420
+3037,3089.0,Marion,"2,268,371",Walla Walla County,61062
+3038,3090.0,Marshall,"2,848,741",Whatcom County,228675
+3039,3091.0,Mason,"714,968",Whitman County,50136
+3040,3092.0,Mercer,"1,548,261",Yakima County,251552
+3041,3093.0,Mineral,"726,940",West Virginia,1795263
+3042,3094.0,Mingo,"661,582",Barbour County,16466
+3043,3095.0,Monongalia,"6,116,729",Berkeley County,119623
+3044,3096.0,Monroe,"169,047",Boone County,21352
+3045,3097.0,Morgan,"302,883",Braxton County,13894
+3046,3098.0,Nicholas,"583,478",Brooke County,21924
+3047,3099.0,Ohio,"3,420,746",Cabell County,91897
+3048,3100.0,Pendleton,"138,189",Calhoun County,7077
+3049,3101.0,Pleasants,"422,536",Clay County,8506
+3050,3102.0,Pocahontas,"241,787",Doddridge County,8451
+3051,3103.0,Preston,"683,202",Fayette County,42500
+3052,3104.0,Putnam,"2,592,552",Gilmer County,7888
+3053,3105.0,Raleigh,"2,889,597",Grant County,11486
+3054,3106.0,Randolph,"817,551",Greenbrier County,34634
+3055,3107.0,Ritchie,"731,336",Hampshire County,23213
+3056,3108.0,Roane,"282,233",Hancock County,28834
+3057,3109.0,Summers,"190,107",Hardy County,13825
+3058,3110.0,Taylor,"575,134",Harrison County,67339
+3059,3111.0,Tucker,"292,143",Jackson County,28661
+3060,3112.0,Tyler,"681,423",Jefferson County,57347
+3061,3113.0,Upshur,"700,279",Kanawha County,178393
+3062,3114.0,Wayne,"961,678",Lewis County,15877
+3063,3115.0,Webster,"154,672",Lincoln County,20453
+3064,3116.0,Wetzel,"977,845",Logan County,31989
+3065,3117.0,Wirt,"61,369",McDowell County,17600
+3066,3118.0,Wood,"3,115,737",Marion County,56077
+3067,3119.0,Wyoming,"551,634",Marshall County,30558
+3068,3121.0,Wisconsin,"303,891,178",Mason County,26572
+3069,3122.0,Adams,"532,566",Mercer County,58823
+3070,3123.0,Ashland,"674,573",Mineral County,26904
+3071,3124.0,Barron,"1,980,728",Mingo County,23390
+3072,3125.0,Bayfield,"419,615",Monongalia County,106281
+3073,3126.0,Brown,"16,948,230",Monroe County,13295
+3074,3127.0,Buffalo,"448,784",Morgan County,17875
+3075,3128.0,Burnett,"485,969",Nicholas County,24569
+3076,3129.0,Calumet,"1,544,541",Ohio County,41626
+3077,3130.0,Chippewa,"2,698,020",Pendleton County,6960
+3078,3131.0,Clark,"1,418,479",Pleasants County,7416
+3079,3132.0,Columbia,"2,598,307",Pocahontas County,8274
+3080,3133.0,Crawford,"679,143",Preston County,33479
+3081,3134.0,Dane,"40,879,006",Putnam County,56507
+3082,3135.0,Dodge,"3,356,258",Raleigh County,73659
+3083,3136.0,Door,"1,225,342",Randolph County,28670
+3084,3137.0,Douglas,"1,730,178",Ritchie County,9616
+3085,3138.0,Dunn,"1,698,717",Roane County,13651
+3086,3139.0,Eau Claire,"5,920,439",Summers County,12536
+3087,3140.0,Florence,"134,261",Taylor County,16707
+3088,3141.0,Fond du Lac,"4,844,569",Tucker County,6891
+3089,3142.0,Forest,"283,358",Tyler County,8622
+3090,3143.0,Grant,"2,190,118",Upshur County,24315
+3091,3144.0,Green,"1,670,052",Wayne County,39552
+3092,3145.0,Green Lake,"578,742",Webster County,8179
+3093,3146.0,Iowa,"1,022,840",Wetzel County,15130
+3094,3147.0,Iron,"163,936",Wirt County,5783
+3095,3148.0,Jackson,"810,108",Wood County,83668
+3096,3149.0,Jefferson,"3,263,417",Wyoming County,20449
+3097,3150.0,Juneau,"870,455",Wisconsin,5824581
+3098,3151.0,Kenosha,"6,404,892",Adams County,20268
+3099,3152.0,Kewaunee,"866,477",Ashland County,15506
+3100,3153.0,La Crosse,"6,859,464",Barron County,45226
+3101,3154.0,Lafayette,"572,128",Bayfield County,15172
+3102,3155.0,Langlade,"701,086",Brown County,263899
+3103,3156.0,Lincoln,"1,231,413",Buffalo County,13012
+3104,3157.0,Manitowoc,"3,690,268",Burnett County,15390
+3105,3158.0,Marathon,"8,151,531",Calumet County,50112
+3106,3159.0,Marinette,"1,866,945",Chippewa County,64692
+3107,3160.0,Marquette,"404,332",Clark County,34785
+3108,3161.0,Menominee,"149,457",Columbia County,57537
+3109,3162.0,Milwaukee,"52,958,592",Crawford County,16121
+3110,3163.0,Monroe,"2,140,411",Dane County,547637
+3111,3164.0,Oconto,"1,001,617",Dodge County,87626
+3112,3165.0,Oneida,"1,560,208",Door County,27752
+3113,3166.0,Outagamie,"11,839,511",Douglas County,43506
+3114,3167.0,Ozaukee,"4,981,660",Dunn County,45384
+3115,3168.0,Pepin,"258,933",Eau Claire County,104466
+3116,3169.0,Pierce,"1,082,541",Florence County,4300
+3117,3170.0,Polk,"1,464,080",Fond du Lac County,103079
+3118,3171.0,Portage,"3,871,435",Forest County,9034
+3119,3172.0,Price,"574,815",Grant County,51509
+3120,3173.0,Racine,"7,328,811",Green County,36853
+3121,3174.0,Richland,"731,935",Green Lake County,18910
+3122,3175.0,Rock,"6,847,338",Iowa County,23648
+3123,3176.0,Rusk,"531,227",Iron County,5688
+3124,3177.0,St. Croix,"3,641,553",Jackson County,20676
+3125,3178.0,Sauk,"3,581,017",Jefferson County,84829
+3126,3179.0,Sawyer,"612,093",Juneau County,26688
+3127,3180.0,Shawano,"1,331,621",Kenosha County,169760
+3128,3181.0,Sheboygan,"6,503,641",Kewaunee County,20451
+3129,3182.0,Taylor,"840,199",La Crosse County,118151
+3130,3183.0,Trempealeau,"1,278,332",Lafayette County,16667
+3131,3184.0,Vernon,"1,013,205",Langlade County,19208
+3132,3185.0,Vilas,"837,370",Lincoln County,27596
+3133,3186.0,Walworth,"4,026,693",Manitowoc County,78785
+3134,3187.0,Washburn,"548,091",Marathon County,135697
+3135,3188.0,Washington,"6,157,756",Marinette County,40256
+3136,3189.0,Waukesha,"28,533,170",Marquette County,15537
+3137,3190.0,Waupaca,"1,892,753",Menominee County,4553
+3138,3191.0,Waushara,"623,833",Milwaukee County,947011
+3139,3192.0,Winnebago,"9,704,179",Monroe County,46674
+3140,3193.0,Wood,"3,683,297",Oconto County,38057
+3141,3195.0,Wyoming,"38,628,445",Oneida County,35607
+3142,3196.0,Albany,"1,341,209",Outagamie County,187927
+3143,3197.0,Big Horn,"502,059",Ozaukee County,89597
+3144,3198.0,Campbell,"5,458,527",Pepin County,7265
+3145,3199.0,Carbon,"1,733,793",Pierce County,42768
+3146,3200.0,Converse,"1,767,039",Polk County,43705
+3147,3201.0,Crook,"288,439",Portage County,70943
+3148,3202.0,Fremont,"1,607,240",Price County,13347
+3149,3203.0,Goshen,"491,917",Racine County,196204
+3150,3204.0,Hot Springs,"283,627",Richland County,17313
+3151,3205.0,Johnson,"440,162",Rock County,163120
+3152,3206.0,Laramie,"5,582,066",Rusk County,14091
+3153,3207.0,Lincoln,"852,156",St. Croix County,90691
+3154,3208.0,Natrona,"5,555,850",Sauk County,64420
+3155,3209.0,Niobrara,"127,318",Sawyer County,16540
+3156,3210.0,Park,"1,410,646",Shawano County,40794
+3157,3211.0,Platte,"561,748",Sheboygan County,115232
+3158,3212.0,Sheridan,"1,288,943",Taylor County,20340
+3159,3213.0,Sublette,"1,617,641",Trempealeau County,29583
+3160,3214.0,Sweetwater,"3,677,972",Vernon County,30877
+3161,3215.0,Teton,"2,268,742",Vilas County,22153
+3162,3216.0,Uinta,"881,052",Walworth County,103898
+3163,3217.0,Washakie,"349,686",Washburn County,15764
+3164,3218.0,Weston,"322,576",Washington County,136302
+3165,,,,Waukesha County,404545
+3166,,,,Waupaca County,50863
+3167,,,,Waushara County,24388
+3168,,,,Winnebago County,171801
+3169,,,,Wood County,72795
+3170,,,,Wyoming,580116
+3171,,,,Albany County,38819
+3172,,,,Big Horn County,11746
+3173,,,,Campbell County,46420
+3174,,,,Carbon County,14832
+3175,,,,Converse County,13865
+3176,,,,Crook County,7573
+3177,,,,Fremont County,39467
+3178,,,,Goshen County,13225
+3179,,,,Hot Springs County,4415
+3180,,,,Johnson County,8548
+3181,,,,Laramie County,99865
+3182,,,,Lincoln County,19934
+3183,,,,Natrona County,79734
+3184,,,,Niobrara County,2340
+3185,,,,Park County,29192
+3186,,,,Platte County,8475
+3187,,,,Sheridan County,30597
+3188,,,,Sublette County,9867
+3189,,,,Sweetwater County,42917
+3190,,,,Teton County,23385
+3191,,,,Uinta County,20196
+3192,,,,Washakie County,7824
+3193,,,,Weston County,6880
